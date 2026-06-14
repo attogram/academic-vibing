@@ -2,10 +2,10 @@
 
 Author: Attogram - https://github.com/attogram
 
+Paper: https://github.com/attogram/academic-vibing-0.1.md
+
 Repository: https://github.com/attogram/academic-vibing
 
 Contact: GitHub Issues - https://github.com/attogram/academic-vibing/issues
-
-Date: June 2026
 
 See also: https://github.com/attogram/rock-talk
