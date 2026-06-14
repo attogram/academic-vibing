@@ -8,4 +8,12 @@ Repository: https://github.com/attogram/academic-vibing
 
 Author: Attogram - https://github.com/attogram
 
-See also: https://github.com/attogram/rock-talk
+## Contents
+
+- [Paper (academic-vibing-0.1.md)](academic-vibing-0.1.md)
+- [Claims (CLAIMS.md)](CLAIMS.md)
+- [Citations (CITATIONS.md)](CITATIONS.md)
+
+## See also
+
+- [Rock Talk 0.1 Protocol](https://github.com/attogram/rock-talk)
