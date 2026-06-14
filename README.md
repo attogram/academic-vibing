@@ -1,7 +1,11 @@
-# academic-vibing
+# Academic Vibing 0.1: A Meta-Methodology for High-Speed Agentic Research and Structured Curiosity
 
-new.
+Author: Attogram - https://github.com/attogram
 
-wip.
+Repository: https://github.com/attogram/academic-vibing
 
-see: https://github.com/attogram/rock-talk
+Contact: GitHub Issues - https://github.com/attogram/academic-vibing/issues
+
+Date: June 2026
+
+See also: https://github.com/attogram/rock-talk
