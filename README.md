@@ -1,6 +1,8 @@
-# Academic Vibing 0.1: A Meta-Methodology for High-Speed Agentic Research and Structured Curiosity
+# Academic Vibing: A Meta-Methodology for High-Speed Agentic Research and Structured Curiosity
 
-Paper: https://github.com/attogram/academic-vibing/blob/main/academic-vibing-0.1.md
+Latest Paper (0.2): [academic-vibing-0.2.md](academic-vibing-0.2.md)
+
+Previous Version (0.1): [academic-vibing-0.1.md](academic-vibing-0.1.md)
 
 Contact: GitHub Issues - https://github.com/attogram/academic-vibing/issues
 
@@ -10,7 +12,8 @@ Author: Attogram - https://github.com/attogram
 
 ## Contents
 
-- [Paper (academic-vibing-0.1.md)](academic-vibing-0.1.md)
+- [Academic Vibing 0.2 (academic-vibing-0.2.md)](academic-vibing-0.2.md)
+- [Academic Vibing 0.1 (academic-vibing-0.1.md)](academic-vibing-0.1.md)
 - [Claims (CLAIMS.md)](CLAIMS.md)
 - [Citations (CITATIONS.md)](CITATIONS.md)
 
