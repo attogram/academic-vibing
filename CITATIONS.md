@@ -1,6 +1,6 @@
-# Citations: Academic Vibing 0.2
+# Citations: Academic Vibing 0.3
 
-This document lists the references and inspirations for the Academic Vibing 0.2 meta-methodology.
+This document lists the references and inspirations for the Academic Vibing meta-methodology.
 
 ## Primary References
 
@@ -20,3 +20,6 @@ This document lists the references and inspirations for the Academic Vibing 0.2 
 ## Related Works
 
 - **Attogram (2026).** *Rock Talk 0.1 Protocol Specification.* https://github.com/attogram/rock-talk
+- **GitHub (2023).** *The GitHub Development Workflow Automation Ecosystems.* arXiv:2305.04772.
+- **ACM (2024).** *CHI 2024 - Shaping Human-AI Collaboration.*
+- **Niskanen Center (2026).** *AI Vibe Research in Social Science: A Replication Study.*
