@@ -1,13 +1,29 @@
 # Academic Vibing: A Meta-Methodology for High-Speed Agentic Research and Structured Curiosity
 
-Latest Paper (0.3):
-- [Combined (Rock + Prose)](academic-vibing.0.3.md)
-- [Rock Version](academic-vibing.0.3.rock.md)
-- [Prose Version](academic-vibing.0.3.prose.md)
+### Academic Vibing (Core Paper)
 
-Previous Versions:
-- [Academic Vibing 0.2](academic-vibing-0.2.md)
-- [Academic Vibing 0.1](academic-vibing-0.1.md)
+#### Latest Version (0.3)
+- [Combined (Rock + Prose)](papers/academic-vibing/v0.3/academic-vibing.0.3.combined.md)
+- [Rock Version](papers/academic-vibing/v0.3/academic-vibing.0.3.rock.md)
+- [Prose Version](papers/academic-vibing/v0.3/academic-vibing.0.3.prose.md)
+
+#### Version 0.2
+- [Combined (Rock + Prose)](papers/academic-vibing/v0.2/academic-vibing.0.2.combined.md)
+- [Rock Version](papers/academic-vibing/v0.2/academic-vibing.0.2.rock.md)
+- [Prose Version](papers/academic-vibing/v0.2/academic-vibing.0.2.prose.md)
+
+#### Version 0.1
+- [Combined (Rock + Prose)](papers/academic-vibing/v0.1/academic-vibing.0.1.combined.md)
+- [Rock Version](papers/academic-vibing/v0.1/academic-vibing.0.1.rock.md)
+- [Prose Version](papers/academic-vibing/v0.1/academic-vibing.0.1.prose.md)
+
+### Meta-Studies
+
+#### [5 Papers in 4 Days: Here's the Receipt (v0.1)](papers/5-papers-4-days/v0.1/5-papers-4-days.0.1.combined.md)
+- [Rock Version](papers/5-papers-4-days/v0.1/5-papers-4-days.0.1.rock.md)
+- [Prose Version](papers/5-papers-4-days/v0.1/5-papers-4-days.0.1.prose.md)
+
+---
 
 Contact: GitHub Issues - https://github.com/attogram/academic-vibing/issues
 
