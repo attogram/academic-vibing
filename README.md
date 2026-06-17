@@ -1,4 +1,4 @@
-# Academic Vibing: A Meta-Methodology for High-Speed Agentic Research and Structured Curiosity
+# Academic Vibing: Structured Curiosity for Human-Agent Collaboration
 
 ### Academic Vibing (Core Paper)
 
