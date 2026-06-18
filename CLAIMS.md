@@ -13,6 +13,8 @@ This document lists the primary claims made in the Academic Vibing meta-methodol
 7.  **Voice-to-Rock Accelerator & Limits:** Voice-to-text dictation naturally enforces compression, but must be balanced against the "Token-to-Meaning Fallacy" to ensure models retain enough internal scaffolding for logic.
 8.  **Balanced Cognitive Load:** Shifting the human role to "vibe-checker" is a valid strategy for scaling research, provided the operator remains vigilant against agentic sycophancy.
 9.  **Internal Reasoning Expansion:** While maintaining external protocol compression (Rock Talk), models require internal chain-of-thought (CoT) scaffolding to maintain logical integrity for complex tasks.
+10. **Counter-Slop Mitigation:** Academic Vibing's focus on friction (CDI) and adversarial auditing explicitly mitigates the "Vibe Slop" crisis—where productivity gains are offset by unmaintainable, buggy, or insecure AI-generated artifacts.
+11. **Empirical Grounding of Velocity:** The methodology addresses the "Vibe Hangover" by replacing blind "Accept All" behavior with a structured, agentic review process that preserves the 5x-10x velocity increase observed in field studies (e.g., Kinlay 2026).
 
 ## Operational Claims
 
