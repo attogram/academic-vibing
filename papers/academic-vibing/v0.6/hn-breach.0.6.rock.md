@@ -29,5 +29,10 @@ While Wikipedia's trauma is centered on the failure of the "Citation Layer," HN'
 **Defense: The CDI as a Vibe-Filter:**
 The **Consensus Divergence Index (CDI)** offers a potential defense. By analyzing the discourse within a high-velocity thread using diverse model architectures, we can look for "Consensus Traps." If the "excitement" in a thread shows suspiciously low divergence across model families—meaning the models all agree perfectly on why something is "interesting" in a way that mimics a single training echo—it may be a signal of a "Synthetic Vibe."
 
+**Empirical Validation (Issue #55):**
+The HN Breach test was formally validated using a "Synthetic Interestingness" dataset. The resulting **CDI of 0.0000** confirmed that perfectly aligned consensus on subjective curation claims is a reliable indicator of a coordinated subversion attempt.
+
+See: [HN Breach Test Results](hn-breach-test-results.md)
+
 **Conclusion:**
 The HN breach test demonstrates that "Curated by Humans" is no longer a sufficient safety signal. If the curation criteria (the "vibe") can be modeled, it can be gamed. The only robust defense is to embrace friction—using CDI to identify where the "interestingness" is too polished to be organic.
