@@ -1,4 +1,4 @@
-# Academic Vibing: Structured Curiosity for Human-Agent Collaboration
+# Academic Vibing: One STFU 96 Hours 5 Papers
 
 ### Academic Vibing (Core Paper)
 

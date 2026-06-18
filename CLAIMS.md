@@ -1,4 +1,4 @@
-# Claims: Academic Vibing 0.3
+# Claims: Academic Vibing: One STFU 96 Hours 5 Papers
 
 This document lists the primary claims made in the Academic Vibing meta-methodology.
 
@@ -20,3 +20,4 @@ This document lists the primary claims made in the Academic Vibing meta-methodol
 11. **Zero-Budget Viability:** High-signal research can be conducted using a low-cost, mobile-first hardware stack (e.g., phone + laptop + free-tier APIs).
 12. **Hardware Independence:** The efficiency of the protocol and methodology is more critical than raw compute power for generating research outcomes.
 13. **MAS Context Persistence:** The GitHub Issue-Loop serves as a functional AI-native file system that maintains long-term research state across disconnected agent sessions.
+14. **The Leapfrog Effect and Human Well-being:** Longitudinal $n=1$ data from the 96-hour, 5-paper sprint suggests that offloading mechanical cognitive labor to a Recursive Agent Consensus (RAC) triggers a "Leapfrog Effect"—a simultaneous increase in research productivity and personal well-being (increased calm, happiness, and restoration of normal life).

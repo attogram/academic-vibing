@@ -1,4 +1,4 @@
-# 5 Papers in 4 Days: Here's the Receipt
+# Academic Vibing: One STFU 96 Hours 5 Papers: Here's the Receipt
 
 **Version:** 0.2 (Pre-Preprint)
 **Date:** October 2026

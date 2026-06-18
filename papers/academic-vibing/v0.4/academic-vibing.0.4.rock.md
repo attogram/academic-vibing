@@ -1,4 +1,4 @@
-# Academic Vibing 0.4: Scaling Agentic Research via the Consensus Divergence Index (Rock Version)
+# Academic Vibing: One STFU 96 Hours 5 Papers (Rock Version)
 
 **Author:** Attogram - https://github.com/attogram
 
@@ -102,6 +102,9 @@ Sycophancy is the bug.
 Critical load vs Mechanical.
 Human decodes friction.
 Rigor from disagreement.
+Leapfrog Effect (n=1):
++Calm, +Happy, +Productivity.
+Normal life recovered.
 ```
 
 ---

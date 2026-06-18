@@ -1,4 +1,4 @@
-# Academic Vibing 0.4: Scaling Agentic Research via the Consensus Divergence Index (Prose Version)
+# Academic Vibing: One STFU 96 Hours 5 Papers (Prose Version)
 
 **Author:** Attogram - https://github.com/attogram
 
@@ -54,6 +54,8 @@ Academic Vibing remains committed to the zero-budget ethos. The use of free-tier
 
 ### [PROSE]
 The transition from "writer" to "vibe-checker" is the core human shift in this methodology. While the MAS handles the mechanical load of synthesis and cross-examination, the human operator must remain the final arbiter of rigor. The human's primary role in 0.4 is to decode the high-CDI friction points, ensuring that the final output is not just a highly coordinated hallucination but a grounded, falsifiable breakthrough.
+
+Beyond technical rigor, the methodology demonstrates a profound **Leapfrog Effect** on the human operator. An $n=1$ longitudinal study of the protocol's primary architect during the 96-hour, 5-paper sprint reveals that by offloading mechanical cognitive labor to the RAC, the researcher experiences significant positive psychological outcomes: increased calm, increased happiness, and a return to "normal life" without sacrificing output. Productivity does not merely increase; it leapfrogs traditional constraints, allowing for high-intensity research to coexist with human well-being.
 
 ---
 
