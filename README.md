@@ -6,6 +6,7 @@
 - [Consensus Poisoning: The Bad Faith Swarm](papers/academic-vibing/v0.6/consensus-poisoning.0.6.rock.md)
 - [HN Breach: Subverting Vibe-Based Curation](papers/academic-vibing/v0.6/hn-breach.0.6.rock.md)
 - [Wikipedia Institutional Trauma Analysis](papers/academic-vibing/v0.6/wikipedia-trauma.0.6.rock.md)
+- [The Leapfrog Mechanism: Frictionless Context Transfer](papers/academic-vibing/v0.6/leapfrog-mechanism.0.6.rock.md)
 
 #### Version 0.5 - Stand-alone
 - [Combined (Rock + Prose)](papers/academic-vibing/v0.5/academic-vibing.0.5.combined.md)

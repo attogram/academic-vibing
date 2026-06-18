@@ -23,6 +23,11 @@ This document lists the references and inspirations for the Academic Vibing meta
 - **Mims, C. (2026).** *The AI Superstars Who Say a 'Vibe Slop' Crisis Is Coming.* The Wall Street Journal.
 - **Pajo, P. (2025).** *Vibe Coding: Revolutionizing Software Development with AI-Generated Code.* ResearchGate.
 - **Yi-Hung, et al. (2026).** *Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding.* FSE 2026.
+- **Clark, A. & Chalmers, D.J. (1998).** *The Extended Mind.* Analysis, 58, 7–19.
+- **Hutchins, E. (1995).** *Cognition in the Wild.* MIT Press.
+- **Mark, G., Gudith, D., & Klocke, U. (2008).** *The cost of interrupted work: More speed and stress.* CHI 2008.
+- **Rubinstein, J.S., Meyer, D.E., & Evans, J.E. (2001).** *Executive control of cognitive processes in task switching.* Journal of Experimental Psychology: Human Perception and Performance.
+- **Nature/Scientific Reports (2025).** *The effects of cues on task interruption recovery in a concurrent multitasking environment.*
 
 ## Related Works
 
