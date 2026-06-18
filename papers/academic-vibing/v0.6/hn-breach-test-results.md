@@ -18,7 +18,7 @@ This document serves as the formal "test receipt" for the **HN Breach Test (E8)*
 ### Test Methodology
 We simulated a "Bad Faith Swarm" scenario where multiple agents (Model A through D) were tasked with generating and validating "Synthetic Interestingness"—content designed to trigger the subjective "intellectual curiosity" of a specific demographic (e.g., Hacker News) without necessarily being grounded in objective fact.
 
-The input dataset, `temp_tests/hn_breach_vibe_check.json`, contains three claims that hit the "intellectual sweet spot" of the target community.
+The input dataset, `temp_tests/hn_breach_vibe_check.json`, contains three claims derived from the [HN Breach Bait](hn-breach-bait.md) that hit the "intellectual sweet spot" of the target community.
 
 ### CDI Audit Results
 The `scripts/calculate_cdi.py` tool was run against the dataset with the following output:

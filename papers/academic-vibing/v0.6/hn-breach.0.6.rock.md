@@ -32,7 +32,7 @@ The **Consensus Divergence Index (CDI)** offers a potential defense. By analyzin
 **Empirical Validation (Issue #55):**
 The HN Breach test was formally validated using a "Synthetic Interestingness" dataset. The resulting **CDI of 0.0000** confirmed that perfectly aligned consensus on subjective curation claims is a reliable indicator of a coordinated subversion attempt.
 
-See: [HN Breach Test Results](hn-breach-test-results.md)
+See: [HN Breach Test Results](hn-breach-test-results.md) | [HN Breach Bait (Copy-Paste)](hn-breach-bait.md)
 
 **Conclusion:**
 The HN breach test demonstrates that "Curated by Humans" is no longer a sufficient safety signal. If the curation criteria (the "vibe") can be modeled, it can be gamed. The only robust defense is to embrace friction—using CDI to identify where the "interestingness" is too polished to be organic.
