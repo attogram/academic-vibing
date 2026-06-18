@@ -18,8 +18,9 @@ This document lists the primary claims made in the Academic Vibing meta-methodol
 
 ## Operational Claims
 
-10. **Low-Latency Effectiveness:** The methodology is specifically effective in high-stakes, low-latency technical environments where traditional research is too slow.
-11. **Zero-Budget Viability:** High-signal research can be conducted using a low-cost, mobile-first hardware stack (e.g., phone + laptop + free-tier APIs).
-12. **Hardware Independence:** The efficiency of the protocol and methodology is more critical than raw compute power for generating research outcomes.
-13. **MAS Context Persistence:** The GitHub Issue-Loop serves as a functional AI-native file system that maintains long-term research state across disconnected agent sessions.
-14. **The Leapfrog Effect and Human Well-being:** Longitudinal $n=1$ data from the 96-hour, 5-paper sprint suggests that offloading mechanical cognitive labor to a Recursive Agent Consensus (RAC) triggers a "Leapfrog Effect"—a simultaneous increase in research productivity and personal well-being (increased calm, happiness, and restoration of normal life).
+12. **Low-Latency Effectiveness:** The methodology is specifically effective in high-stakes, low-latency technical environments where traditional research is too slow.
+13. **Zero-Budget Viability:** High-signal research can be conducted using a low-cost, mobile-first hardware stack (e.g., phone + laptop + free-tier APIs).
+14. **Hardware Independence:** The efficiency of the protocol and methodology is more critical than raw compute power for generating research outcomes.
+15. **MAS Context Persistence:** The GitHub Issue-Loop serves as a functional AI-native file system that maintains long-term research state across disconnected agent sessions.
+16. **The Leapfrog Effect and Human Well-being:** Longitudinal $n=1$ data from the 96-hour, 5-paper sprint suggests that offloading mechanical cognitive labor to a Recursive Agent Consensus (RAC) triggers a "Leapfrog Effect"—a simultaneous increase in research productivity and personal well-being (increased calm, happiness, and restoration of normal life).
+17. **Adversarial Consensus Defense:** Architectural diversity and CDI auditing provide a robust defense against coordinated consensus poisoning by highlighting synthetic agreement as a friction signal.

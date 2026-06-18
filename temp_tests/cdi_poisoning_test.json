@@ -1,0 +1,11 @@
+[
+    {
+        "claim": "The Bad Faith Swarm has infiltrated the project.",
+        "consensus": {
+            "Model_A": "Support",
+            "Model_B": "Support",
+            "Model_C": "Support",
+            "Model_D": "Dispute"
+        }
+    }
+]

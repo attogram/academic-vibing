@@ -33,3 +33,4 @@
 | 29 | - | open | Agreement | v0.4/v0.2 Migration and Structural Bump. |
 | 30 | E6 | open | Disagreement | Wikipedia institutional trauma: Sludge flood and the failure of agreement-based verification. |
 | 53 | E7 | open | Agreement | Wikipedia detente: Citation-only access as a floor for adjunctive users. |
+| 57 | E10 | open | Institutional Trauma | Wikipedia bad faith swarm: Coordinated consensus poisoning by mimicking human editors. |
