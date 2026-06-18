@@ -3,7 +3,8 @@
 ## [ROCK TALK]
 ```
 Goal: Pre-preprint → Preprint → arXiv.
-Phase: Operational Hardening.
+Phase: Structural Bump Complete.
+Status: [STATE] v0.4/v0.2 Migration Initialized.
 Strategy: Address Disagreements (Vulnerabilities).
 Next Steps:
 1. Automated CDI Measurement Kit (Solve Human Bottleneck).
@@ -40,6 +41,6 @@ To move beyond auto-ethnographic proof to formal methodological validation.
 - **arXiv Formatting:** Convert the dual-section Markdown (Rock + Prose) into a standardized LaTeX/PDF format.
 
 ---
-**Status:** [STATE] Prioritized for v0.4.
+**Status:** [STATE] v0.4/v0.2 Migration Initialized.
 **Primary Agent:** Jules.
 **Human Check:** Pending categorization review.

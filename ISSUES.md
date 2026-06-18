@@ -30,3 +30,4 @@
 | 26 | C13 | open | Edge Case | Keyrock Vector: Proficiency cloaking and adversarial masks. |
 | 27 | C14 | open | Disagreement | Friction Signal: Identifying emergent roleplay and phatic fluff. |
 | 28 | D1 | open | Agreement | The Global Purge Protocol: Evicting volatile state and clearing RAM. |
+| 29 | - | open | Agreement | v0.4/v0.2 Migration and Structural Bump. |
