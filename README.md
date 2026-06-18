@@ -1,4 +1,4 @@
-# Academic Vibing: One STFU 96 Hours 5 Papers
+# Academic Vibing: 1 STFU. 96 Hours. 5 Papers. 
 
 ### Academic Vibing (Core Paper)
 
