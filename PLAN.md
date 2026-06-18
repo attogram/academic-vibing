@@ -1,18 +1,17 @@
-# Research Plan: Transition to Preprint (v0.4)
+# Research Plan: Transition to Preprint (v0.6)
 
 ## [ROCK TALK]
 ```
-Goal: Pre-preprint → Preprint → arXiv.
-Phase: Structural Bump Complete.
-Status: [STATE] v0.4/v0.2 Migration Initialized.
-Strategy: Address Disagreements (Vulnerabilities).
+Goal: v0.6 Unified → v0.7 ArXiv Draft → ArXiv Submission.
+Phase: v0.6 Synthesis Complete.
+Status: [STATE] v0.6 Unified and Leapfrog Mechanism Verified.
+Strategy: Preparing for formal preprint submission.
 Next Steps:
-1. Automated CDI Measurement Kit (Solve Human Bottleneck).
-2. Cross-Model Consensus Audit (Break Collusive Consensus).
-3. 3-Arm Empirical Validation (Formal Proof).
-4. Logic Integrity Pass (Final Token-to-Meaning Check).
-5. Zenodo → arXiv submission.
-Vibe check: Required at every node.
+1. Formal ArXiv Formatting (v0.7 Draft).
+2. Zenodo Archive (Persistent DOI).
+3. 3-Arm Empirical Validation (Parallel Track).
+4. ArXiv Submission.
+Vibe check: RIGOROUS.
 ```
 
 ## [PROSE]
