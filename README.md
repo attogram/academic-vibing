@@ -2,7 +2,12 @@
 
 ### Academic Vibing (Core Paper)
 
-#### Latest Version (0.4)
+#### Latest Version (0.5) - Stand-alone
+- [Combined (Rock + Prose)](papers/academic-vibing/v0.5/academic-vibing.0.5.combined.md)
+- [Rock Version](papers/academic-vibing/v0.5/academic-vibing.0.5.rock.md)
+- [Prose Version](papers/academic-vibing/v0.5/academic-vibing.0.5.prose.md)
+
+#### Version 0.4
 - [Combined (Rock + Prose)](papers/academic-vibing/v0.4/academic-vibing.0.4.combined.md)
 - [Rock Version](papers/academic-vibing/v0.4/academic-vibing.0.4.rock.md)
 - [Prose Version](papers/academic-vibing/v0.4/academic-vibing.0.4.prose.md)
@@ -23,6 +28,10 @@
 - [Prose Version](papers/academic-vibing/v0.1/academic-vibing.0.1.prose.md)
 
 ### Meta-Studies
+
+#### [5 Papers in 4 Days: Here's the Receipt (v0.3)](papers/5-papers-4-days/v0.3/5-papers-4-days.0.3.combined.md) - Stand-alone
+- [Rock Version](papers/5-papers-4-days/v0.3/5-papers-4-days.0.3.rock.md)
+- [Prose Version](papers/5-papers-4-days/v0.3/5-papers-4-days.0.3.prose.md)
 
 #### [5 Papers in 4 Days: Here's the Receipt (v0.2)](papers/5-papers-4-days/v0.2/5-papers-4-days.0.2.combined.md)
 - [Rock Version](papers/5-papers-4-days/v0.2/5-papers-4-days.0.2.rock.md)
