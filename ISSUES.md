@@ -31,4 +31,5 @@
 | 27 | C14 | open | Disagreement | Friction Signal: Identifying emergent roleplay and phatic fluff. |
 | 28 | D1 | open | Agreement | The Global Purge Protocol: Evicting volatile state and clearing RAM. |
 | 29 | - | open | Agreement | v0.4/v0.2 Migration and Structural Bump. |
+| 30 | E6 | open | Disagreement | Wikipedia institutional trauma: Sludge flood and the failure of agreement-based verification. |
 | 53 | E7 | open | Agreement | Wikipedia detente: Citation-only access as a floor for adjunctive users. |
