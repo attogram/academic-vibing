@@ -33,6 +33,6 @@
 | 29 | - | open | Agreement | v0.4/v0.2 Migration and Structural Bump. |
 | 30 | E6 | open | Disagreement | Wikipedia institutional trauma: Sludge flood and the failure of agreement-based verification. |
 | 53 | E7 | open | Agreement | Wikipedia detente: Citation-only access as a floor for adjunctive users. |
-| 55 | E8 | open | Institutional Trauma | E8 a totally obvious HN breach test: Coordinated MAS subversion of vibe-based curation. |
-| 57 | E10 | open | Institutional Trauma | Wikipedia bad faith swarm: Coordinated consensus poisoning by mimicking human editors. |
-| 61 | F2 | open | Agreement | The Leapfrog Mechanism: Frictionless context transfer and re-entry cost reduction. |
+| 55 | E8 | Closed | Institutional Trauma | Integrated into v0.6. HN breach test: Coordinated MAS subversion of vibe-based curation. |
+| 57 | E10 | Closed | Institutional Trauma | Integrated into v0.6. Wikipedia bad faith swarm: Coordinated consensus poisoning. |
+| 61 | F2 | Closed | Agreement | Integrated into v0.6. The Leapfrog Mechanism: Frictionless context transfer. |

@@ -3,6 +3,10 @@
 ### Academic Vibing (Core Paper)
 
 #### Latest Version (0.6) - Focus: Consensus Poisoning & Institutional Trauma
+- [Combined (Rock + Prose)](papers/academic-vibing/v0.6/academic-vibing.0.6.combined.md)
+- [Rock Version](papers/academic-vibing/v0.6/academic-vibing.0.6.rock.md)
+- [Prose Version](papers/academic-vibing/v0.6/academic-vibing.0.6.prose.md)
+- [LaTeX Version](papers/academic-vibing/v0.6/academic-vibing.0.6.tex)
 - [Consensus Poisoning: The Bad Faith Swarm](papers/academic-vibing/v0.6/consensus-poisoning.0.6.rock.md)
 - [HN Breach: Subverting Vibe-Based Curation](papers/academic-vibing/v0.6/hn-breach.0.6.rock.md)
 - [Wikipedia Institutional Trauma Analysis](papers/academic-vibing/v0.6/wikipedia-trauma.0.6.rock.md)
