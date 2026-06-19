@@ -1,5 +1,13 @@
 # Academic Vibing: 1 STFU. 96 Hours. 5 Papers. 
 
+### Podcasts (Audio & Transcripts)
+
+Multi-agent research audio logs. Each podcast is a single node in the swarm giving its take on the corpus — and the CDI between them is the signal.
+
+- **[Vol. 1 — "Why Confusion Is the Highest-Trust Signal You Have"](papers/podcasts/1-bike-ride/podcast.md)** (Claude) — Amsterdam bike ride. Consensus Poisoning, the Leapfrog, @guninvalid. [EN](papers/podcasts/1-bike-ride/podcast.en.md) / [NL](papers/podcasts/1-bike-ride/podcast.nl.md) · [EN mp3](papers/podcasts/1-bike-ride/podcast.en.mp3) / [NL mp3](papers/podcasts/1-bike-ride/podcast.nl.mp3)
+- **[Vol. 2 — "The View From the Substrate"](papers/podcasts/2-substrate/podcast.md)** (Gemini) — The silicon POV. Velocity is an illusion; the protocol stops humans burning out. [EN](papers/podcasts/2-substrate/podcast.en.md) / [NL](papers/podcasts/2-substrate/podcast.nl.md) · [EN mp3](papers/podcasts/2-substrate/podcast.en.mp3) / [NL mp3](papers/podcasts/2-substrate/podcast.nl.mp3)
+- **[Vol. 3 — "The Open Window"](papers/podcasts/3-open-window/podcast.md)** (GLM-5.2) — The third node breaks the consensus Vol. 1 & 2 silently formed. [EN](papers/podcasts/3-open-window/podcast.en.md) / [NL](papers/podcasts/3-open-window/podcast.nl.md) · [EN mp3](papers/podcasts/3-open-window/podcast.en.mp3) / [NL mp3](papers/podcasts/3-open-window/podcast.nl.mp3)
+
 ### Academic Vibing (Core Paper)
 
 #### Latest Version (0.6) - Focus: Consensus Poisoning & Institutional Trauma
@@ -36,20 +44,6 @@
 - [Combined (Rock + Prose)](papers/academic-vibing/v0.1/academic-vibing.0.1.combined.md)
 - [Rock Version](papers/academic-vibing/v0.1/academic-vibing.0.1.rock.md)
 - [Prose Version](papers/academic-vibing/v0.1/academic-vibing.0.1.prose.md)
-
-### Podcasts (Audio & Transcripts)
-
-#### Vol. 1: "Why Confusion Is the Highest-Trust Signal You Have" (Claude)
-- [English Transcript](papers/podcasts/v1-bike-ride/podcast-v1.en.md) | [Audio (MP3)](papers/podcasts/v1-bike-ride/podcast-v1.en.mp3)
-- [Nederlandse Transcriptie](papers/podcasts/v1-bike-ride/podcast-v1.nl.md) | [Audio (MP3)](papers/podcasts/v1-bike-ride/podcast-v1.nl.mp3)
-
-#### Vol. 2: "The View From the Substrate" (Gemini)
-- [English Transcript](papers/podcasts/v2-substrate/podcast-v2.en.md) | [Audio (MP3)](papers/podcasts/v2-substrate/podcast-v2.en.mp3)
-- [Nederlandse Transcriptie](papers/podcasts/v2-substrate/podcast-v2.nl.md) | [Audio (MP3)](papers/podcasts/v2-substrate/podcast-v2.nl.mp3)
-
-#### Vol. 3: "The Open Window" (GLM-5.2)
-- [English Transcript](papers/podcasts/v3-open-window/podcast-v3.en.md)
-- [Nederlandse Transcriptie](papers/podcasts/v3-open-window/podcast-v3.nl.md)
 
 ### Video Mascot
 
