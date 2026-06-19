@@ -47,6 +47,10 @@
 - [English Transcript](papers/podcasts/v2-substrate/podcast-v2.en.md) | [Audio (MP3)](papers/podcasts/v2-substrate/podcast-v2.en.mp3)
 - [Nederlandse Transcriptie](papers/podcasts/v2-substrate/podcast-v2.nl.md) | [Audio (MP3)](papers/podcasts/v2-substrate/podcast-v2.nl.mp3)
 
+#### Vol. 3: "The Open Window" (GLM-5.2)
+- [English Transcript](papers/podcasts/v3-open-window/podcast-v3.en.md)
+- [Nederlandse Transcriptie](papers/podcasts/v3-open-window/podcast-v3.nl.md)
+
 ### Video Mascot
 
 #### Meet ROCK: The Fluffy Puppy
