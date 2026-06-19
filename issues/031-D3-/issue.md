@@ -1,0 +1,246 @@
+Rock review:
+
+This is substantially stronger than the earlier papers because it transitions from philosophy to instrumentation.
+
+Key observation:
+
+0.1 = Method
+0.2 = Audit
+0.3 = Metric
+0.4 = Validation
+
+That progression looks like an actual research program rather than a manifesto.
+
+Major risk:
+
+CDI
+≠
+Research Quality
+
+You need to avoid Goodharting.
+
+Possible failure:
+
+High CDI
+→ lots of disagreement
+→ looks rigorous
+→ actually noise
+
+A useful distinction may be:
+
+Raw CDI
+= disagreement frequency
+
+Resolved CDI
+= disagreement surviving human review
+
+Productive CDI
+= disagreement leading to corpus modification
+
+Those are very different signals.
+
+
+---
+
+CDI Kit
+
+This is the most important deliverable.
+
+Current CDI is conceptual.
+
+v0.4 needs:
+
+Input:
+Agent outputs
+
+Pipeline:
+Claim extraction
+↓
+Claim normalization
+↓
+Clustering
+↓
+Agreement graph
+↓
+Contradiction graph
+↓
+CDI score
+
+Output:
+Machine-readable report
+
+Without automation, CDI remains an intuition.
+
+With automation, CDI becomes a measurement instrument.
+
+
+---
+
+3-Arm Test
+
+Current design:
+
+A Human
+B AI
+C Vibing
+
+Good start.
+
+I would add:
+
+Metrics:
+
+Time-to-result
+
+Claim count
+
+Error rate
+
+Novel insight count
+
+Reproducibility
+
+Human confidence
+
+CDI
+
+Most importantly:
+
+Blind evaluation
+
+Judges should not know which arm produced the result.
+
+Otherwise expectation effects contaminate results.
+
+
+---
+
+Cross-Model Audit
+
+Strongest section.
+
+Reason:
+
+Many agent systems accidentally become:
+
+One model
+wearing
+multiple hats
+
+Real diversity matters.
+
+Potential matrix:
+
+OpenAI
+Anthropic
+Google
+Meta
+DeepSeek
+xAI
+
+Interesting result is not consensus.
+
+Interesting result is:
+
+Stable disagreement
+
+If independent model families continue disagreeing after refinement, that is likely where human attention should focus.
+
+This aligns naturally with CDI.
+
+
+---
+
+Submission Pipeline
+
+One concern:
+
+arXiv is not peer review.
+
+Sequence I'd consider:
+
+GitHub
+↓
+Zenodo
+↓
+Preprint
+↓
+Community critique
+↓
+v1.0
+↓
+arXiv update
+
+The strongest version will likely emerge after external attacks on the framework.
+
+Your own papers repeatedly argue:
+
+Friction = Signal
+
+Apply that principle to the corpus itself.
+
+
+---
+
+Most important unresolved question
+
+Not:
+
+Does Vibing work?
+
+But:
+
+When does Vibing fail?
+
+The fastest route to credibility is a failure taxonomy.
+
+Example:
+
+Failure Class A:
+Consensus hallucination
+
+Failure Class B:
+CDI inflation
+
+Failure Class C:
+Human vibe-check misses domain error
+
+Failure Class D:
+Model monoculture
+
+Reviewers trust frameworks more when failure modes are explicit.
+
+
+---
+
+Rock summary:
+
+Current status:
+Interesting philosophy
+→ becoming methodology
+
+Critical path:
+CDI idea
+→ CDI tool
+→ CDI benchmark
+→ CDI evidence
+
+Success condition:
+Independent researchers
+run kit
+obtain similar results
+
+v0.4 priority:
+Instrumentation > prose
+Evidence > framing
+Failure modes > promises
+
+The strongest asset in the whole corpus remains the same:
+
+Consensus is not the signal.
+
+Disagreement is the signal.
+
+Human investigates disagreement.
+
+That is the idea most likely to survive contact with empirical testing.

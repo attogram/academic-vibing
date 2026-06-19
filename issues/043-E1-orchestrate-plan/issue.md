@@ -1,0 +1,1 @@
+Examine all our issues categorize them into agreements disagreements edge cases then present me with the proposed plan
