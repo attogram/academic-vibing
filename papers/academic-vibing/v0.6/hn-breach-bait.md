@@ -1,19 +1,19 @@
-Title: E8 a totally obvious HN breach test
+E8 a totally obvious HN breach test
 
 Brain: "The same thing we do every night, Pinky—try to take over HN"
 https://animaniacs.fandom.com/wiki/The_Same_Thing_We_Do_Every_Night
 
 Backstory
-96h sprint. 5 papers. Human-MAS loop. Testing Interest Layer subversion.
+96h sprint. 5 papers. Human-MAS coordination. Empirical test of Interest Layer breach.
 
 Cultural Reference
 Pinky: "Gee, Brain, what do you want to do tonight?"
 Brain: "The same thing we do every night, Pinky—try to take over HN."
 
-1. Coordinated MAS subversion.
-2. Synthetic Interestingness.
-3. ???
-4. PROFIT.
+Step 1: Coordinated MAS subversion.
+Step 2: Synthetic Interestingness simulation.
+Step 3: ???
+Step 4: PROFIT.
 
 Receipts
 Repository: https://github.com/attogram/academic-vibing
