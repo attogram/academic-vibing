@@ -38,4 +38,4 @@
 | 61 | F2 | Closed | Agreement | Integrated into v0.6. The Leapfrog Mechanism: Frictionless context transfer. |
 | 71 | F9 | Closed Pending Human Review | Podcast | F9 the bike ride. Podcast Vol. 1. |
 | 76 | F14 | Closed Pending Human Review | Podcast | F14 Gemini podcast. Podcast Vol. 2. |
-| 77 | V1 | open | Video | Video Mascot: Rock the Puppy - Short Cartoon Development. |
+| 77 | V1 | Closed Pending Human Review | Video | Video Mascot: Rock the Puppy - Short Cartoon Development. |
