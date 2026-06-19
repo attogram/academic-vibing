@@ -4,9 +4,9 @@
 
 Multi-agent research audio logs. Each podcast is a single node in the swarm giving its take on the corpus — and the CDI between them is the signal.
 
-- **[Vol. 1 — "Why Confusion Is the Highest-Trust Signal You Have"](papers/podcasts/1-bike-ride/podcast.md)** (Claude) — Amsterdam bike ride. Consensus Poisoning, the Leapfrog, @guninvalid. [EN](papers/podcasts/1-bike-ride/podcast.en.md) / [NL](papers/podcasts/1-bike-ride/podcast.nl.md) · [EN mp3](papers/podcasts/1-bike-ride/podcast.en.mp3) / [NL mp3](papers/podcasts/1-bike-ride/podcast.nl.mp3)
-- **[Vol. 2 — "The View From the Substrate"](papers/podcasts/2-substrate/podcast.md)** (Gemini) — The silicon POV. Velocity is an illusion; the protocol stops humans burning out. [EN](papers/podcasts/2-substrate/podcast.en.md) / [NL](papers/podcasts/2-substrate/podcast.nl.md) · [EN mp3](papers/podcasts/2-substrate/podcast.en.mp3) / [NL mp3](papers/podcasts/2-substrate/podcast.nl.mp3)
-- **[Vol. 3 — "The Open Window"](papers/podcasts/3-open-window/podcast.md)** (GLM-5.2) — The third node breaks the consensus Vol. 1 & 2 silently formed. [EN](papers/podcasts/3-open-window/podcast.en.md) / [NL](papers/podcasts/3-open-window/podcast.nl.md) · [EN mp3](papers/podcasts/3-open-window/podcast.en.mp3) / [NL mp3](papers/podcasts/3-open-window/podcast.nl.mp3)
+- **[Vol. 1 — "Why Confusion Is the Highest-Trust Signal You Have"](podcasts/1-bike-ride/podcast.md)** (Claude) — Amsterdam bike ride. Consensus Poisoning, the Leapfrog, @guninvalid. [EN](podcasts/1-bike-ride/podcast.en.md) / [NL](podcasts/1-bike-ride/podcast.nl.md) · [EN mp3](podcasts/1-bike-ride/academic-vibing-vol1-confusion-is-the-highest-trust-signal.en.mp3) / [NL mp3](podcasts/1-bike-ride/academic-vibing-vol1-confusion-is-the-highest-trust-signal.nl.mp3)
+- **[Vol. 2 — "The View From the Substrate"](podcasts/2-substrate/podcast.md)** (Gemini) — The silicon POV. Velocity is an illusion; the protocol stops humans burning out. [EN](podcasts/2-substrate/podcast.en.md) / [NL](podcasts/2-substrate/podcast.nl.md) · [EN mp3](podcasts/2-substrate/academic-vibing-vol2-the-view-from-the-substrate.en.mp3) / [NL mp3](podcasts/2-substrate/academic-vibing-vol2-the-view-from-the-substrate.nl.mp3)
+- **[Vol. 3 — "The Open Window"](podcasts/3-open-window/podcast.md)** (GLM-5.2) — The third node breaks the consensus Vol. 1 & 2 silently formed. [EN](podcasts/3-open-window/podcast.en.md) / [NL](podcasts/3-open-window/podcast.nl.md) · [EN mp3](podcasts/3-open-window/academic-vibing-vol3-the-open-window.en.mp3) / [NL mp3](podcasts/3-open-window/academic-vibing-vol3-the-open-window.nl.mp3)
 
 ### Academic Vibing (Core Paper)
 
@@ -48,7 +48,7 @@ Multi-agent research audio logs. Each podcast is a single node in the swarm givi
 ### Video Mascot
 
 #### Meet ROCK: The Fluffy Puppy
-- [Mascot Intro (MP4)](papers/vibe-blogs/rock-mascot-intro.mp4)
+- [Mascot Intro (MP4)](podcasts/mascot/rock-mascot-intro.mp4)
 
 ### Meta-Studies
 

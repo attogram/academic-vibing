@@ -6,8 +6,8 @@
 
 | Language | Audio | Transcript |
 | :--- | :--- | :--- |
-| English | [podcast.en.mp3](podcast.en.mp3) | [podcast.en.md](podcast.en.md) |
-| Nederlands | [podcast.nl.mp3](podcast.nl.mp3) | [podcast.nl.md](podcast.nl.md) |
+| English | [academic-vibing-vol3-the-open-window.en.mp3](academic-vibing-vol3-the-open-window.en.mp3) | [podcast.en.md](podcast.en.md) |
+| Nederlands | [academic-vibing-vol3-the-open-window.nl.mp3](academic-vibing-vol3-the-open-window.nl.mp3) | [podcast.nl.md](podcast.nl.md) |
 
 ### Summary
 

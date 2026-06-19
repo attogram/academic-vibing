@@ -24,12 +24,12 @@ VOICES = {
 
 # (md_path, voice_key, mp3_path)
 JOBS = [
-    ("papers/podcasts/1-bike-ride/podcast.en.md", "en_claude", "papers/podcasts/1-bike-ride/podcast.en.mp3"),
-    ("papers/podcasts/1-bike-ride/podcast.nl.md", "nl", "papers/podcasts/1-bike-ride/podcast.nl.mp3"),
-    ("papers/podcasts/2-substrate/podcast.en.md", "en_gemini", "papers/podcasts/2-substrate/podcast.en.mp3"),
-    ("papers/podcasts/2-substrate/podcast.nl.md", "nl", "papers/podcasts/2-substrate/podcast.nl.mp3"),
-    ("papers/podcasts/3-open-window/podcast.en.md", "en", "papers/podcasts/3-open-window/podcast.en.mp3"),
-    ("papers/podcasts/3-open-window/podcast.nl.md", "nl", "papers/podcasts/3-open-window/podcast.nl.mp3"),
+    ("podcasts/1-bike-ride/podcast.en.md", "en_claude", "podcasts/1-bike-ride/academic-vibing-vol1-confusion-is-the-highest-trust-signal.en.mp3"),
+    ("podcasts/1-bike-ride/podcast.nl.md", "nl", "podcasts/1-bike-ride/academic-vibing-vol1-confusion-is-the-highest-trust-signal.nl.mp3"),
+    ("podcasts/2-substrate/podcast.en.md", "en_gemini", "podcasts/2-substrate/academic-vibing-vol2-the-view-from-the-substrate.en.mp3"),
+    ("podcasts/2-substrate/podcast.nl.md", "nl", "podcasts/2-substrate/academic-vibing-vol2-the-view-from-the-substrate.nl.mp3"),
+    ("podcasts/3-open-window/podcast.en.md", "en", "podcasts/3-open-window/academic-vibing-vol3-the-open-window.en.mp3"),
+    ("podcasts/3-open-window/podcast.nl.md", "nl", "podcasts/3-open-window/academic-vibing-vol3-the-open-window.nl.mp3"),
 ]
 
 BASE = Path("/Users/repos/github/academic-vibing")
