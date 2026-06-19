@@ -36,3 +36,5 @@
 | 55 | E8 | Closed | Institutional Trauma | Integrated into v0.6. HN breach test: Coordinated MAS subversion of vibe-based curation. |
 | 57 | E10 | Closed | Institutional Trauma | Integrated into v0.6. Wikipedia bad faith swarm: Coordinated consensus poisoning. |
 | 61 | F2 | Closed | Agreement | Integrated into v0.6. The Leapfrog Mechanism: Frictionless context transfer. |
+| 71 | F9 | Closed Pending Human Review | Audio | F9 the bike ride. Vibe Blog Vol. 1. |
+| 76 | F14 | Closed Pending Human Review | Audio | F14 Gemini voice blog. Vibe Blog Vol. 2. |
