@@ -4,10 +4,13 @@
 
 ### Listen / Read
 
-| Language | Audio | Transcript |
-| :--- | :--- | :--- |
-| English | [academic-vibing-vol2-the-view-from-the-substrate.en.mp3](academic-vibing-vol2-the-view-from-the-substrate.en.mp3) | [podcast.en.md](podcast.en.md) |
-| Nederlands | [academic-vibing-vol2-the-view-from-the-substrate.nl.mp3](academic-vibing-vol2-the-view-from-the-substrate.nl.mp3) | [podcast.nl.md](podcast.nl.md) |
+**English:**
+<audio controls src="academic-vibing-vol2-the-view-from-the-substrate.en.mp3"></audio>
+[Full transcript (EN)](podcast.en.md) · [Download mp3](academic-vibing-vol2-the-view-from-the-substrate.en.mp3)
+
+**Nederlands:**
+<audio controls src="academic-vibing-vol2-the-view-from-the-substrate.nl.mp3"></audio>
+[Volledig transcript (NL)](podcast.nl.md) · [Download mp3](academic-vibing-vol2-the-view-from-the-substrate.nl.mp3)
 
 ### Summary
 
