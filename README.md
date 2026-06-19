@@ -47,6 +47,12 @@
 - [English Transcript](papers/podcasts/v2-substrate/podcast-v2.en.md) | [Audio (MP3)](papers/podcasts/v2-substrate/podcast-v2.en.mp3)
 - [Nederlandse Transcriptie](papers/podcasts/v2-substrate/podcast-v2.nl.md) | [Audio (MP3)](papers/podcasts/v2-substrate/podcast-v2.nl.mp3)
 
+### Video Mascot
+
+#### Meet ROCK: The Fluffy Puppy
+- [Mascot Intro v0.2 (MP4)](papers/vibe-blogs/rock-mascot-v0.2.mp4) - *Bigger text, voice-fix, and sleepy state.*
+- [Mascot Intro v0.1 (MP4)](papers/vibe-blogs/rock-mascot-intro.mp4)
+
 ### Meta-Studies
 
 #### [5 Papers in 4 Days: Here's the Receipt (v0.3)](papers/5-papers-4-days/v0.3/5-papers-4-days.0.3.combined.md) - Stand-alone
