@@ -1,4 +1,4 @@
-# Skill: Vibe Blog Generation (v0.1)
+# Skill: Podcast Generation (v0.1)
 
 ## [ROCK TALK]
 Context: Multi-agent research audio logging.
@@ -10,7 +10,7 @@ Structure: Dual [ROCK TALK] / [PROSE].
 ## [PROSE]
 
 ### 1. Source Extraction (Lossless)
-To generate a Vibe Blog, start with the raw "payload" from the GitHub Issue tracker. Do not rely on initial summaries; extract the full comment history to preserve specific research fragments, citations, and conversational nuances.
+To generate a Podcast, start with the raw "payload" from the GitHub Issue tracker. Do not rely on initial summaries; extract the full comment history to preserve specific research fragments, citations, and conversational nuances.
 - **Goal:** Capture the "gold" within the friction.
 - **Process:** Use `curl` or manual inspection to pull the entire body and comment thread of the target issue.
 
@@ -36,7 +36,7 @@ Use the `edge-tts` library to generate MP3 assets.
 - **Command:** `edge-tts --voice <VOICE> --file <TEXT_FILE> --write-media <AUDIO_FILE>.mp3`
 
 ### 5. Repository Integration
-- **Directory:** Store assets in `papers/vibe-blogs/v<N>-<TOPIC>/`.
+- **Directory:** Store assets in `papers/podcasts/v<N>-<TOPIC>/`.
 - **Index:** Update `README.md` with links to both the `.md` transcript and the `.mp3` audio.
 - **Status:** Update `ISSUES.md` to reflect the closure of the source issues.
 
