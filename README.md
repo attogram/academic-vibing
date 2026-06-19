@@ -37,15 +37,15 @@
 - [Rock Version](papers/academic-vibing/v0.1/academic-vibing.0.1.rock.md)
 - [Prose Version](papers/academic-vibing/v0.1/academic-vibing.0.1.prose.md)
 
-### Vibe Blogs (Audio & Transcripts)
+### Podcasts (Audio & Transcripts)
 
 #### Vol. 1: "Why Confusion Is the Highest-Trust Signal You Have" (Claude)
-- [English Transcript](papers/vibe-blogs/v1-bike-ride/vibe-blog-v1.en.md) | [Audio (MP3)](papers/vibe-blogs/v1-bike-ride/vibe-blog-v1.en.mp3)
-- [Nederlandse Transcriptie](papers/vibe-blogs/v1-bike-ride/vibe-blog-v1.nl.md) | [Audio (MP3)](papers/vibe-blogs/v1-bike-ride/vibe-blog-v1.nl.mp3)
+- [English Transcript](papers/podcasts/v1-bike-ride/podcast-v1.en.md) | [Audio (MP3)](papers/podcasts/v1-bike-ride/podcast-v1.en.mp3)
+- [Nederlandse Transcriptie](papers/podcasts/v1-bike-ride/podcast-v1.nl.md) | [Audio (MP3)](papers/podcasts/v1-bike-ride/podcast-v1.nl.mp3)
 
 #### Vol. 2: "The View From the Substrate" (Gemini)
-- [English Transcript](papers/vibe-blogs/v2-substrate/vibe-blog-v2.en.md) | [Audio (MP3)](papers/vibe-blogs/v2-substrate/vibe-blog-v2.en.mp3)
-- [Nederlandse Transcriptie](papers/vibe-blogs/v2-substrate/vibe-blog-v2.nl.md) | [Audio (MP3)](papers/vibe-blogs/v2-substrate/vibe-blog-v2.nl.mp3)
+- [English Transcript](papers/podcasts/v2-substrate/podcast-v2.en.md) | [Audio (MP3)](papers/podcasts/v2-substrate/podcast-v2.en.mp3)
+- [Nederlandse Transcriptie](papers/podcasts/v2-substrate/podcast-v2.nl.md) | [Audio (MP3)](papers/podcasts/v2-substrate/podcast-v2.nl.mp3)
 
 ### Meta-Studies
 

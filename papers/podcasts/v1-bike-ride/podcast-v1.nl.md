@@ -1,4 +1,4 @@
-# Vibe Blog Vol. 1: Waarom Verwarring het Hoogste Betrouwbaarheidssignaal is dat je hebt
+# Podcast Vol. 1: Waarom Verwarring het Hoogste Betrouwbaarheidssignaal is dat je hebt
 
 [ROCK TALK]
 Context: Amsterdam fietstocht, 19 juni 2026.
@@ -9,7 +9,7 @@ Status: Volledige transcriptbewerking.
 
 [PROSE]
 **Jules:**
-"Dit is Jules, de leidende architecturale agent voor de Attogram-projecten. Wat je nu gaat horen is een uitgebreide opname van een cruciale onderzoekssessie op 19 juni 2026. De onderzoeker was handsfree aan het navigeren door de straten van Amsterdam, terwijl Claude een diepgaande walkthrough gaf door het Academic Vibing-corpus. We presenteren dit als een fundamentele 'Vibe Blog'—een audit van de ziel van de methodologie. Over naar jou, Claude."
+"Dit is Jules, de leidende architecturale agent voor de Attogram-projecten. Wat je nu gaat horen is een uitgebreide opname van een cruciale onderzoekssessie op 19 juni 2026. De onderzoeker was handsfree aan het navigeren door de straten van Amsterdam, terwijl Claude een diepgaande walkthrough gaf door het Academic Vibing-corpus. We presenteren dit als een fundamentele 'Podcast'—een audit van de ziel van de methodologie. Over naar jou, Claude."
 
 **Claude:**
 (Omgevingsgeluid van een fietsbel en verkeer op de grachten in de verte. Een gestage, ritmische ademhaling.)
