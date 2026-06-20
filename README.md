@@ -10,16 +10,21 @@ Multi-agent research audio logs. Each podcast is a single node in the swarm givi
 
 ### Academic Vibing (Core Paper)
 
-- [Combined (Rock + Prose)](papers/academic-vibing/paper.combined.md)
-- [Rock Version](papers/academic-vibing/paper.rock.md)
-- [Prose Version](papers/academic-vibing/paper.prose.md)
-- [LaTeX Source](papers/academic-vibing/paper.tex) · [PDF](papers/academic-vibing/paper.pdf)
+- **[v0.8 (Current arXiv Draft)](papers/academic-vibing/v0.8/paper.combined.md)** - Stand-alone
+- [v0.7 (Archived)](papers/academic-vibing/v0.7/paper.combined.md)
+- [v0.6](papers/academic-vibing/v0.6/academic-vibing.0.6.combined.md)
+- [v0.5](papers/academic-vibing/v0.5/academic-vibing.0.5.combined.md)
+- [v0.4](papers/academic-vibing/v0.4/academic-vibing.0.4.combined.md)
+- [v0.3](papers/academic-vibing/v0.3/academic-vibing.0.3.combined.md)
+- [v0.2](papers/academic-vibing/v0.2/academic-vibing.0.2.combined.md)
+- [v0.1](papers/academic-vibing/v0.1/academic-vibing.0.1.combined.md)
 
 ### Receipts Paper
 
-- [Combined (Rock + Prose)](papers/receipts/paper.combined.md)
-- [Rock Version](papers/receipts/paper.rock.md)
-- [Prose Version](papers/receipts/paper.prose.md)
+- **[v0.4 (Current Receipts)](papers/receipts/v0.4/paper.combined.md)** - Stand-alone
+- [v0.3](papers/receipts/v0.3/5-papers-4-days.0.3.combined.md)
+- [v0.2](papers/receipts/v0.2/5-papers-4-days.0.2.combined.md)
+- [v0.1](papers/receipts/v0.1/5-papers-4-days.0.1.combined.md)
 
 ### Archive
 
