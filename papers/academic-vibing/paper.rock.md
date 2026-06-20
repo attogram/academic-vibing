@@ -1,4 +1,4 @@
-# Academic Vibing 0.7: Consensus Poisoning and the Leapfrog Mechanism (Rock Version)
+# Academic Vibing: Structured Curiosity for Human-Agent Collaboration (Rock Version)
 
 Version: 0.7 (arXiv Draft)
 Date: June 2026

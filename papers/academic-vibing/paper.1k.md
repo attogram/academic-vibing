@@ -1,4 +1,4 @@
-# Academic Vibing 0.7 (1k context)
+# Academic Vibing: Structured Curiosity for Human-Agent Collaboration (1k context)
 
 CDI: disagreement = signal. Agreement = bias.
 Issue-Loop: GitHub memory. Leapfrog: drop-grab-continue. 23min->3min.

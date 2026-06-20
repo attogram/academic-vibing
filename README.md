@@ -1,4 +1,4 @@
-# Academic Vibing: 1 STFU. 96 Hours. 5 Papers. 
+# Academic Vibing: Structured Curiosity for Human-Agent Collaboration
 
 ### Podcasts (Audio & Transcripts)
 

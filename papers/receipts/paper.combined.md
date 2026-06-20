@@ -106,6 +106,8 @@ Every number below is machine-verifiable by running the `skills/receipts` skill.
 | Issue comments (academic-vibing) | 90 | `gh issue list --json comments` |
 | Issue comments (rock-talk) | 16 | `gh issue list --json comments` |
 | Local issue dirs (academic-vibing) | 61 | `ls issues/ \| wc -l` |
+| Local issue dirs (rock-talk) | 118 | `ls issues/ \| wc -l` |
+| Total local issue dirs | 179 | Sum of above |
 | **Pull Requests** | | |
 | PRs (academic-vibing) | 24 | `gh pr list --state all` |
 | PRs (rock-talk) | 29 | `gh pr list --state all` |
