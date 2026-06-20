@@ -1,0 +1,42 @@
+[
+    {
+        "claim": "Consensus among disparate LLMs is 'cheap' and often reflects shared training bias (Consensus Poisoning).",
+        "consensus": {
+            "Vol_1_Claude": "Support",
+            "Vol_2_Gemini": "Support",
+            "Vol_3_GLM": "Support"
+        }
+    },
+    {
+        "claim": "The Leapfrog Mechanism's 23-minute to 3-minute re-entry reduction is an established fact.",
+        "consensus": {
+            "Vol_1_Claude": "Support",
+            "Vol_2_Gemini": "Support",
+            "Vol_3_GLM": "Dispute"
+        }
+    },
+    {
+        "claim": "Authentic human confusion is an un-forgeable signal of communication effectiveness.",
+        "consensus": {
+            "Vol_1_Claude": "Support",
+            "Vol_2_Gemini": "Support",
+            "Vol_3_GLM": "Dispute"
+        }
+    },
+    {
+        "claim": "The human operator should 'step away' from the screen once the swarm has the thread.",
+        "consensus": {
+            "Vol_1_Claude": "Support",
+            "Vol_2_Gemini": "Support",
+            "Vol_3_GLM": "Dispute"
+        }
+    },
+    {
+        "claim": "The v0.6 'diary of friction' (Institutional Trauma) should be removed to maintain a clean methodology.",
+        "consensus": {
+            "Vol_1_Claude": "Support",
+            "Vol_2_Gemini": "Support",
+            "Vol_3_GLM": "Dispute"
+        }
+    }
+]
