@@ -17,9 +17,9 @@ Multi-agent research audio logs. Each podcast is a single node in the swarm givi
 
 ### Receipts Paper
 
-- [Combined (Rock + Prose)](papers/5-papers-4-days/paper.combined.md)
-- [Rock Version](papers/5-papers-4-days/paper.rock.md)
-- [Prose Version](papers/5-papers-4-days/paper.prose.md)
+- [Combined (Rock + Prose)](papers/receipts/paper.combined.md)
+- [Rock Version](papers/receipts/paper.rock.md)
+- [Prose Version](papers/receipts/paper.prose.md)
 
 ### Archive
 
@@ -37,9 +37,9 @@ Tangential papers not required for arXiv submission. Available in `papers/archiv
 
 ### Meta-Studies
 
-#### [5 Papers in 4 Days: Here's the Receipt (v0.3)](papers/5-papers-4-days/v0.3/5-papers-4-days.0.3.combined.md) - Stand-alone
-- [Rock Version](papers/5-papers-4-days/v0.3/5-papers-4-days.0.3.rock.md)
-- [Prose Version](papers/5-papers-4-days/v0.3/5-papers-4-days.0.3.prose.md)
+#### [5 Papers in 4 Days: Here's the Receipt (v0.3)](papers/receipts/v0.3/5-papers-4-days.0.3.combined.md) - Stand-alone
+- [Rock Version](papers/receipts/v0.3/5-papers-4-days.0.3.rock.md)
+- [Prose Version](papers/receipts/v0.3/5-papers-4-days.0.3.prose.md)
 
 ---
 

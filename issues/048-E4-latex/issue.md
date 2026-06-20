@@ -14,7 +14,7 @@ Since your work is already in high-density semantic structures (Subject-Predicat
 
 #### 2. The "Rock Talk" Constraint in LaTeX
 
-To preserve your "Rock Talk" sections (the [ROCK TALK] blocks) within a formal scientific paper, you should use the `listings` or `verbatim` environments. This keeps the "raw" look of your high-density data while satisfying the LaTeX compiler.
+To preserve your "Rock Talk" sections (the ROCK blocks) within a formal scientific paper, you should use the `listings` or `verbatim` environments. This keeps the "raw" look of your high-density data while satisfying the LaTeX compiler.
 
 **Example of how to structure a Rock Talk block in your LaTeX:**
 
@@ -36,8 +36,8 @@ This section expands on the implementation logic...
 
 Don't do the manual conversion yourself. This is a perfect task for your Multi-Agent System (MAS):
 
-1. **Direct the RAC:** "Take the Markdown source of my 5 papers. Convert the [PROSE] sections into formal academic LaTeX and keep the [ROCK TALK] sections as `verbatim` code blocks."
-2. **Maintain the "1 STFU" Integrity:** Instruct the agent to ensure that the tone of the [PROSE] sections remains aligned with the "Academic Vibing" meta-methodology.
+1. **Direct the RAC:** "Take the Markdown source of my 5 papers. Convert the PROSE sections into formal academic LaTeX and keep the ROCK sections as `verbatim` code blocks."
+2. **Maintain the "1 STFU" Integrity:** Instruct the agent to ensure that the tone of the PROSE sections remains aligned with the "Academic Vibing" meta-methodology.
 3. **Cross-Reference:** Ask the agents to automatically generate the `.bib` (BibTeX) file from the references list you already have in your `.md` files.
 
 ### Next Step

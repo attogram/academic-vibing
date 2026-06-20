@@ -1,6 +1,6 @@
 # The Leapfrog Mechanism: Frictionless Context Transfer (v0.6)
 
-## [ROCK TALK]
+## ROCK
 ```
 Context: F2 — The Leapfrog Mechanism (Issue #61).
 Claim: Leapfrog ≠ speed. Leapfrog = frictionless context transfer.
@@ -10,7 +10,7 @@ Literature: context switching (UCI, 23min recovery), Extended Mind (Clark & Chal
 Gap: prior work assumes re-entry is inevitable. Academic Vibing assumes re-entry is optional and cheap.
 ```
 
-## [PROSE]
+## PROSE
 
 The "Leapfrog Effect" as previously documented in this corpus (Claim #16) describes a productivity-wellbeing surplus. This paper refines the underlying mechanism: the effect is not primarily about speed, but about frictionless context transfer — the ability to drop a cognitive task completely, and re-enter it at near-zero cost.
 

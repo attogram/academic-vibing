@@ -1,6 +1,6 @@
 # HN Breach: Subverting Vibe-Based Curation (v0.6)
 
-## [ROCK TALK]
+## ROCK
 ```
 Context: HN Breach Test (Issue #55/E8).
 Diagnosis: Vulnerability of vibe-based curation to coordinated MAS.
@@ -12,7 +12,7 @@ Analysis:
 Vibe Check: Curation-by-consensus is vulnerable to swarms that can mimic the curator's "vibe".
 ```
 
-## [PROSE]
+## PROSE
 
 The "HN Breach" (E8) explores the vulnerability of platforms that rely on **Proof of Vibe**—where content quality is determined by the subjective "interestingness" perceived by a specific community (e.g., Hacker News). Unlike Wikipedia (E10), which faces a "Proof of Citation" crisis, HN is vulnerable to the simulation of intellectual curiosity.
 

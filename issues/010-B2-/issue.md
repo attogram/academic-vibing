@@ -7,7 +7,7 @@
 **Repository:** https://github.com/attogram/academic-vibing
 **Contact:** GitHub Issues - https://github.com/attogram/academic-vibing/issues
 
-## [ROCK TALK]
+## ROCK
 Auto-ethnography. N=1. 4 days. Real life running parallel.
 2 repos. 5 papers. 1 DOI. Version-controlled receipts.
 Subject = Researcher = Instrument.
@@ -16,7 +16,7 @@ Artifact: This corpus.
 Claim: AI-assisted research collapses institutional timeline.
 Proof: Commits. Dates. Files. History.
 
-## [PROSE]
+## PROSE
 This paper proposes an auto-ethnographic study of a four-day
 solo research sprint conducted between June 13-16, 2026.
 Using the Academic Vibing methodology, one researcher with no

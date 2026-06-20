@@ -15,7 +15,7 @@ Literature: context switching (UCI, 23min recovery), Extended Mind (Clark & Chal
 Gap: prior work assumes re-entry is inevitable. Academic Vibing assumes re-entry is optional and cheap.
 ```
 
-**[PROSE]**
+**PROSE**
 
 The "Leapfrog Effect" as previously documented in this corpus (Claim #16) describes a productivity-wellbeing surplus. This issue refines the underlying mechanism: the effect is not primarily about speed, but about **frictionless context transfer** — the ability to drop a cognitive task completely, and re-enter it at near-zero cost.
 

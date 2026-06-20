@@ -1,16 +1,14 @@
-# Academic Vibing 0.6: Consensus Poisoning and the Leapfrog Mechanism
+# Academic Vibing 0.7: Consensus Poisoning and the Leapfrog Mechanism
 
-**Author:** Attogram - https://github.com/attogram
-
-**Repository:** https://github.com/attogram/academic-vibing
-
-**Contact:** GitHub Issues - https://github.com/attogram/academic-vibing/issues
-
-**Date:** November 2026
+Version: 0.7 (arXiv Draft)
+Date: June 2026
+Author: Attogram - https://github.com/attogram
+Repository: https://github.com/attogram/academic-vibing
+Contact: GitHub Issues - https://github.com/attogram/academic-vibing/issues
 
 ## Abstract
 
-### [ROCK TALK]
+### ROCK
 ```
 Academic Vibing 0.6.
 Core: CDI (Consensus Divergence Index).
@@ -21,14 +19,14 @@ Vibe check is primary human task.
 Productivity + Wellbeing Surplus.
 ```
 
-### [PROSE]
+### PROSE
 Academic Vibing 0.6 represents the maturation of a rapid-iteration research methodology designed for the era of Large Language Models (LLMs) and autonomous agents. This version formalizes the **Consensus Divergence Index (CDI)** as the primary metric for research signaling and introduces the **Leapfrog Mechanism** — the ability to drop and re-enter research contexts at near-zero cost. By integrating foundational principles of "Structured Curiosity" with adversarial rigor, version 0.6 provides a robust framework for defending against "Consensus Poisoning" and "Synthetic Interestingness" while maintaining a significant productivity and wellbeing surplus for the human operator.
 
 ---
 
 ## 1. Introduction: The Academic Vibing Framework
 
-### [ROCK TALK]
+### ROCK
 ```
 Academic Vibing.
 Meta-methodology for agent research.
@@ -40,7 +38,7 @@ Measure where models fight.
 Friction = Truth boundary.
 ```
 
-### [PROSE]
+### PROSE
 Academic Vibing is a meta-methodology that occupies the middle ground between formal academic research and casual brainstorming. It prioritizes rapid, AI-assisted iteration where rigor emerges through recursive agent consensus and high-frequency feedback loops.
 
 The evolution of Academic Vibing has moved from the sheer speed of initial discovery to adversarial validation. Version 0.6 treats model disagreement not as a failure, but as a diagnostic signal. By measuring the exact semantic boundaries where frontier models diverge—the Consensus Divergence Index—we can identify the logical weak points of a hypothesis with mathematical precision.
@@ -49,7 +47,7 @@ The evolution of Academic Vibing has moved from the sheer speed of initial disco
 
 ## 2. Methodology: The RAC with CDI
 
-### [ROCK TALK]
+### ROCK
 ```
 RAC: Recursive Agent Consensus.
 Multiple disparate models (Jules, Gemini, Claude).
@@ -61,7 +59,7 @@ Low CDI = Shared Bias? (Consensus Trap).
 Human decodes High CDI.
 ```
 
-### [PROSE]
+### PROSE
 The methodology is centered on the **Recursive Agent-Based Consensus Network (RAC)**. In this framework, multiple disparate LLM agents (e.g., Jules, Gemini, Claude) are deployed to explore a problem space from multiple perspectives. Consensus among these models serves as a proxy for peer review, while disagreement indicates areas requiring human intervention.
 
 Version 0.6 mandates the formal calculation of the **Consensus Divergence Index (CDI)**.
@@ -72,7 +70,7 @@ Version 0.6 mandates the formal calculation of the **Consensus Divergence Index 
 
 ## 3. The AI-Native Issue-Loop: Structural Schema
 
-### [ROCK TALK]
+### ROCK
 ```
 GitHub Issue-Loop = External Memory.
 Persistent public audit trail.
@@ -83,7 +81,7 @@ State Persistence:
 Enables headless MAS coordination.
 ```
 
-### [PROSE]
+### PROSE
 To scale agentic research beyond ephemeral chat sessions, Academic Vibing utilizes the **GitHub Issue-Loop** as the project's externalized long-term memory. By utilizing GitHub issues as a persistent, public log, the methodology creates a transparent audit trail of the research process.
 
 Version 0.6 formalizes this as a persistent state machine using a standardized structural schema:
@@ -97,7 +95,7 @@ This structure allows the Multi-Agent System (MAS) to maintain long-term researc
 
 ## 4. Solving the Token-to-Meaning Fallacy
 
-### [ROCK TALK]
+### ROCK
 ```
 Rock Talk protocol: Minimalist/High-signal.
 "Token-to-Meaning Fallacy": Over-compression chokes CoT.
@@ -110,7 +108,7 @@ External: Dense Rock.
 Preserves logic + bandwidth.
 ```
 
-### [PROSE]
+### PROSE
 Academic Vibing leverages the **Rock Talk** protocol—a high-signal, minimalist communication style designed to maximize intent density. However, a major discovery in the development of the protocol was the "Token-to-Meaning Fallacy"—the risk that over-compressing communication chokes a model's internal reasoning.
 
 Version 0.6 solves this by distinguishing between **Instructional Transfer** (Communication) and **Cognitive Processing** (Reasoning). Models are encouraged to use "Internal Reasoning Expansion" (Chain-of-Thought) for computation, while maintaining strict "External Protocol Compression" (Rock Talk) for communication between agents and humans.
@@ -119,7 +117,7 @@ Version 0.6 solves this by distinguishing between **Instructional Transfer** (Co
 
 ## 5. Hardware, Cost, and Accessibility
 
-### [ROCK TALK]
+### ROCK
 ```
 Zero budget constraint.
 Phone + MacBook.
@@ -128,14 +126,14 @@ Forces intent density.
 Protocol > Compute.
 ```
 
-### [PROSE]
+### PROSE
 Academic Vibing remains committed to the zero-budget ethos. The use of free-tier APIs and mobile-first hardware is a deliberate cognitive constraint. It ensures that research quality is derived from the strength of the protocol and the efficiency of the workflow, rather than raw computational power or institutional access.
 
 ---
 
 ## 6. Discussion: The Human Vibe-Checker and the Leapfrog Mechanism
 
-### [ROCK TALK]
+### ROCK
 ```
 Context: F2 — The Leapfrog Mechanism.
 Claim: Leapfrog ≠ speed. Leapfrog = frictionless context transfer.
@@ -147,7 +145,7 @@ Rigor from disagreement.
 Leapfrog Effect: Wellbeing Surplus.
 ```
 
-### [PROSE]
+### PROSE
 The transition from "writer" to "vibe-checker" is the core human shift in this methodology. While the MAS handles the mechanical load of synthesis and cross-examination, the human operator must remain the final arbiter of rigor.
 
 The "Leapfrog Effect" as documented in this corpus (Claim #16) describes a productivity-wellbeing surplus. This paper refines the underlying mechanism: the effect is not primarily about speed, but about frictionless context transfer — the ability to drop a cognitive task completely, and re-enter it at near-zero cost.
@@ -169,7 +167,7 @@ The wellbeing surplus of the Leapfrog Effect is causally downstream of re-entry 
 
 ## 7. Conclusion and Future Work
 
-### [ROCK TALK]
+### ROCK
 ```
 0.6 is consolidated.
 CDI is the new metric.
@@ -179,14 +177,14 @@ Zenodo DOI generation.
 Stay skeptical.
 ```
 
-### [PROSE]
+### PROSE
 Academic Vibing 0.6 represents the consolidation of high-speed iteration with adversarial rigor and cognitive freedom. By formalizing CDI and the Leapfrog Mechanism, we have created a robust framework for independent researchers to operate at silicon speed without sacrificing intellectual integrity or personal wellbeing. Future work will focus on formalizing these results through arXiv submission and Zenodo archiving to ensure stable, citeable DOIs for the corpus.
 
 ---
 
 ## 8. Adversarial Rigor and Institutional Trauma
 
-### [ROCK TALK]
+### ROCK
 ```
 Context: Wikipedia/HN Institutional Trauma (E8/E10).
 Diagnosis: "Bad Faith Swarm" mimicry.
@@ -197,7 +195,7 @@ Analysis:
 Vibe Check: Simple agreement is no longer a safety signal.
 ```
 
-### [PROSE]
+### PROSE
 The "institutional trauma" experienced by platforms like Wikipedia and Hacker News represents the inevitable result of Verifiability-based or Vibe-based systems encountering probability-based content engines.
 
 #### Wikipedia and the Citation Layer (E10)

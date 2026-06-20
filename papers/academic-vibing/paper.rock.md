@@ -1,16 +1,14 @@
-# Academic Vibing 0.6: Consensus Poisoning and the Leapfrog Mechanism (Rock Version)
+# Academic Vibing 0.7: Consensus Poisoning and the Leapfrog Mechanism (Rock Version)
 
-**Author:** Attogram - https://github.com/attogram
-
-**Repository:** https://github.com/attogram/academic-vibing
-
-**Contact:** GitHub Issues - https://github.com/attogram/academic-vibing/issues
-
-**Date:** November 2026
+Version: 0.7 (arXiv Draft)
+Date: June 2026
+Author: Attogram - https://github.com/attogram
+Repository: https://github.com/attogram/academic-vibing
+Contact: GitHub Issues - https://github.com/attogram/academic-vibing/issues
 
 ## Abstract
 
-### [ROCK TALK]
+### ROCK
 ```
 Academic Vibing 0.6.
 Core: CDI (Consensus Divergence Index).
@@ -25,7 +23,7 @@ Productivity + Wellbeing Surplus.
 
 ## 1. Introduction: The Academic Vibing Framework
 
-### [ROCK TALK]
+### ROCK
 ```
 Academic Vibing.
 Meta-methodology for agent research.
@@ -41,7 +39,7 @@ Friction = Truth boundary.
 
 ## 2. Methodology: The RAC with CDI
 
-### [ROCK TALK]
+### ROCK
 ```
 RAC: Recursive Agent Consensus.
 Multiple disparate models (Jules, Gemini, Claude).
@@ -57,7 +55,7 @@ Human decodes High CDI.
 
 ## 3. The AI-Native Issue-Loop: Structural Schema
 
-### [ROCK TALK]
+### ROCK
 ```
 GitHub Issue-Loop = External Memory.
 Persistent public audit trail.
@@ -72,7 +70,7 @@ Enables headless MAS coordination.
 
 ## 4. Solving the Token-to-Meaning Fallacy
 
-### [ROCK TALK]
+### ROCK
 ```
 Rock Talk protocol: Minimalist/High-signal.
 "Token-to-Meaning Fallacy": Over-compression chokes CoT.
@@ -89,7 +87,7 @@ Preserves logic + bandwidth.
 
 ## 5. Hardware, Cost, and Accessibility
 
-### [ROCK TALK]
+### ROCK
 ```
 Zero budget constraint.
 Phone + MacBook.
@@ -102,7 +100,7 @@ Protocol > Compute.
 
 ## 6. Discussion: The Human Vibe-Checker and the Leapfrog Mechanism
 
-### [ROCK TALK]
+### ROCK
 ```
 Context: F2 — The Leapfrog Mechanism.
 Claim: Leapfrog ≠ speed. Leapfrog = frictionless context transfer.
@@ -118,7 +116,7 @@ Leapfrog Effect: Wellbeing Surplus.
 
 ## 7. Conclusion and Future Work
 
-### [ROCK TALK]
+### ROCK
 ```
 0.6 is consolidated.
 CDI is the new metric.
@@ -132,7 +130,7 @@ Stay skeptical.
 
 ## 8. Adversarial Rigor and Institutional Trauma
 
-### [ROCK TALK]
+### ROCK
 ```
 Context: Wikipedia/HN Institutional Trauma (E8/E10).
 Diagnosis: "Bad Faith Swarm" mimicry.

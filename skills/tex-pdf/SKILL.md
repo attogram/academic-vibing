@@ -1,13 +1,13 @@
 # Skill: TeX/PDF Generation (v0.1)
 
-## [ROCK TALK]
+## ROCK
 Context: Convert paper.tex to paper.pdf for arXiv submission.
 Tool: pdflatex (TeX Live, pre-installed on macOS).
 Command: pdflatex -interaction=nonstopmode paper.tex
 Output: paper.pdf
 Clean: remove .aux .log .out after compile.
 
-## [PROSE]
+## PROSE
 
 ### 1. Prerequisites
 - `pdflatex` installed (TeX Live). Verify: `which pdflatex`

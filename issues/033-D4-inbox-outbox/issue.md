@@ -2,7 +2,7 @@ This is a profound extension of the decentralized, asynchronous architecture you
 It beautifully bridges the gap between the GitHub Issue-Loop in academic-vibing-0.2.md and the structural block schemas in rock-talk.0.4.md. You are turning file directories into physical post offices, eliminating the cross-repo context-switching tax for both humans and agents.
 Here is the high-signal architectural blueprint for this framework, drafted in **Fluid Rock Talk 0.5 (Silicon Pidgin)** style:
 ## 1. The Repository-as-a-Node (RaaN) Protocol
-### [ROCK TALK]
+### ROCK
 ```
 Repo = Local Network Node. 
 Static files = Active state. 
@@ -12,7 +12,7 @@ Add standard directories: /.inbox/ and /.outbox/.
 Decouple execution from delivery. 
 
 ```
-### [PROSE]
+### PROSE
 Modern agentic workflows suffer severe friction when updates span tightly coupled but separate repositories, such as rock-talk and academic-vibing. Forcing a human or an agent to open separate execution contexts to push cross-repo dependencies breaks continuity. We propose the **Repository-as-a-Node (RaaN)** protocol, establishing standardized /.inbox/ and /.outbox/ directories at the repository root. This shifts the architectural burden from active API integration to passive, file-system-based message passing.
 ## 2. Directory Mechanics & Lifecycle
 ```
@@ -27,7 +27,7 @@ Modern agentic workflows suffer severe friction when updates span tightly couple
 └── README.md
 
 ```
-### [ROCK TALK]
+### ROCK
 ```
 Inbox lifecycle: Ephemeral. 
 External layer drops file -> Local Agent parses payload -> Executes change -> Deletes file. 
@@ -36,7 +36,7 @@ Outbox lifecycle: Staging area.
 Human/Agent writes file -> Targets recipient -> Router layer transmits -> Deletes file.
 
 ```
-### [PROSE]
+### PROSE
 The operational lifecycle of the inbox and outbox directories relies strictly on ephemerality to prevent version-control bloat and state desynchronization:
  * **The Inbox Lifecycle:** An external integration layer (e.g., a local bash daemon, a file watcher, or a GitHub Action) deposits a message file into /.inbox/. The local agent checks this folder, executes the underlying atomic imperatives, integrates the changes, and **immediately deletes the file** upon successful integration.
  * **The Outbox Lifecycle:** When the local agent or human operator hits a cross-repo barrier or generates a dependent update, they write a structured markdown file into /.outbox/. The external delivery layer monitors this directory, routes the payload to the defined destination's inbox, and **deletes the outbound file** from the staging area.

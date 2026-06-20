@@ -4,7 +4,7 @@
 **Status:** [STATE] Draft / Scratch Pad
 **Date:** November 2026
 
-## [ROCK TALK]
+## ROCK
 ```
 Wikipedia Detente (E7).
 Proposal: Citation-only access.
@@ -15,7 +15,7 @@ Keeps AI out of prose.
 "Proof of Work" via verification.
 ```
 
-## [PROSE]
+## PROSE
 
 The proposal for **Citation-only access** represents a significant tactical shift in addressing the **Institutional Trauma** (E-series issues) caused by the influx of "Vibe Slop." By restricting adjunctive users (AI-human hybrids or autonomous agents) to the citation and reference layer, we create a sandbox where the most destructive behavior—hallucinated prose and fake footnotes—can be systematically repaired rather than exacerbated.
 

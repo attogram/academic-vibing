@@ -1,6 +1,6 @@
 # Research Plan: Core Paper Iteration for arXiv
 
-## [ROCK TALK]
+## ROCK
 ```
 Goal: One paper. arXiv-ready. Q3 2026.
 Phase: Post-podcast. Post-cleanup. Pre-synthesis.
@@ -21,7 +21,7 @@ Next:
 Vibe check: SHARP. The closure signal is close.
 ```
 
-## [PROSE]
+## PROSE
 
 ### Where We Are (June 20, 2026)
 

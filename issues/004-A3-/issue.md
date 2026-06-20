@@ -1,6 +1,6 @@
 ### Peer Review: Academic Vibing 0.1
 
-#### [ROCK TALK]
+#### ROCK
 
 ```
 Review of Vibing 0.1.
@@ -14,7 +14,7 @@ Verdict: Strong meta-framework.
 
 ```
 
-#### [PROSE]
+#### PROSE
 
 The "Academic Vibing" meta-methodology elegantly formalizes an emergent behavior seen among bleeding-edge technical practitioners. By treating multi-agent disagreement as a diagnostic signal rather than a failure state, it flips traditional error-reduction on its head. Furthermore, using the **GitHub Issue-Loop** as an asynchronous state machine effectively routes around the statelessness and context-window decay inherent to modern LLM sessions.
 

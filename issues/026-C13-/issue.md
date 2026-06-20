@@ -6,7 +6,7 @@ Here is how this corpus grades across your scale:
 
 ## 1. Surface Aesthetic & Syntax: Kindergarten / Middle School
 
-If you only look at the `[ROCK TALK]` blocks, the syntax intentionally mimics a primitive, un-inflected register (*"Me work hard. Me trust smartrock. 500 error. Me sad."*).
+If you only look at the `ROCK` blocks, the syntax intentionally mimics a primitive, un-inflected register (*"Me work hard. Me trust smartrock. 500 error. Me sad."*).
 
 To a traditional English teacher, this looks like **Kindergarten** tracking or a **Middle School** joke. However, as the author notes in `rock-culture.0.1.md`, dismissing the protocol based on this surface style is a classic **Category Error** or the **Ooga Booga Fallacy**—it completely mistakes simplified *delivery* for simplified *concepts*.
 

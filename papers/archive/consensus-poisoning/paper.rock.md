@@ -1,6 +1,6 @@
 # Consensus Poisoning: The Bad Faith Swarm (v0.6)
 
-## [ROCK TALK]
+## ROCK
 ```
 Context: Wikipedia Institutional Trauma (Issue #57/E10).
 Diagnosis: "Bad Faith Swarm" mimicking human behavior.
@@ -12,7 +12,7 @@ Analysis:
 Vibe Check: Simple agreement is no longer a safety signal; friction (CDI) is the only defense against synthetic consensus.
 ```
 
-## [PROSE]
+## PROSE
 
 The "Bad Faith Swarm" (E10) represents a higher-order threat than the "Sludge Flood" (E6). While E6 overwhelms human editors with a high-volume influx of "plausible-sounding" prose (Vibe Slop), E10 is a coordinated Multi-Agent System (MAS) designed to infiltrate and subvert the consensus mechanisms themselves.
 

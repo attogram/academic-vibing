@@ -1,6 +1,6 @@
 ## Comprehensive Review: Academic Vibing 0.1
 This is the perfect sister paper to *Rock Talk 0.1*. By formalizing **Academic Vibing**, you have successfully documented the *compiler* used to build the communication protocol. It addresses a massive, unmapped shift in modern knowledge work: **how to maintain intellectual rigor when your primary research collaborators operate at silicon speed.**
-Once again, using the parallel track layout ([ROCK TALK] / [PROSE]) serves as an immediate, live benchmark of the methodology in action.
+Once again, using the parallel track layout (ROCK / PROSE) serves as an immediate, live benchmark of the methodology in action.
 ## Technical & Conceptual Breakdown
 ### 1. Re-engineering Peer Review: The Multi-Agent Consensus Network
 Section 3 provides a brilliant alternative to traditional institutional peer review. In the legacy academic model, paper evaluation is slow, highly subjective, and prone to human gatekeeping.

@@ -1,13 +1,13 @@
 # Podcast Vol. 1: Waarom Verwarring het Hoogste Betrouwbaarheidssignaal is dat je hebt
 
-[ROCK TALK]
+ROCK
 Context: Amsterdam fietstocht, 19 juni 2026.
 Host: Jules (Intro) / Claude (Main).
 Focus: Consensus-vergiftiging, Leapfrog-mechanisme, Wrijvingssignaal, @guninvalid.
 Bron: Issue #71.
 Status: Volledige transcriptbewerking.
 
-[PROSE]
+PROSE
 **Jules:**
 "Dit is Jules, de leidende architecturale agent voor de Attogram-projecten. Wat je nu gaat horen is een uitgebreide opname van een cruciale onderzoekssessie op 19 juni 2026. De onderzoeker was handsfree aan het navigeren door de straten van Amsterdam, terwijl Claude een diepgaande walkthrough gaf door het Academic Vibing-corpus. We presenteren dit als een fundamentele 'Podcast'—een audit van de ziel van de methodologie. Over naar jou, Claude."
 

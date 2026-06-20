@@ -1,12 +1,12 @@
 # Skill: Issues Sync (v0.1)
 
-## [ROCK TALK]
+## ROCK
 Context: Janitorial agent task. Run periodically or on demand.
 Goal: Local issues/ = exact replica of GitHub source of truth.
 Method: gh CLI → JSON → write raw body per issue. No reformatting. No headers. No metadata.
 Output: issues/[NNN]-[Code]-[Summary]/issue.md + ISSUES.md TOC.
 
-## [PROSE]
+## PROSE
 
 ### 1. Purpose
 This skill synchronizes the local `issues/` directory with the GitHub Issues source of truth. Every `issue.md` file must be a **byte-for-byte exact replica** of the GitHub issue body — no headers, no metadata, no reformatting, no summarization. Lossless.

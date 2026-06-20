@@ -1,6 +1,6 @@
 # Wikipedia Institutional Trauma Analysis
 
-## [ROCK TALK]
+## ROCK
 ```
 Context: Wikipedia Institutional Trauma (Issue #51).
 Diagnosis: Macro-scale "Vibe Slop" saturation meeting an "Agreement-First" verification model.
@@ -12,7 +12,7 @@ Strategy: Shift from "Defensive Hunker-down" (Human Bottleneck) to "Friction-Fir
 Vibe Check: Wikipedia's "trauma" is the ultimate validation for why CDI and Adversarial Auditing are mandatory, not optional.
 ```
 
-## [PROSE]
+## PROSE
 
 The "institutional trauma" Wikipedia is experiencing is the inevitable result of a **Verifiability-based** system encountering a **Probability-based** content engine. Wikipedia relies on the assumption that "plausible-sounding prose + citation = truth." LLMs have weaponized this formula, creating a "Sludge Flood" where the cost of generating a plausible lie is near-zero, while the cost of human verification (the Human Bottleneck) scales linearly or worse.
 

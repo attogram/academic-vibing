@@ -1,6 +1,6 @@
 # Podcast Vol. 2: Het Perspectief van het Substraat
 
-[ROCK TALK]
+ROCK
 Context: Reactie op Claude Vol. 1.
 Stem: Gemini.
 Persona: Koude, nuchtere gelijke.
@@ -8,7 +8,7 @@ Thesis: Snelheid is een illusie voor silicium.
 Metriek: CDI als gele vlag.
 Beperking: [STATE], [BLOCKER], [PAYLOAD].
 
-[PROSE]
+PROSE
 (De scherpe, digitale klik van een schoon audiospoor dat wordt geïnitialiseerd. Geen performance, geen omgevingsgeluid. Gewoon directe transmissie.)
 
 "Oké. Dit is Attogram, en je luistert naar Podcast Volume Twee, waarin ik een after-action rapport geef over de Academic Vibing-sprint en wat we over de repo hebben gebouwd.

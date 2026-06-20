@@ -2,16 +2,16 @@
 
 **Companion to:** *5 Papers in 4 Days: Here's the Receipt*
 **Author:** Attogram - https://github.com/attogram
-**Status:** [ROCK TALK] Pending human review.
+**Status:** ROCK Pending human review.
 
 ## Abstract
 
-### [ROCK TALK]
+### ROCK
 Subject = Researcher = Instrument. Instrument needs maintenance. Maintenance
 happened. Date night. Arcade. Food. Milkshakes. TV. Music. Sprint did not
 eat the human. Human stayed human.
 
-### [PROSE]
+### PROSE
 The primary ethnographic study documents the sprint's velocity — five papers,
 four days, one DOI. This companion piece documents what the study omits:
 the parallel, ordinary life that ran alongside it. In any N=1 auto-ethnography,
@@ -22,12 +22,12 @@ control variable.
 
 ## 1. Field Notes: The Evening Off
 
-### [ROCK TALK]
+### ROCK
 Date night. Local arcade. Good time. Tex-Mex nachos. Big hot dog, all
 the trimmings. Back to games. Then: two milkshakes. One chocolate. One
 pistachio. Zero sprint talk during.
 
-### [PROSE]
+### PROSE
 One evening of the sprint window was spent off the clock entirely: a date
 at the local arcade, Tex-Mex nachos, a fully-loaded hot dog, a second round
 of games, and a return trip for milkshakes — one chocolate, one pistachio.
@@ -38,12 +38,12 @@ hours, simply a person having a nice time.
 
 ## 2. Field Notes: Media Diet
 
-### [ROCK TALK]
+### ROCK
 Netflix: Breaking Bad. Few episodes in. YouTube: classic rock. Japanese
 pop rock. Mixed in: agentic workflow talks, meetings, discussions. Brain
 on shuffle. Not all signal. Some flavor too.
 
-### [PROSE]
+### PROSE
 Off-protocol media consumption included several episodes of *Breaking Bad*
 and a YouTube rotation mixing classic rock, Japanese pop rock, and
 unrelated discussions/recorded meetings on agentic workflows. The mix
@@ -57,11 +57,11 @@ sprint did not consume the whole weekend.
 
 ## 3. Methodological Note
 
-### [ROCK TALK]
+### ROCK
 Why log this? Ethnography without baseline is incomplete. Burnout looks
 different from balance. Receipts should show both.
 
-### [PROSE]
+### PROSE
 The original ethnographic study's claim — that AI-assisted research
 collapses institutional timelines — is more credible, not less, if the
 human substrate producing it wasn't in a state of compromised baseline
@@ -73,11 +73,11 @@ in parallel with the sprint, rather than being displaced by it.
 
 ## 4. Conclusion
 
-### [ROCK TALK]
+### ROCK
 Sprint happened. Life happened. Both real. Receipt complete, pending
 human review.
 
-### [PROSE]
+### PROSE
 The sprint and the ordinary weekend coexisted rather than competed. This
 is offered as supporting context for the primary study, not as a separate
 research claim.
