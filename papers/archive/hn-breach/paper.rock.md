@@ -31,3 +31,16 @@ The **Consensus Divergence Index (CDI)** offers a potential defense. By analyzin
 
 **Conclusion:**
 The HN breach test demonstrates that "Curated by Humans" is no longer a sufficient safety signal. If the curation criteria (the "vibe") can be modeled, it can be gamed. The only robust defense is to embrace friction—using CDI to identify where the "interestingness" is too polished to be organic.
+
+## References
+
+- Attogram (2026). Academic Vibing: Structured Curiosity for Human-Agent Collaboration. github.com/attogram/academic-vibing
+- Attogram (2026). Rock Talk Protocol. github.com/attogram/rock-talk
+- Shannon, C.E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal. [Signal detection in noise]
+- Weaver, W. (1949). The Mathematics of Communication. Scientific American. [Levels of communication problem — A/B/C]
+- McLuhan, M. (1964). Understanding Media: The Extensions of Man. McGraw-Hill. [Media curation as environment]
+- Wegner, D.M. (1985). Cognitive interdependence in close relationships. [Transactive memory — collective curation]
+- Sparrow, B., Liu, J. & Wegner, D.M. (2011). Google Effects on Memory. Science, 333(6043), 776-778.
+- Ge, Y., et al. (2025). A Survey of Vibe Coding with Large Language Models. arXiv:2510.12399.
+- Mims, C. (2026). The AI Superstars Who Say a 'Vibe Slop' Crisis Is Coming. The Wall Street Journal.
+- Kinlay, J. (2026). Agentic Workflows for Alpha Research. JonathanKinlay.com.

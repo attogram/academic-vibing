@@ -25,4 +25,23 @@ From the perspective of **Academic Vibing**, we can categorize Wikipedia’s pai
 3.  **The Leapfrog Effect and Traffic Anxiety:** The 8% drop in traffic represents the "Leapfrog Effect" occurring at a societal level. Users are bypassing the traditional "Human-Curated Encyclopedia" middleman to get direct (though riskier) synthesis. Wikipedia’s existential threat isn't just the AI pollution—it’s that their role as the primary "Vibe-Checker" for the internet is being challenged by automated RAC-like networks.
 
 **Conclusion:**
-Wikipedia’s trauma is a warning. A system that relies on "Human-Only" review to police "AI-Infinite" output will eventually collapse under its own weight. To survive, institutional knowledge bases must adopt **Adversarial Rigor**—using the friction between models (CDI) to highlight what actually needs human eyes, rather than trying to hold back the tide with manual "speedy deletions."
+Wikipedia's trauma is a warning. A system that relies on "Human-Only" review to police "AI-Infinite" output will eventually collapse under its own weight. To survive, institutional knowledge bases must adopt Adversarial Rigor — using the friction between models (CDI) to highlight what actually needs human eyes, rather than trying to hold back the tide with manual "speedy deletions."
+
+## References
+
+- Attogram (2026). Academic Vibing: Structured Curiosity for Human-Agent Collaboration. github.com/attogram/academic-vibing
+- Attogram (2026). Rock Talk Protocol. github.com/attogram/rock-talk
+- Clark, A. & Chalmers, D.J. (1998). The Extended Mind. Analysis, 58, 7-19.
+- Hutchins, E. (1995). Cognition in the Wild. MIT Press.
+- Wegner, D.M. (1985). Cognitive interdependence in close relationships. [Transactive memory]
+- Wegner, D.M. (1995). A computer network model of human transactive memory. Social Cognition, 13(3), 319-339.
+- Sparrow, B., Liu, J. & Wegner, D.M. (2011). Google Effects on Memory. Science, 333(6043), 776-778.
+- Shannon, C.E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal.
+- Weaver, W. (1949). The Mathematics of Communication. Scientific American.
+- McLuhan, M. (1964). Understanding Media: The Extensions of Man. McGraw-Hill.
+- Kahneman, D. (1973). Attention and Effort. Prentice-Hall.
+- Sweller, J. (1988). Cognitive load during problem solving. Cognitive Science, 12(2), 257-285.
+- Mark, G., Gudith, D. & Klocke, U. (2008). The cost of interrupted work. CHI 2008.
+- Mims, C. (2026). The AI Superstars Who Say a 'Vibe Slop' Crisis Is Coming. The Wall Street Journal.
+- Ge, Y., et al. (2025). A Survey of Vibe Coding with Large Language Models. arXiv:2510.12399.
+- Wikimedia Foundation (2026). Wikimedia movement strategy.
