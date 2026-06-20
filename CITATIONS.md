@@ -1,6 +1,6 @@
 # Citations: Academic Vibing
 
-Master reference registry. Every citation used anywhere in the corpus is listed here with a URL. Inline citations in papers use `[N]` notation matching this list.
+Master reference registry. Every citation used anywhere in the corpus is listed here with a URL.
 
 ## Primary References
 
@@ -9,7 +9,8 @@ Master reference registry. Every citation used anywhere in the corpus is listed 
 [2] Attogram (2026). Rock Talk Protocol. https://github.com/attogram/rock-talk
 
 [3] Attogram (2026). Academic Vibing: Structured Curiosity for Human-Agent Collaboration.
-    - [v0.8 (Current)](papers/academic-vibing/v0.8/paper.combined.md)
+    - [v0.9 (Master)](papers/academic-vibing/v0.9/academic-vibing-0.9-master.combined.md)
+    - [v0.8](papers/academic-vibing/v0.8/paper.combined.md)
     - [v0.7](papers/academic-vibing/v0.7/paper.combined.md)
     - [v0.6](papers/academic-vibing/v0.6/academic-vibing.0.6.combined.md)
     - [v0.5](papers/academic-vibing/v0.5/academic-vibing.0.5.combined.md)
