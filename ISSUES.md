@@ -88,6 +88,15 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/issue.md` — exact replica of Git
 - #76 F14 [F14 Gemini voice blog](issues/076-F14-gemini-voice-blog/issue.md) - open
 - #77 F15 [F15 complex systems](issues/077-F15-complex-systems/issue.md) - open
 
+## Phase G
+*The Review*
+
+- #86 G1 [G1 Gemini refutes glm](issues/086-G1-gemini-refutes-glm/issue.md) - open
+- #89 G2 [G2 - iterations are bad bad bad](issues/089-G2-iterations-are-bad-bad-bad/issue.md) - open
+- #91 G3 [G3](issues/091-G3-/issue.md) - open
+- #92 G4 [G4 meet ROCK our mascot](issues/092-G4-meet-rock-our-mascot/issue.md) - open
+- #93 G5 [G5 the review](issues/093-G5-the-review/issue.md) - open
+
 ## Ghost Issues (deleted on GitHub, tracked locally)
 
 - #3 Release 0.1 Final Pass. - closed (deleted on GitHub)

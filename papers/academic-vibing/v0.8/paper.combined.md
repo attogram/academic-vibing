@@ -1,10 +1,13 @@
 # Academic Vibing 0.8: Structured Curiosity for Human-Agent Collaboration
 
-Version: 0.8 (arXiv Draft)
-Date: June 2026
-Author: Attogram - https://github.com/attogram
-Repository: https://github.com/attogram/academic-vibing
-Contact: GitHub Issues - https://github.com/attogram/academic-vibing/issues
+**Version:** 0.8 (arXiv Draft)
+**Date:** June 2026
+**Author:** Attogram - https://github.com/attogram
+**Mascot:** ROCK the Puppy 🐶
+**Environment:** 16GB Macbook, Ollama Cloud
+**Soundtrack:** Tedeschi Trucks Band & Leon Russell – “The Letter” (Mix)
+**Repository:** https://github.com/attogram/academic-vibing
+**Contact:** GitHub Issues - https://github.com/attogram/academic-vibing/issues
 
 ## Abstract
 
@@ -12,7 +15,9 @@ Contact: GitHub Issues - https://github.com/attogram/academic-vibing/issues
 ```
 Academic Vibing 0.8.
 Core: CDI (Consensus Divergence Index).
+Lineage: Iterative maturation from 0.1-0.7.
 New: Leapfrog Mechanism (F2).
+Mascot: ROCK (The Puppy).
 Defense: Adversarial Rigor against E8/E10.
 Schema for MAS persistence (Issue-Loop).
 Vibe check is primary human task.
@@ -20,7 +25,9 @@ Productivity + Wellbeing Surplus.
 ```
 
 ### [PROSE]
-Academic Vibing 0.8 represents the maturation of a rapid-iteration research methodology designed for the era of Large Language Models (LLMs) and autonomous agents. This version formalizes the **Consensus Divergence Index (CDI)** as the primary metric for research signaling and introduces the **Leapfrog Mechanism** — the ability to drop and re-enter research contexts at near-zero cost. By integrating foundational principles of "Structured Curiosity" with adversarial rigor, version 0.8 provides a robust framework for defending against "Consensus Poisoning" and "Synthetic Interestingness" while maintaining a significant productivity and wellbeing surplus for the human operator. This paper is a stand-alone guide to the methodology, its metrics, and its psychological outcomes.
+Academic Vibing 0.8 represents the maturation of a rapid-iteration research methodology designed for the era of Large Language Models (LLMs) and autonomous agents. This version synthesizes the foundational fragments developed across versions 0.1 through 0.7—including the early Rock Talk protocols, the Wikipedia and Hacker News "Institutional Trauma" post-mortems, and the formalization of the **Consensus Divergence Index (CDI)** as the primary metric for research signaling.
+
+We introduce the **Leapfrog Mechanism**—the ability to drop and re-enter research contexts at near-zero cost—and acknowledge **ROCK the Puppy** as the project's official mascot, symbolizing the "untrained but enthusiastic" nature of early-stage agentic swarms. By integrating foundational principles of "Structured Curiosity" with adversarial rigor, version 0.8 provides a robust framework for defending against "Consensus Poisoning" and "Synthetic Interestingness" while maintaining a significant productivity and wellbeing surplus for the human operator.
 
 ---
 
@@ -34,6 +41,7 @@ Meta-methodology for agent research.
 Rapid AI-assisted iteration.
 Friction as Signal.
 Moving beyond "yes men" agents.
+Lineage: 0.1 (Speed) -> 0.5 (CDI) -> 0.8 (Rigor).
 Measure where models fight.
 Friction = Truth boundary.
 ```
@@ -41,7 +49,13 @@ Friction = Truth boundary.
 ### [PROSE]
 Academic Vibing is a meta-methodology that occupies the middle ground between formal academic research and casual brainstorming. It prioritizes rapid, AI-assisted iteration where rigor emerges through recursive agent consensus and high-frequency feedback loops.
 
-The evolution of Academic Vibing has moved from the sheer speed of initial discovery to adversarial validation. Version 0.8 treats model disagreement not as a failure, but as a diagnostic signal. By measuring the exact semantic boundaries where frontier models diverge—the Consensus Divergence Index—we can identify the logical weak points of a hypothesis with mathematical precision.
+The evolution of Academic Vibing has been a deliberate progression from raw velocity to adversarial validation.
+- **Version 0.1** established the "Speed-First" mandate and the initial "Rock Talk" communication protocol <a id="cite-1"></a>[[1]](../../../CITATIONS.md#1).
+- **Versions 0.2-0.4** explored the "GitHub Issue-Loop" as a functional Multi-Agent System (MAS) file system.
+- **Version 0.5** introduced the Consensus Divergence Index (CDI) to combat agentic sycophancy.
+- **Version 0.6** integrated studies on "Institutional Trauma" (Wikipedia/HN) to define the boundaries of synthetic consensus.
+
+Version 0.8 treats model disagreement not as a failure, but as a diagnostic signal. By measuring the exact semantic boundaries where frontier models diverge—the CDI—we can identify the logical weak points of a hypothesis with mathematical precision.
 
 ---
 
@@ -151,7 +165,7 @@ The transition from "writer" to "vibe-checker" is the core human shift in this m
 The "Leapfrog Effect" as documented in this corpus (Claim #16, see <a id="cite-3"></a>[[3]](../../../CITATIONS.md#3), <a id="cite-4"></a>[[4]](../../../CITATIONS.md#4)) describes a productivity-wellbeing surplus. This paper refines the underlying mechanism: the effect is not primarily about speed, but about frictionless context transfer — the ability to drop a cognitive task completely, and re-enter it at near-zero cost.
 
 #### The Standard Problem: Re-entry is Expensive
-Conventional cognitive science treats interruption recovery as an unavoidable tax. Research from the University of California, Irvine established that full recovery from a task interruption requires an average of 23 minutes and 15 seconds <a id="cite-10"></a>([Mark et al., 2008](#ref-10)). <a id="cite-11"></a>[Rubinstein, Meyer & Evans (2001)](#ref-11) showed that task-switching reduces effective productivity by up to 40%. The American Psychological Association reports that interruptions as short as five seconds can triple error rates in complex cognitive work. These findings share a common assumption: that the cognitive state of a task lives in the human's working memory, and that dropping a task means losing that state.
+Conventional cognitive science treats interruption recovery as an unavoidable tax. Research from the University of California, Irvine established that full recovery from a task interruption requires an average of 23 minutes and 15 seconds <a id="cite-10"></a>([Mark et al., 2008](#ref-10)). <a id="cite-11"></a>[Rubinstein, Meyer & Evans (2001)](#ref-11) showed that task-switching reduces effective productivity by up to 40%. These findings share a common assumption: that the cognitive state of a task lives in the human's working memory, and that dropping a task means losing that state.
 
 #### The Extended Mind Reframe
 <a id="cite-5"></a>[Clark & Chalmers (1998)](#ref-5) argued in their foundational paper *The Extended Mind* that cognition is not brain-bound. Their "parity principle" states: if an external process performs the same functional role as an internal cognitive process, it should be considered part of the cognitive system itself. <a id="cite-6"></a>[Hutchins (1995)](#ref-6) extended this further with distributed cognition: in complex systems, the cognitive task is distributed across individuals, artifacts, and time. No single node holds the full state.
@@ -199,13 +213,14 @@ The Consensus Divergence Index (CDI) offers a robust defense against "Synthetic 
 0.8 is consolidated.
 CDI is the new metric.
 Leapfrog Mechanism verified.
+Mascot: ROCK is watching.
 Next: ArXiv submission.
 Zenodo DOI generation.
 Stay skeptical.
 ```
 
 ### [PROSE]
-Academic Vibing 0.8 represents the consolidation of high-speed iteration with adversarial rigor and cognitive freedom. By formalizing CDI and the Leapfrog Mechanism, we have created a robust framework for independent researchers to operate at silicon speed without sacrificing intellectual integrity or personal wellbeing. Future work will focus on formalizing these results through arXiv submission and Zenodo archiving to ensure stable, citeable DOIs for the corpus.
+Academic Vibing 0.8 represents the consolidation of high-speed iteration with adversarial rigor and cognitive freedom. By formalizing CDI and the Leapfrog Mechanism, we have created a robust framework for independent researchers to operate at silicon speed without sacrificing intellectual integrity or personal wellbeing. **ROCK the Puppy**, our untrained but eager mascot, remains the face of the project—a reminder that even the most advanced agentic swarms require a steady human hand to guide their enthusiasm. Future work will focus on formalizing these results through arXiv submission and Zenodo archiving to ensure stable, citeable DOIs for the corpus.
 
 ---
 
@@ -217,7 +232,7 @@ Academic Vibing 0.8 represents the consolidation of high-speed iteration with ad
 
 <a id="ref-3"></a>[3] Attogram (2026). Academic Vibing: Structured Curiosity for Human-Agent Collaboration. https://github.com/attogram/academic-vibing [↩](#cite-3)
 
-<a id="ref-4"></a>[4] Attogram (2026). Academic Vibing: 1 STFU. 115 Hours. 5 Papers. 3 Podcasts. 1 Normal Life. https://github.com/attogram/academic-vibing [↩](#cite-4)
+<a id="ref-4"></a>[4] Attogram (2026). Academic Vibing Receipts: 1 STFU. 115 Hours. 5 Papers. 3 Podcasts. 1 Normal Life. https://github.com/attogram/academic-vibing [↩](#cite-4)
 
 <a id="ref-5"></a>[5] Clark, A. & Chalmers, D.J. (1998). The Extended Mind. Analysis, 58, 7-19. https://philpapers.org/rec/CLATEM [↩](#cite-5)
 
@@ -240,6 +255,10 @@ Academic Vibing 0.8 represents the consolidation of high-speed iteration with ad
 <a id="ref-19"></a>[19] Sarkar, A., et al. (2025). Vibe coding: programming through conversation with artificial intelligence. arXiv:2506.23253. https://arxiv.org/abs/2506.23253 [↩](#cite-19)
 
 <a id="ref-24"></a>[24] Mims, C. (2026). The AI Superstars Who Say a 'Vibe Slop' Crisis Is Coming. The Wall Street Journal. https://www.wsj.com/ [↩](#cite-24)
+
+<a id="ref-25"></a>[25] GLM-5 Team (2026). GLM-5: from Vibe Coding to Agentic Engineering. arXiv:2602.15763. https://arxiv.org/abs/2602.15763 [↩](#cite-25)
+
+<a id="ref-26"></a>[26] Z.ai (2026). IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse. arXiv:2603.12201. https://arxiv.org/abs/2603.12201 [↩](#cite-26)
 
 <a id="ref-27"></a>[27] Kinlay, J. (2026). Agentic Workflows for Alpha Research. JonathanKinlay.com. https://www.jonathankinlay.com/ [↩](#cite-27)
 
