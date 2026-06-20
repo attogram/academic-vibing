@@ -78,7 +78,7 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/issue.md` — exact replica of Git
 - #63 F4 [F4](issues/063-F4-/issue.md) - open
 - #67 F5 [F5 power of the f word](issues/067-F5-power-of-the-f-word/issue.md) - open
 - #68 F6 [F6](issues/068-F6-/issue.md) - open
-- #69 F7 [F7 av 0.6 bad bad bad](issues/069-F7-av-06-bad-bad-bad/issue.md) - open
+- #69 F7 [F7 av 0.6 bad bad bad](issues/069-F7-av-06-bad-bad-bad/issue.md) - Closed Pending Human Review
 - #70 F8 [F8 improvements](issues/070-F8-improvements/issue.md) - open
 - #71 F9 [F9 the bike ride](issues/071-F9-the-bike-ride/issue.md) - open
 - #72 F10 [F10 introducing the STFU Attractor](issues/072-F10-introducing-the-stfu-attractor/issue.md) - open
