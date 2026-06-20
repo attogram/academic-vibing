@@ -1,4 +1,4 @@
-# Academic Vibing 0.7 (128k context)
+# Academic Vibing: Structured Curiosity for Human-Agent Collaboration (128k context)
 
 Academic Vibing 0.7.
 Meta-methodology for agent-assisted research.

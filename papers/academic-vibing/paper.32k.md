@@ -1,4 +1,4 @@
-# Academic Vibing 0.7 (32k context)
+# Academic Vibing: Structured Curiosity for Human-Agent Collaboration (32k context)
 
 Academic Vibing 0.7. Agent research methodology.
 Core: CDI. New: Leapfrog. Schema for MAS.

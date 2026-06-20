@@ -45,4 +45,20 @@ This aligns with emerging work on interruption cues. Research published in *Scie
 
 ### Proposed Empirical Test
 
-Measure re-entry latency (time from opening an issue to first productive output) across three conditions: (A) no external state store, (B) unstructured notes, (C) structured Issue-Loop with Rock Talk tagging. Hypothesis: condition C produces re-entry latency < 5 minutes vs. 15–23 minutes for condition A.
+Measure re-entry latency (time from opening an issue to first productive output) across three conditions: (A) no external state store, (B) unstructured notes, (C) structured Issue-Loop with Rock Talk tagging. Hypothesis: condition C produces re-entry latency < 5 minutes vs. 15-23 minutes for condition A.
+
+## References
+
+- Attogram (2026). Academic Vibing: Structured Curiosity for Human-Agent Collaboration. github.com/attogram/academic-vibing
+- Attogram (2026). Rock Talk Protocol. github.com/attogram/rock-talk
+- Clark, A. & Chalmers, D.J. (1998). The Extended Mind. Analysis, 58, 7-19.
+- Hutchins, E. (1995). Cognition in the Wild. MIT Press.
+- Wegner, D.M. (1985). Cognitive interdependence in close relationships. [Transactive memory]
+- Wegner, D.M. (1995). A computer network model of human transactive memory. Social Cognition, 13(3), 319-339.
+- Sparrow, B., Liu, J. & Wegner, D.M. (2011). Google Effects on Memory. Science, 333(6043), 776-778.
+- Mark, G., Gudith, D. & Klocke, U. (2008). The cost of interrupted work. CHI 2008.
+- Rubinstein, J.S., Meyer, D.E. & Evans, J.E. (2001). Executive control of cognitive processes in task switching. J Exp Psych.
+- Kahneman, D. (1973). Attention and Effort. Prentice-Hall.
+- Sweller, J. (1988). Cognitive load during problem solving. Cognitive Science, 12(2), 257-285.
+- Nature/Scientific Reports (2025). The effects of cues on task interruption recovery.
+- Kinlay, J. (2026). Agentic Workflows for Alpha Research. JonathanKinlay.com.

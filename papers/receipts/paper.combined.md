@@ -106,6 +106,8 @@ Every number below is machine-verifiable by running the `skills/receipts` skill.
 | Issue comments (academic-vibing) | 90 | `gh issue list --json comments` |
 | Issue comments (rock-talk) | 16 | `gh issue list --json comments` |
 | Local issue dirs (academic-vibing) | 61 | `ls issues/ \| wc -l` |
+| Local issue dirs (rock-talk) | 118 | `ls issues/ \| wc -l` |
+| Total local issue dirs | 179 | Sum of above |
 | **Pull Requests** | | |
 | PRs (academic-vibing) | 24 | `gh pr list --state all` |
 | PRs (rock-talk) | 29 | `gh pr list --state all` |
@@ -234,10 +236,50 @@ The corpus now transitions to the preprint stage. The core methodology paper is 
 
 ## References
 
-- **Attogram (2026).** *Academic Vibing: Consensus Poisoning and the Leapfrog Mechanism.* (Core paper, this repository)
-- **Attogram (2026).** *Rock Talk Protocol.* https://github.com/attogram/rock-talk
-- **Clark, A. & Chalmers, D.J. (1998).** *The Extended Mind.* Analysis, 58, 7–19.
-- **Hutchins, E. (1995).** *Cognition in the Wild.* MIT Press.
-- **Mark, G., Gudith, D., & Klocke, U. (2008).** *The cost of interrupted work: More speed and stress.* CHI 2008.
-- **Rubinstein, J.S., Meyer, D.E., & Evans, J.E. (2001).** *Executive control of cognitive processes in task switching.* Journal of Experimental Psychology: Human Perception and Performance.
-- **Z.ai (2026).** *GLM-5: from Vibe Coding to Agentic Engineering.* arXiv:2602.15763.
+<a id="ref-1"></a>[1] Attogram (2026). After Action Report: The Birth of Rock Talk. https://github.com/attogram/rock-talk [↩](#cite-1)
+
+<a id="ref-2"></a>[2] Attogram (2026). Rock Talk Protocol. https://github.com/attogram/rock-talk [↩](#cite-2)
+
+<a id="ref-3"></a>[3] Attogram (2026). Academic Vibing: Structured Curiosity for Human-Agent Collaboration. https://github.com/attogram/academic-vibing [↩](#cite-3)
+
+<a id="ref-4"></a>[4] Attogram (2026). Academic Vibing: 1 STFU. 115 Hours. 5 Papers. 3 Podcasts. 1 Normal Life. https://github.com/attogram/academic-vibing [↩](#cite-4)
+
+<a id="ref-5"></a>[5] Clark, A. & Chalmers, D.J. (1998). The Extended Mind. Analysis, 58, 7-19. https://philpapers.org/rec/CLATEM [↩](#cite-5)
+
+<a id="ref-6"></a>[6] Hutchins, E. (1995). Cognition in the Wild. MIT Press. https://mitpress.mit.edu/9780262581469/cognition-in-the-wild/ [↩](#cite-6)
+
+<a id="ref-7"></a>[7] Wegner, D.M. (1985). Cognitive interdependence in close relationships. In Ickes (Ed.), Compatible and incompatible relationships, pp. 253-276. Springer-Verlag. https://doi.org/10.1007/978-1-4612-5084-9_9 [↩](#cite-7)
+
+<a id="ref-8"></a>[8] Wegner, D.M. (1995). A computer network model of human transactive memory. Social Cognition, 13(3), 319-339. https://doi.org/10.1521/soco.1995.13.3.319 [↩](#cite-8)
+
+<a id="ref-9"></a>[9] Sparrow, B., Liu, J. & Wegner, D.M. (2011). Google Effects on Memory. Science, 333(6043), 776-778. https://doi.org/10.1126/science.1207745 [↩](#cite-9)
+
+<a id="ref-10"></a>[10] Mark, G., Gudith, D. & Klocke, U. (2008). The cost of interrupted work. CHI 2008. https://doi.org/10.1145/1357054.1357076 [↩](#cite-10)
+
+<a id="ref-11"></a>[11] Rubinstein, J.S., Meyer, D.E. & Evans, J.E. (2001). Executive control of cognitive processes in task switching. J Exp Psych. https://doi.org/10.1037/0096-1523.27.4.763 [↩](#cite-11)
+
+<a id="ref-12"></a>[12] Kahneman, D. (1973). Attention and Effort. Prentice-Hall. https://www.worldcat.org/title/Attention-and-effort/oclc/490192 [↩](#cite-12)
+
+<a id="ref-13"></a>[13] Sweller, J. (1988). Cognitive load during problem solving. Cognitive Science, 12(2), 257-285. https://doi.org/10.1207/s15516709cog1202_4 [↩](#cite-13)
+
+<a id="ref-14"></a>[14] Nature/Scientific Reports (2025). The effects of cues on task interruption recovery. https://www.nature.com/srep/ [↩](#cite-14)
+
+<a id="ref-15"></a>[15] Shannon, C.E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x [↩](#cite-15)
+
+<a id="ref-16"></a>[16] Weaver, W. (1949). The Mathematics of Communication. Scientific American. https://www.jstor.org/stable/24941590 [↩](#cite-16)
+
+<a id="ref-17"></a>[17] McLuhan, M. (1964). Understanding Media: The Extensions of Man. McGraw-Hill. https://archive.org/details/understandingmed0000mclu [↩](#cite-17)
+
+<a id="ref-18"></a>[18] Ge, Y., et al. (2025). A Survey of Vibe Coding with Large Language Models. arXiv:2510.12399. https://arxiv.org/abs/2510.12399 [↩](#cite-18)
+
+<a id="ref-19"></a>[19] Sarkar, A., et al. (2025). Vibe coding: programming through conversation with AI. arXiv:2506.23253. https://arxiv.org/abs/2506.23253 [↩](#cite-19)
+
+<a id="ref-20"></a>[20] Ellis, C., Adams, T.E. & Bochner, A.P. (2011). Autoethnography: An Overview. Forum Qualitative Sozialforschung, 12(1). https://doi.org/10.17169/fqs-12.1.1589 [↩](#cite-20)
+
+<a id="ref-21"></a>[21] Anderson, L. (2006). Analytic Autoethnography. Journal of Contemporary Ethnography, 35(4), 373-395. https://doi.org/10.1177/0891241605280449 [↩](#cite-21)
+
+<a id="ref-22"></a>[22] GLM-5 Team (2026). GLM-5: from Vibe Coding to Agentic Engineering. arXiv:2602.15763. https://arxiv.org/abs/2602.15763 [↩](#cite-22)
+
+<a id="ref-23"></a>[23] Kinlay, J. (2026). Agentic Workflows for Alpha Research. JonathanKinlay.com. https://www.jonathankinlay.com/ [↩](#cite-23)
+
+<a id="ref-24"></a>[24] Mims, C. (2026). The AI Superstars Who Say a 'Vibe Slop' Crisis Is Coming. The Wall Street Journal. https://www.wsj.com/ [↩](#cite-24)

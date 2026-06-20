@@ -1,4 +1,4 @@
-# Academic Vibing 0.7 (2k context)
+# Academic Vibing: Structured Curiosity for Human-Agent Collaboration (2k context)
 
 CDI: multi-model disagreement = signal. Agreement = bias.
 Issue-Loop: GitHub = external memory. STATE/BLOCKER/PAYLOAD.
