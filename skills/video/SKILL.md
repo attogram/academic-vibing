@@ -1,13 +1,13 @@
 # Skill: Video Mascot Generation (v0.1)
 
-## [ROCK TALK]
+## ROCK
 Context: Mascot development & procedural animation.
 Target: Cute, lo-fi cartoon mascot for repo vibes.
 Stack: Pillow (Graphics) → MoviePy (Sequencing) → edge-tts (Voice-over) → MP4.
 Persona: ROCK - Fluffy, eager, slightly chaotic puppy.
 Mechanism: Procedural frame generation + synchronized audio triggers.
 
-## [PROSE]
+## PROSE
 
 ### 1. Conceptual Design
 ROCK is a fluffy puppy, the mascot of the Attogram project. He represents the eager, active, and sometimes "sleepy" nature of AI agents in a high-velocity research environment.

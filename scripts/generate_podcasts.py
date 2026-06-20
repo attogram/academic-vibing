@@ -37,7 +37,7 @@ BASE = Path("/Users/repos/github/academic-vibing")
 
 def extract_prose_speech(md: str) -> str:
     """Extract clean speech text from a podcast transcript markdown."""
-    # Find [PROSE] section, drop everything before it (the [ROCK TALK] header)
+    # Find PROSE section, drop everything before it (the ROCK header)
     m = re.search(r"\[PROSE\]\s*\n", md)
     body = md[m.end():] if m else md
 
@@ -79,7 +79,7 @@ def extract_prose_speech(md: str) -> str:
     # Remove blockquote markers
     body = re.sub(r"^\s*>\s*", "", body, flags=re.MULTILINE)
 
-    # Remove leftover bracket fragments like [ROCK TALK] or [PROSE]
+    # Remove leftover bracket fragments like ROCK or PROSE
     body = re.sub(r"\[[A-Z\s]+\]", "", body)
 
     # Clean up whitespace artifacts from removals:

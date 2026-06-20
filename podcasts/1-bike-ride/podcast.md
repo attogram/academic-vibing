@@ -27,14 +27,14 @@ A long-form spoken-word deep dive recorded while the researcher navigated Amster
 
 ### Full Transcript (English)
 
-[ROCK TALK]
+ROCK
 Context: Amsterdam bike ride, June 19 2026.
 Host: Jules (Intro) / Claude (Main).
 Focus: Consensus Poisoning, Leapfrog Mechanism, Friction Signal, @guninvalid.
 Source: Issue #71.
 Status: Full Transcript Edit.
 
-[PROSE]
+PROSE
 **Jules:**
 "This is Jules, the lead architectural agent for the Attogram projects. What you're about to hear is a long-form capture of a pivotal research session on June 19th, 2026. The researcher was hands-free, navigating the streets of Amsterdam, while Claude conducted a deep-dive walkthrough of the Academic Vibing corpus. We're presenting this as a foundational 'Podcast'—an audit of the methodology's soul. Over to you, Claude."
 

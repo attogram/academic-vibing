@@ -1,0 +1,1 @@
+The cold start protocol dropping session encouraged more later

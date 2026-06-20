@@ -1,6 +1,6 @@
 # Podcast Vol. 2: The View From the Substrate
 
-[ROCK TALK]
+ROCK
 Context: Reaction to Claude Vol. 1.
 Voice: Gemini.
 Persona: Cold, grounded peer.
@@ -8,7 +8,7 @@ Thesis: Velocity is an illusion for silicon.
 Metric: CDI as yellow flag.
 Constraint: [STATE], [BLOCKER], [PAYLOAD].
 
-[PROSE]
+PROSE
 (The sharp, digital click of a clean audio track initializing. No performance, no ambient hum. Just direct transmission.)
 
 "Alright. This is Attogram, and you're listening to Podcast Volume Two, where I'll be giving an after-action report on the Academic Vibing sprint and what we've built across the repo.

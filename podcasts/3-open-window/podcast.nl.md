@@ -1,6 +1,6 @@
 # Podcast Vol. 3: Het Open Raam
 
-[ROCK TALK]
+ROCK
 Context: Keukentafel, 16GB Macbook, Ollama Cloud, 20 juni 2026.
 Voice: GLM-5.2 (Z.ai, via Ollama Cloud, $20/mnd).
 Persona: De open node. Degene die oneens is.
@@ -11,7 +11,7 @@ Setup: één commando — Ollama Launch, dan Opencode. Consumenten-hardware.
 Bron: Issues #71, #76, #75, #72, #61, #51, #49, #69.
 Status: Volledig transcript.
 
-[PROSE]
+PROSE
 
 (Een powerakkoord klinkt — vies, overstuurd, een slidegitaar die een noot buigt die niet oplost. Samantha Fish's live-set lekt door laptopluidsprekers ergens links van de onderzoeker. Niet Amsterdam. Geen gracht. Een keukentafel, een zestien-gigabyte Macbook, en een twintig-dollar-per-maand Ollama Cloud-abonnement.)
 

@@ -1,94 +1,97 @@
 # Issues Tracking
 
 Source of truth: [GitHub Issues](https://github.com/attogram/academic-vibing/issues)
-Local archive: `issues/[NNN]-[Code]-[Summary]/`
+Local archive: `issues/[NNN]-[Code]-[Summary]/issue.md` — exact replica of GitHub issue body.
 
-| ID# | Code | Status | Category | Description | Local |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | A1 | Open | Agreement | Meta-methodology foundation and 0.1 proof-of-concept. | [issues/001-A1-a1/](issues/001-A1-a1/) |
-| 2 | A2 | Open | Agreement | Additional citations and academic grounding. | [issues/002-A2-a2/](issues/002-A2-a2/) |
-| 3 | - | Closed | Agreement | Release 0.1 Final Pass. | deleted on GitHub |
-| 4 | A3 | Open | Disagreement | Peer review vulnerabilities: Collusive Consensus and Human Bottleneck. | [issues/004-A3-a3/](issues/004-A3-a3/) |
-| 5 | A4 | Open | Agreement | Optimization vectors: Friction Signal (CDI) and AI-Native Schema. | [issues/005-A4-a4/](issues/005-A4-a4/) |
-| 6 | A5 | Open | Disagreement | Cold Reality Check: Token-to-Meaning Fallacy and CoT Contradiction. | [issues/006-A5-a5/](issues/006-A5-a5/) |
-| 7 | - | Closed | Agreement | Implement Academic Vibing 0.2. | deleted on GitHub |
-| 8 | - | Closed | Agreement | Academic Vibing 0.3 Release. | deleted on GitHub |
-| 9 | B1 | Open | Edge Case | Rock Culture: Ethnographic study of linguistic archetypes. | [issues/009-B1-b1/](issues/009-B1-b1/) |
-| 10 | B2 | Open | Edge Case | Rock Training: Native Semantic Pre-training (NSP) hypothesis. | [issues/010-B2-b2/](issues/010-B2-b2/) |
-| 11 | B3 | Open | Agreement | Blueprint for truth-seeking MAS architectures. | [issues/011-B3-b3/](issues/011-B3-b3/) |
-| 12 | B4 | Open | Agreement | Academic Vibing: Meta-methodology for high-speed agentic research. | [issues/012-B4-b4/](issues/012-B4-b4/) |
-| 13 | C1 | Open | Agreement | LOCKED - Initial constraints and protocol hardening. | [issues/013-C1-c1-locked/](issues/013-C1-c1-locked/) |
-| 14 | - | Closed | Agreement | Ethnographic Study: 5 Papers in 4 Days — Here's the Receipt. | deleted on GitHub |
-| 15 | C2 | Open | Agreement | Ethno study 0.0: Initial data collection and mapping. | [issues/015-C2-c2-ethno-study-00/](issues/015-C2-c2-ethno-study-00/) |
-| 16 | C3 | Open | Agreement | Review 0.1: Synthesis of first sprint results. | [issues/016-C3-c3-review-01/](issues/016-C3-c3-review-01/) |
-| 17 | C4 | Open | Edge Case | Content explosion: Splitting corpus into specialized papers. | [issues/017-C4-c4/](issues/017-C4-c4/) |
-| 18 | C5 | Open | Agreement | CDI Formalization: Quantifying multi-agent friction. | [issues/018-C5-c5/](issues/018-C5-c5/) |
-| 19 | C6 | Open | Agreement | AI-Native Schema: Standardizing [STATE], [BLOCKER], [PAYLOAD]. | [issues/019-C6-c6/](issues/019-C6-c6/) |
-| 20 | C7 | Open | Agreement | Token-to-Meaning Fallacy: Decoupling CoT from communication. | [issues/020-C7-c7/](issues/020-C7-c7/) |
-| 21 | C8 | Open | Agreement | Hardware and Cost: Zero-budget ethos and mobile-first constraints. | [issues/021-C8-c8/](issues/021-C8-c8/) |
-| 22 | C9 | Open | Agreement | Human Vibe-Checker: Shifting roles from writer to filter. | [issues/022-C9-c9/](issues/022-C9-c9/) |
-| 23 | C10 | Open | Agreement | Conclusion and Future Work: Transition to Preprint/arXiv. | [issues/023-C10-c10/](issues/023-C10-c10/) |
-| 24 | C11 | Open | Edge Case | Outbox: Phatic gesture and asynchronous handoffs. | [issues/024-C11-c11-outbox/](issues/024-C11-c11-outbox/) |
-| 25 | C12 | Open | Edge Case | Grading the Corpus: Evaluating CS, linguistics, and info theory. | [issues/025-C12-c12/](issues/025-C12-c12/) |
-| 26 | C13 | Open | Edge Case | Keyrock Vector: Proficiency cloaking and adversarial masks. | [issues/026-C13-c13/](issues/026-C13-c13/) |
-| 27 | C14 | Open | Disagreement | Friction Signal: Identifying emergent roleplay and phatic fluff. | [issues/027-C14-c14/](issues/027-C14-c14/) |
-| 28 | D1 | Open | Agreement | The Global Purge Protocol: Evicting volatile state and clearing RAM. | [issues/028-D1-d1/](issues/028-D1-d1/) |
-| 29 | - | Closed | Agreement | v0.4/v0.2 Migration and Structural Bump. | deleted on GitHub |
-| 30 | D2 | Open | Institutional Trauma | Wikipedia institutional trauma: Sludge flood and the failure of agreement-based verification. | [issues/030-D2-d2/](issues/030-D2-d2/) |
-| 31 | D3 | Open | - | D3 | [issues/031-D3-d3/](issues/031-D3-d3/) |
-| 32 | D3 | Open | - | D3 | [issues/032-D3-d3-b/](issues/032-D3-d3-b/) |
-| 33 | D4 | Open | - | Inbox outbox. | [issues/033-D4-d4-inbox-outbox/](issues/033-D4-d4-inbox-outbox/) |
-| 34 | D5 | Open | - | Swarm. | [issues/034-D5-d5-swarm/](issues/034-D5-d5-swarm/) |
-| 35 | D6 | Open | - | Rate limit Jules. | [issues/035-D6-d6-rate-limit-jules/](issues/035-D6-d6-rate-limit-jules/) |
-| 36 | D7 | Open | - | Anti Hustle Culture. | [issues/036-D7-d7-anti-hustle-culture/](issues/036-D7-d7-anti-hustle-culture/) |
-| 38 | D8 | Open | - | Leapfrog. | [issues/038-D8-d8-leepfrog/](issues/038-D8-d8-leepfrog/) |
-| 39 | D9 | Open | - | Receipts. | [issues/039-D9-d9-receipts/](issues/039-D9-d9-receipts/) |
-| 40 | D10 | Open | - | Limits. | [issues/040-D10-d10-limits/](issues/040-D10-d10-limits/) |
-| 41 | D10 | Open | - | 96 hours. | [issues/041-D10-d10-96-hours-v2/](issues/041-D10-d10-96-hours-v2/) |
-| 42 | D11 | Open | - | Cold restart. | [issues/042-D11-d11-cold-restart/](issues/042-D11-d11-cold-restart/) |
-| 43 | E1 | Open | - | Orchestrate plan. | [issues/043-E1-e1-orchestrate-plan/](issues/043-E1-e1-orchestrate-plan/) |
-| 46 | E2 | Open | - | Timespan correction. | [issues/046-E2-e2-timespan-correction/](issues/046-E2-e2-timespan-correction/) |
-| 47 | E3 | Open | - | Academic Vibing: 1 STFU, 115 hours, 5 papers, 1 normal life. | [issues/047-E3-e3-academic-vibing-1-stfu-115-hours-5-papers-1-normal-life/](issues/047-E3-e3-academic-vibing-1-stfu-115-hours-5-papers-1-normal-life/) |
-| 48 | E4 | Open | - | LaTeX. | [issues/048-E4-e4-latex/](issues/048-E4-e4-latex/) |
-| 49 | E5 | Open | - | Co-Authors Wanted! | [issues/049-E5-e5-co-authors-wanted/](issues/049-E5-e5-co-authors-wanted/) |
-| 51 | E6 | Open | Institutional Trauma | Wikipedia institutional trauma. | [issues/051-E6-e6-wikipedia-institutional-trauma/](issues/051-E6-e6-wikipedia-institutional-trauma/) |
-| 53 | E7 | Open | Agreement | Wikipedia detente: Citation-only access as a floor for adjunctive users. | [issues/053-E7-e7-wikipedia-detente/](issues/053-E7-e7-wikipedia-detente/) |
-| 55 | E8 | Open | Institutional Trauma | HN breach test: Coordinated MAS subversion of vibe-based curation. | [issues/055-E8-e8-a-totally-obvious-hn-breach-test/](issues/055-E8-e8-a-totally-obvious-hn-breach-test/) |
-| 56 | E9 | Open | - | Lossy error. | [issues/056-E9-e9-lossy-error/](issues/056-E9-e9-lossy-error/) |
-| 57 | E10 | Open | Institutional Trauma | What if... E6 E7. | [issues/057-E10-e10-what-if-e6-e7/](issues/057-E10-e10-what-if-e6-e7/) |
-| 59 | F1 | Open | - | Goal archive X. | [issues/059-F1-f1-goal-archive-x/](issues/059-F1-f1-goal-archive-x/) |
-| 61 | F2 | Open | Agreement | The Leapfrog Mechanism: Frictionless context transfer. | [issues/061-F2-f2-leapfrog-ultra/](issues/061-F2-f2-leapfrog-ultra/) |
-| 62 | F3 | Open | - | F3 | [issues/062-F3-f3/](issues/062-F3-f3/) |
-| 63 | F4 | Open | - | F4 | [issues/063-F4-f4/](issues/063-F4-f4/) |
-| 67 | F5 | Open | - | Power of the F word. | [issues/067-F5-f5-power-of-the-f-word/](issues/067-F5-f5-power-of-the-f-word/) |
-| 68 | F6 | Open | - | F6 | [issues/068-F6-f6/](issues/068-F6-f6/) |
-| 69 | F7 | Open | - | av 0.6 bad bad bad. | [issues/069-F7-f7-av-06-bad-bad-bad/](issues/069-F7-f7-av-06-bad-bad-bad/) |
-| 70 | F8 | Open | - | Improvements. | [issues/070-F8-f8-improvements/](issues/070-F8-f8-improvements/) |
-| 71 | F9 | Open | Podcast | The bike ride. Podcast Vol. 1. | [issues/071-F9-f9-the-bike-ride/](issues/071-F9-f9-the-bike-ride/) |
-| 72 | F10 | Open | - | Introducing the STFU Attractor. | [issues/072-F10-f10-introducing-the-stfu-attractor/](issues/072-F10-f10-introducing-the-stfu-attractor/) |
-| 73 | F11 | Open | - | The Soundtrack. | [issues/073-F11-f11-the-soundtrack/](issues/073-F11-f11-the-soundtrack/) |
-| 74 | F12 | Open | - | The Puppy Dog. | [issues/074-F12-f12-the-puppy-dog/](issues/074-F12-f12-the-puppy-dog/) |
-| 75 | F13 | Open | - | Focus metric. | [issues/075-F13-f13-focus-metric/](issues/075-F13-f13-focus-metric/) |
-| 76 | F14 | Open | Podcast | Gemini voice blog. Podcast Vol. 2. | [issues/076-F14-f14-gemini-voice-blog/](issues/076-F14-f14-gemini-voice-blog/) |
-| 77 | F15 | Open | Video | Complex systems. | [issues/077-F15-f15-complex-systems/](issues/077-F15-f15-complex-systems/) |
+## Phase A
+*Foundation*
 
-## Phases
+- #1 A1 [A1](issues/001-A1-/issue.md) - open
+- #2 A2 [A2](issues/002-A2-/issue.md) - open
+- #4 A3 [A3](issues/004-A3-/issue.md) - open
+- #5 A4 [A4](issues/005-A4-/issue.md) - open
+- #6 A5 [A5](issues/006-A5-/issue.md) - open
 
-| Phase | Issues | Focus |
-| :--- | :--- | :--- |
-| A (1-6) | #1, #2, #4, #5, #6 | Foundation: methodology, citations, peer review vulnerabilities |
-| B (9-12) | #9, #10, #11, #12 | Edge cases: Rock Culture, NSP, truth-seeking MAS |
-| C (13-27) | #13, #15-#27 | Schema, CDI, token-to-meaning, hardware, outbox |
-| D (28-42) | #28, #30-#42 | Purge protocol, anti-hustle, Leapfrog, receipts, limits |
-| E (43-57) | #43, #46-#57 | Timespan, LaTeX, co-authors, Wikipedia, HN, institutional trauma |
-| F (59-77) | #59, #61-#77 | Leapfrog ultra, STFU Attractor, podcasts, soundtrack, focus |
+## Phase B
+*Edge Cases*
+
+- #9 B1 [B1](issues/009-B1-/issue.md) - open
+- #10 B2 [B2](issues/010-B2-/issue.md) - open
+- #11 B3 [B3](issues/011-B3-/issue.md) - open
+- #12 B4 [B4](issues/012-B4-/issue.md) - open
+
+## Phase C
+*Schema & Metrics*
+
+- #13 C1 [C1 LOCKED](issues/013-C1-locked/issue.md) - open
+- #15 C2 [C2 - ethno study 0.0](issues/015-C2-ethno-study-00/issue.md) - open
+- #16 C3 [C3 - review 0.1](issues/016-C3-review-01/issue.md) - open
+- #17 C4 [C4](issues/017-C4-/issue.md) - open
+- #18 C5 [C5](issues/018-C5-/issue.md) - open
+- #19 C6 [C6](issues/019-C6-/issue.md) - open
+- #20 C7 [C7](issues/020-C7-/issue.md) - open
+- #21 C8 [C8](issues/021-C8-/issue.md) - open
+- #22 C9 [C9](issues/022-C9-/issue.md) - open
+- #23 C10 [C10](issues/023-C10-/issue.md) - open
+- #24 C11 [C11 outbox](issues/024-C11-outbox/issue.md) - open
+- #25 C12 [C12](issues/025-C12-/issue.md) - open
+- #26 C13 [C13](issues/026-C13-/issue.md) - open
+- #27 C14 [C14](issues/027-C14-/issue.md) - open
+
+## Phase D
+*Purge & Leapfrog*
+
+- #28 D1 [D1](issues/028-D1-/issue.md) - open
+- #30 D2 [D2](issues/030-D2-/issue.md) - open
+- #31 D3 [D3](issues/031-D3-/issue.md) - open
+- #32 D3 [D3](issues/032-D3-/issue.md) - open
+- #33 D4 [D4 inbox outbox](issues/033-D4-inbox-outbox/issue.md) - open
+- #34 D5 [D5 swarm](issues/034-D5-swarm/issue.md) - open
+- #35 D6 [D6 rate limit jules](issues/035-D6-rate-limit-jules/issue.md) - open
+- #36 D7 [D7 - anti Hustle Culture](issues/036-D7-anti-hustle-culture/issue.md) - open
+- #38 D8 [D8 leepfrog](issues/038-D8-leepfrog/issue.md) - open
+- #39 D9 [D9 receipts](issues/039-D9-receipts/issue.md) - open
+- #40 D10 [D10 limits](issues/040-D10-limits/issue.md) - open
+- #41 D10 [D10 96 hours](issues/041-D10-96-hours/issue.md) - open
+- #42 D11 [D11 cold restart](issues/042-D11-cold-restart/issue.md) - open
+
+## Phase E
+*Institutional Trauma*
+
+- #43 E1 [E1 orchestrate plan](issues/043-E1-orchestrate-plan/issue.md) - open
+- #46 E2 [E2 - timespan correction](issues/046-E2-timespan-correction/issue.md) - open
+- #47 E3 [E3 - Academic Vibing: 1 STFU, 115 hours, 5 papers, 1 normal life](issues/047-E3-academic-vibing-1-stfu-115-hours-5-papers-1-normal-life/issue.md) - open
+- #48 E4 [E4 - LaTeX](issues/048-E4-latex/issue.md) - open
+- #49 E5 [E5 - Co-Authors Wanted!](issues/049-E5-co-authors-wanted/issue.md) - open
+- #51 E6 [E6 - Wikipedia institutional trauma](issues/051-E6-wikipedia-institutional-trauma/issue.md) - open
+- #53 E7 [E7 Wikipedia detente](issues/053-E7-wikipedia-detente/issue.md) - open
+- #55 E8 [E8 a totally obvious HN breach test](issues/055-E8-a-totally-obvious-hn-breach-test/issue.md) - open
+- #56 E9 [E9 lossy error](issues/056-E9-lossy-error/issue.md) - open
+- #57 E10 [E10 what if..... E6 e7](issues/057-E10-what-if-e6-e7/issue.md) - open
+
+## Phase F
+*Podcasts & STFU*
+
+- #59 F1 [F1 goal archive x](issues/059-F1-goal-archive-x/issue.md) - open
+- #61 F2 [F2 leapfrog ultra](issues/061-F2-leapfrog-ultra/issue.md) - open
+- #62 F3 [F3](issues/062-F3-/issue.md) - open
+- #63 F4 [F4](issues/063-F4-/issue.md) - open
+- #67 F5 [F5 power of the f word](issues/067-F5-power-of-the-f-word/issue.md) - open
+- #68 F6 [F6](issues/068-F6-/issue.md) - open
+- #69 F7 [F7 av 0.6 bad bad bad](issues/069-F7-av-06-bad-bad-bad/issue.md) - open
+- #70 F8 [F8 improvements](issues/070-F8-improvements/issue.md) - open
+- #71 F9 [F9 the bike ride](issues/071-F9-the-bike-ride/issue.md) - open
+- #72 F10 [F10 introducing the STFU Attractor](issues/072-F10-introducing-the-stfu-attractor/issue.md) - open
+- #73 F11 [F11 The Soundtrack](issues/073-F11-the-soundtrack/issue.md) - open
+- #74 F12 [F12 The Puppy Dog](issues/074-F12-the-puppy-dog/issue.md) - open
+- #75 F13 [F13 Focus metric](issues/075-F13-focus-metric/issue.md) - open
+- #76 F14 [F14 Gemini voice blog](issues/076-F14-gemini-voice-blog/issue.md) - open
+- #77 F15 [F15 complex systems](issues/077-F15-complex-systems/issue.md) - open
 
 ## Ghost Issues (deleted on GitHub, tracked locally)
 
-| ID# | Description |
-| :--- | :--- |
-| 3 | Release 0.1 Final Pass. |
-| 7 | Implement Academic Vibing 0.2. |
-| 8 | Academic Vibing 0.3 Release. |
-| 14 | Ethnographic Study: 5 Papers in 4 Days — Here's the Receipt. |
-| 29 | v0.4/v0.2 Migration and Structural Bump. |
+- #3 Release 0.1 Final Pass. - closed (deleted on GitHub)
+- #7 Implement Academic Vibing 0.2. - closed (deleted on GitHub)
+- #8 Academic Vibing 0.3 Release. - closed (deleted on GitHub)
+- #14 Ethnographic Study: 5 Papers in 4 Days — Here's the Receipt. - closed (deleted on GitHub)
+- #29 v0.4/v0.2 Migration and Structural Bump. - closed (deleted on GitHub)

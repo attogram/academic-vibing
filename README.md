@@ -10,40 +10,25 @@ Multi-agent research audio logs. Each podcast is a single node in the swarm givi
 
 ### Academic Vibing (Core Paper)
 
-#### Latest Version (0.6) - Focus: Consensus Poisoning & Institutional Trauma
-- [Combined (Rock + Prose)](papers/academic-vibing/v0.6/academic-vibing.0.6.combined.md)
-- [Rock Version](papers/academic-vibing/v0.6/academic-vibing.0.6.rock.md)
-- [Prose Version](papers/academic-vibing/v0.6/academic-vibing.0.6.prose.md)
-- [LaTeX Version](papers/academic-vibing/v0.6/academic-vibing.0.6.tex)
-- [Consensus Poisoning: The Bad Faith Swarm](papers/academic-vibing/v0.6/consensus-poisoning.0.6.rock.md)
-- [HN Breach: Subverting Vibe-Based Curation](papers/academic-vibing/v0.6/hn-breach.0.6.rock.md)
-- [Wikipedia Institutional Trauma Analysis](papers/academic-vibing/v0.6/wikipedia-trauma.0.6.rock.md)
-- [The Leapfrog Mechanism: Frictionless Context Transfer](papers/academic-vibing/v0.6/leapfrog-mechanism.0.6.rock.md)
+- [Combined (Rock + Prose)](papers/academic-vibing/paper.combined.md)
+- [Rock Version](papers/academic-vibing/paper.rock.md)
+- [Prose Version](papers/academic-vibing/paper.prose.md)
+- [LaTeX Source](papers/academic-vibing/paper.tex) · [PDF](papers/academic-vibing/paper.pdf)
 
-#### Version 0.5 - Stand-alone
-- [Combined (Rock + Prose)](papers/academic-vibing/v0.5/academic-vibing.0.5.combined.md)
-- [Rock Version](papers/academic-vibing/v0.5/academic-vibing.0.5.rock.md)
-- [Prose Version](papers/academic-vibing/v0.5/academic-vibing.0.5.prose.md)
+### Receipts Paper
 
-#### Version 0.4
-- [Combined (Rock + Prose)](papers/academic-vibing/v0.4/academic-vibing.0.4.combined.md)
-- [Rock Version](papers/academic-vibing/v0.4/academic-vibing.0.4.rock.md)
-- [Prose Version](papers/academic-vibing/v0.4/academic-vibing.0.4.prose.md)
+- [Combined (Rock + Prose)](papers/receipts/paper.combined.md)
+- [Rock Version](papers/receipts/paper.rock.md)
+- [Prose Version](papers/receipts/paper.prose.md)
 
-#### Version 0.3
-- [Combined (Rock + Prose)](papers/academic-vibing/v0.3/academic-vibing.0.3.combined.md)
-- [Rock Version](papers/academic-vibing/v0.3/academic-vibing.0.3.rock.md)
-- [Prose Version](papers/academic-vibing/v0.3/academic-vibing.0.3.prose.md)
+### Archive
 
-#### Version 0.2
-- [Combined (Rock + Prose)](papers/academic-vibing/v0.2/academic-vibing.0.2.combined.md)
-- [Rock Version](papers/academic-vibing/v0.2/academic-vibing.0.2.rock.md)
-- [Prose Version](papers/academic-vibing/v0.2/academic-vibing.0.2.prose.md)
-
-#### Version 0.1
-- [Combined (Rock + Prose)](papers/academic-vibing/v0.1/academic-vibing.0.1.combined.md)
-- [Rock Version](papers/academic-vibing/v0.1/academic-vibing.0.1.rock.md)
-- [Prose Version](papers/academic-vibing/v0.1/academic-vibing.0.1.prose.md)
+Tangential papers not required for arXiv submission. Available in `papers/archive/`:
+- [Consensus Poisoning](papers/archive/consensus-poisoning/paper.rock.md)
+- [HN Breach](papers/archive/hn-breach/paper.rock.md)
+- [Leapfrog Mechanism](papers/archive/leapfrog-mechanism/paper.rock.md)
+- [Wikipedia Trauma](papers/archive/wikipedia-trauma/paper.rock.md)
+- [Wikipedia Detente](papers/archive/wikipedia-detente/paper.combined.md)
 
 ### Video Mascot
 
@@ -52,17 +37,9 @@ Multi-agent research audio logs. Each podcast is a single node in the swarm givi
 
 ### Meta-Studies
 
-#### [5 Papers in 4 Days: Here's the Receipt (v0.3)](papers/5-papers-4-days/v0.3/5-papers-4-days.0.3.combined.md) - Stand-alone
-- [Rock Version](papers/5-papers-4-days/v0.3/5-papers-4-days.0.3.rock.md)
-- [Prose Version](papers/5-papers-4-days/v0.3/5-papers-4-days.0.3.prose.md)
-
-#### [5 Papers in 4 Days: Here's the Receipt (v0.2)](papers/5-papers-4-days/v0.2/5-papers-4-days.0.2.combined.md)
-- [Rock Version](papers/5-papers-4-days/v0.2/5-papers-4-days.0.2.rock.md)
-- [Prose Version](papers/5-papers-4-days/v0.2/5-papers-4-days.0.2.prose.md)
-
-#### [5 Papers in 4 Days: Here's the Receipt (v0.1)](papers/5-papers-4-days/v0.1/5-papers-4-days.0.1.combined.md)
-- [Rock Version](papers/5-papers-4-days/v0.1/5-papers-4-days.0.1.rock.md)
-- [Prose Version](papers/5-papers-4-days/v0.1/5-papers-4-days.0.1.prose.md)
+#### [5 Papers in 4 Days: Here's the Receipt (v0.3)](papers/receipts/v0.3/5-papers-4-days.0.3.combined.md) - Stand-alone
+- [Rock Version](papers/receipts/v0.3/5-papers-4-days.0.3.rock.md)
+- [Prose Version](papers/receipts/v0.3/5-papers-4-days.0.3.prose.md)
 
 ---
 
@@ -77,7 +54,8 @@ Author: Attogram - https://github.com/attogram
 - [Claims (CLAIMS.md)](CLAIMS.md)
 - [Citations (CITATIONS.md)](CITATIONS.md)
 - [Issues Tracking (ISSUES.md)](ISSUES.md)
+- [Skills](skills/) — Podcast generation, issues sync, TeX/PDF
 
 ## See also
 
-- [Rock Talk 0.1 Protocol](https://github.com/attogram/rock-talk)
+- [Rock Talk Protocol](https://github.com/attogram/rock-talk)

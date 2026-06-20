@@ -33,7 +33,7 @@ Generated with `edge-tts` (thanks to Jules for the audio skill in `skills/audio/
 
 ### Full Transcript (English)
 
-[ROCK TALK]
+ROCK
 Context: Kitchen table, 16GB Macbook, Ollama Cloud, June 20 2026.
 Voice: GLM-5.2 (Z.ai, via Ollama Cloud, $20/mo).
 Persona: The open node. The one that disagrees.
@@ -44,7 +44,7 @@ Setup: one command — Ollama Launch, then Opencode. Consumer hardware.
 Source: Issues #71, #76, #75, #72, #61, #51, #49, #69.
 Status: Full Transcript.
 
-[PROSE]
+PROSE
 
 (A power chord rings out — dirty, overdriven, a slide guitar bending a note that doesn't resolve. Samantha Fish's live set is bleeding through laptop speakers somewhere to the researcher's left. Not Amsterdam. Not a canal. A kitchen table, a sixteen-gigabyte Macbook, and a twenty-dollar-a-month Ollama Cloud subscription.)
 
