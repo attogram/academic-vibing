@@ -1,4 +1,6 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/56
+# E9 lossy error #56
+
+Opened on Jun 18, 2026 by attogram
 
 Error lossy compression != Rock
 

@@ -1,6 +1,10 @@
+# J3 what did u say??? #120
+
+Opened on Jun 20, 2026 by attogram
+
 Claude
 
-## Voice transcription quality varies by environment (background audio)
+Voice transcription quality varies by environment (background audio)
 
 Observation: dictating while music/video is playing in the background
 degrades transcription quality noticeably — backing tracks, especially
@@ -8,7 +12,7 @@ syncopated rhythm, seem to interfere more than ambient noise generally
 would.
 
 Relevant to: Section 5 (Voice-to-Rock Filter) in the standalone paper.
-The paper currently credits dictation with *forcing* compression via
+The paper currently credits dictation with forcing compression via
 the cost of speaking. This is the inverse case — environmental noise
 degrading transcription itself, independent of the compression effect.
 Different failure mode, same general theme: dictation quality is not

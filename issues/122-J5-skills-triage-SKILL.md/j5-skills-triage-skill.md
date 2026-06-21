@@ -1,9 +1,5 @@
-# Issue #122: J5 skills/triage/SKILL.md
+# J5 skills/triage/SKILL.md #122
+
+Opened on Jun 20, 2026 by attogram
 
 Orchestrator agent answers wtf is going on
-
-[EPISTEMIC SORTING DEFINITION]
-- PAPER (claims meant to survive external scrutiny)
-- OUTLET (non-verifiable, expressive, or internal-context material)
-- NEEDS VERIFICATION (claims requiring evidence before promotion)
-- TOO RAW (premature or under-formed ideas)

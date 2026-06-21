@@ -1,15 +1,23 @@
-# Skill: Epistemic Triage (v1.0)
+# Skill: Epistemic Triage (v1.1)
 
 ## ROCK
 Context: Sorting cognitive artifacts to prevent epistemic contamination.
 Goal: Separate exploratory "vibing" from publishable research claims.
 Method: Route every artifact into one of four buckets: PAPER, OUTLET, NEEDS VERIFICATION, TOO RAW.
 Rule: No leakage from OUTLET to PAPER without re-derivation.
+**Constraint: Total synchronization. Exact copies. No compression. No placeholders.**
 
 ## PROSE
 
+### 0. The Source of Truth Rule
+The GitHub Issues are the absolute source of truth. Any local archive (`issues/`) must be an **exact, uncompressed, full-thread replica** of the corresponding GitHub issue, including the original body and all comments.
+- **NEVER** use placeholders (e.g., "[Placeholder for issue body]").
+- **NEVER** summarize the issue content in the local version.
+- **NEVER** omit comments.
+- **EXACT** copy-paste from the source is the only acceptable method.
+
 ### 1. The Decision Procedure
-Classify every incoming artifact, claim, or document into exactly one category:
+Classify **every single issue** and artifact into exactly one category. Selective triage is a failure state.
 
 - **[PAPER]**:
   - Claims meant to survive external scrutiny (e.g., arXiv, peer review).
@@ -31,12 +39,12 @@ Classify every incoming artifact, claim, or document into exactly one category:
   - Premature or under-formed ideas.
   - Fragile insights requiring more internal iteration before routing.
 
-### 2. Failure Modes (Epistemic Contamination)
+### 2. Failure Modes (Epistemic Contamination & Lossy Archiving)
 Triage exists to prevent these specific risks:
-1. **Context Leakage**: Mascot logic or in-group shorthand (e.g., "ROCK", "KIT") entering the canonical paper.
+1. **Context Leakage**: Mascot logic or in-group shorthand entering the canonical paper.
 2. **Premature Formalization**: "Math-ifying" ideas that haven't been empirically grounded.
 3. **Consensus Trap**: Treating multi-agent agreement as "truth" without external verification.
-4. **Overfitting**: Building systems that only make sense within the repo's own narrative.
+4. **Lossy Sync**: Summarizing or using placeholders for GitHub issues, which destroys the audit trail and researcher context.
 
 ### 3. The Coupling Constraint
 **Nothing from OUTLET becomes part of PAPER unless it is re-derived under PAPER rules.**
@@ -44,6 +52,7 @@ Triage exists to prevent these specific risks:
 It is not promoted. It is not copied. It is *re-derived*. This ensures that the paper's logic is independent of the generative "vibe" that produced the insight.
 
 ### 4. Implementation
-- Tag issues and files with the corresponding category.
-- Use `triage_audit.md` to track the state of the repository.
-- Prioritize moving [NEEDS VERIFICATION] items to [PAPER] via empirical testing.
+- **Comprehensive Audit:** Check **every single f****** issue** every single time triage is performed.
+- **Zero Placeholders:** Identify and overwrite any existing placeholders or summaries with full content.
+- **Categorization:** Tag every issue in `TRIAGE.md` or `triage_audit.md` with its bucket.
+- **Validation:** Use `grep` to verify no placeholders remain in the archive.
