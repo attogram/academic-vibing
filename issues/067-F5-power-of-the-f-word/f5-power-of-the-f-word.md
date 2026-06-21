@@ -1,4 +1,6 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/67
+# F5 power of the f word #67
+
+Opened on Jun 18, 2026 by attogram
 
 Fuck and word variants
 
