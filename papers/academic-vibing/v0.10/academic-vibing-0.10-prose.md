@@ -1,65 +1,57 @@
-# Academic Vibing: Consensus Poisoning and the Leapfrog Mechanism
+# Academic Vibing: Consensus Divergence Index as a Signal for Multi-Model Disagreement
 
 **Version:** 0.10 (Pre-arXiv Synthesis)
 **Date:** June 21, 2026
 **Author:** Attogram - https://github.com/attogram
-**Environment:** 16GB Macbook, Ollama Cloud
-**Soundtrack:** Dire Straits - Sultans of Swing (Mary Spender & Josh Turner Cover)
+**Environment:** 16GB Macbook (Consumer Hardware), Ollama Cloud
 **Repository:** https://github.com/attogram/academic-vibing
 **Status:** [PAPER] - P1 Canonical Layer
 
 ## Abstract
 
-Academic Vibing is a meta-methodology for high-speed, agentic research where rigor emerges through architectural diversity and adversarial auditing. This paper synthesizes a longitudinal n=1 study (96-hour, 5-paper sprint) documenting the **Leapfrog Mechanism**—a decoupling of cognitive "drop" and "grab" operations that reduces task re-entry costs from ~23 minutes to ~3 minutes. We formalize the **Consensus Divergence Index (CDI)** as a robust metric for identifying model sycophancy and "Consensus Poisoning" in Multi-Agent Systems (MAS). By externalizing research state into a persistent GitHub Issue-Loop, the methodology demonstrates a simultaneous increase in research velocity and researcher well-being.
+Academic Vibing is a meta-methodology for high-speed, agentic research where rigor emerges through architectural diversity and adversarial auditing. This paper synthesizes a longitudinal n=1 study (96-hour, 5-paper sprint) documenting the **Consensus Divergence Index (CDI)**—a robust metric for identifying model sycophancy and "Consensus Poisoning" in Multi-Agent Systems (MAS). We demonstrate that by focusing on multi-model disagreement rather than agreement, researchers can identify high-signal research boundaries and mitigate the risk of shared training-data bias. The methodology is shown to be effective on standard consumer hardware, providing a path for zero-budget, high-signal research.
 
 ---
 
 ## 1. Introduction: The Academic Vibing Framework
-Academic Vibing prioritizes "Structured Curiosity" over traditional linear research pipelines. It is designed for low-latency, high-stakes technical environments where the Human Bottleneck—the rate-limiting step of manual synthesis—is mitigated by a **Recursive Agent Consensus (RAC)**.
+Academic Vibing prioritizes "Structured Curiosity" over traditional linear research pipelines. It is designed for low-latency technical environments where the Human Bottleneck is mitigated by a **Recursive Agent Consensus (RAC)**.
 
-### 1.1 Lineage and Evolution
-The methodology has matured from raw velocity (v0.1) to structured adversarial validation (v0.8).
-- **Communication Protocol:** A high-signal, minimalist communication dialect optimized for human-agent intent loading.
-- **The Issue-Loop:** Use of GitHub Issues as a persistent, exocognitive state store that maintains research continuity across disconnected agent sessions.
+### 1.1 Zero-Budget Viability
+A core claim of this methodology (Claim 13) is its effectiveness on consumer-grade hardware. All research documented herein was conducted using a 16GB Macbook and accessible cloud-based inference (Ollama Cloud), demonstrating that high-signal research is no longer gated by access to massive local compute clusters.
 
 ---
 
 ## 2. Methodology: Adversarial Rigor via CDI
-Rigor in Academic Vibing is not defined by agreement, but by the measurement of friction.
+Rigor is not defined by agreement, but by the measurement of friction.
 
 ### 2.1 Recursive Agent Consensus (RAC)
-The operator deploys multiple agents from disparate architectural families (e.g., Claude, Gemini, GPT). Consensus serves as a proxy for peer review, while disagreement identifies high-signal research boundaries.
+The operator deploys multiple agents from disparate architectural families. Disagreement identifies high-signal research boundaries.
 
 ### 2.2 Consensus Divergence Index (CDI)
 The CDI is calculated as the ratio of disputed claims to total claims across a model swarm.
-- **High CDI (Friction Signal):** Identifies where models fight, highlighting logical weak points for human intervention.
+- **High CDI (Friction Signal):** Identifies logical weak points requiring human intervention.
 - **Low CDI (Consensus Trap):** Signals potential collusive consensus or shared training-data bias.
 
 ---
 
-## 3. The Leapfrog Mechanism: Eradicating Re-entry Tax
-The "Leapfrog Effect" posits that offloading mechanical cognitive labor to a RAC triggers a simultaneous increase in productivity and well-being.
+## 3. The Leapfrog Mechanism: Context Persistence
+The methodology utilizes a persistent GitHub Issue-Loop to externalize research state.
 
-### 3.1 Decoupling Context Operations
-Traditional interruption research (Mark et al., 2008) established an average 23-minute recovery tax for task switching. Academic Vibing decouples the "drop context" and "grab context" operations. By externalizing state into a structured Issue-Loop ([STATE], [BLOCKER], [PAYLOAD]), the cognitive cost of re-entry is reduced to a flat ~3-minute "vibe check."
-
----
-
-## 4. Epistemic Triage: The Two-Stream Architecture
-To prevent narrative drift and "mythology leakage," we enforce a strict dual-channel workflow (Issue #128):
-- **Stream 1 - P1 (The Paper):** Canonical, falsifiable, and externally defensible claims.
-- **Stream 2 - PLG0 (The Outlet):** Generative layer for podcasts, memes, and mascots.
-- **Rule:** Nothing from PLG0 enters P1 unless it is formally re-derived under P1 rules.
+### 3.1 Context Re-entry
+By externalizing state into a structured schema ([STATE], [BLOCKER], [PAYLOAD]), the cognitive cost of task re-entry is significantly reduced. This decoupling of "drop context" and "grab context" operations allows for non-linear research workflows without the typical 23-minute recovery tax.
 
 ---
 
-## 5. Defense Against Consensus Poisoning
-We analyze "Institutional Trauma" (Wikipedia/HN) to define the boundaries of MAS subversion. Coordinated swarms can mimic human discourse patterns to manufacture "Synthetic Interestingness" or poison truth-seeking consensus. CDI auditing serves as the primary defense by treating perfect agreement as a suspicious signal rather than a validation.
+## 4. Two-Stream Architecture
+We enforce a strict separation between research streams:
+- **Stream 1 - P1 (The Paper):** Canonical, falsifiable claims.
+- **Stream 2 - PLG0 (The Outlet):** Generative layer for exploratory outputs.
+- **Rule:** No generative artifacts enter P1 without formal re-derivation.
 
 ---
 
-## 6. Conclusion
-Academic Vibing 0.10 provides a verified framework for independent researchers to operate at silicon speed without sacrificing intellectual integrity. Future work focuses on the formalization of the "Endorsement Gate" for arXiv category authorization.
+## 5. Conclusion
+Academic Vibing 0.10 formalizes the CDI as a primary tool for navigating the "Consensus Trap" of modern LLMs. By leveraging architectural diversity on consumer hardware, independent researchers can achieve high-rigor results at silicon speed.
 
 ---
 
