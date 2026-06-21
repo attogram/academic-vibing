@@ -100,6 +100,40 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/[code-summary].md` — exact repli
 - #96 G7 [G7 review 0.8](https://github.com/attogram/academic-vibing/issues/96) | [local](issues/096-G7-review-0.8/g7-review-0.8.md) - open
 - #97 G8 [G8 Intterupts](https://github.com/attogram/academic-vibing/issues/97) | [local](issues/097-G8-interrupts/g8-interrupts.md) - open
 - #98 G9 [G9 SOUNDTRACK.md](https://github.com/attogram/academic-vibing/issues/98) | [local](issues/098-G9-soundtrack.md/g9-soundtrack.md) - open
+- #99 G10 [G10 Jules orchestrator review](https://github.com/attogram/academic-vibing/issues/99) | [local](issues/099-G10-Jules-orchestrator-review/g10-jules-orchestrator-review.md) - open
+- #100 G11 [G11 the name](https://github.com/attogram/academic-vibing/issues/100) | [local](issues/100-G11-the-name/g11-the-name.md) - open
+- #101 G12 [G12 n=2](https://github.com/attogram/academic-vibing/issues/101) | [local](issues/101-G12-n=2/g12-n=2.md) - open
+- #102 G13 [G13 Bonjour Mistral!](https://github.com/attogram/academic-vibing/issues/102) | [local](issues/102-G13-Bonjour-Mistral!/g13-bonjour-mistral!.md) - open
+- #103 G14 [G14 Mistral podcast](https://github.com/attogram/academic-vibing/issues/103) | [local](issues/103-G14-Mistral-podcast/g14-mistral-podcast.md) - open
+- #104 G15 [G15 Mistral goes deep into the past few days](https://github.com/attogram/academic-vibing/issues/104) | [local](issues/104-G15-Mistral-goes-deep-into-the-past-few-days/g15-mistral-goes-deep-into-the-past-few-days.md) - open
+- #105 G16 [G16 gitingest.com](https://github.com/attogram/academic-vibing/issues/105) | [local](issues/105-G16-gitingest.com/g16-gitingest.com.md) - open
+- #106 G17 [G17 cosmic shame](https://github.com/attogram/academic-vibing/issues/106) | [local](issues/106-G17-cosmic-shame/g17-cosmic-shame.md) - open
+
+## Phase H & J
+*Culture & Orchestration*
+
+- #113 H5 [H5 cultural references](https://github.com/attogram/academic-vibing/issues/113) | [local](issues/113-H5-cultural-references/h5-cultural-references.md) - open
+- #114 H6 [H6 chemicals](https://github.com/attogram/academic-vibing/issues/114) | [local](issues/114-H6-chemicals/h6-chemicals.md) - open
+- #117 J1 [J1 Jules orch 2](https://github.com/attogram/academic-vibing/issues/117) | [local](issues/117-J1-Jules-orch-2/j1-jules-orch-2.md) - open
+- #119 Triage [Triage and v0.9 Initialization](https://github.com/attogram/academic-vibing/issues/119) | [local](issues/119-Triage-v0.9-Initialization/triage-v0.9-initialization.md) - closed
+- #120 J3 [J3 what did u say???](https://github.com/attogram/academic-vibing/issues/120) | [local](issues/120-J3-what-did-u-say???/j3-what-did-u-say???.md) - open
+- #121 J4 [J4 everything everywhere all at once](https://github.com/attogram/academic-vibing/issues/121) | [local](issues/121-J4-everything-everywhere-all-at-once/j4-everything-everywhere-all-at-once.md) - open
+- #122 J5 [J5 skills/triage/SKILL.md](https://github.com/attogram/academic-vibing/issues/122) | [local](issues/122-J5-skills-triage-SKILL.md/j5-skills-triage-skill.md.md) - open
+- #123 J6 [J6 go speed racer go](https://github.com/attogram/academic-vibing/issues/123) | [local](issues/123-J6-go-speed-racer-go/j6-go-speed-racer-go.md) - open
+
+## Phase K & L
+*Lockdown & Transition*
+
+- #124 K1 [K1 Vibing is all you need. An outlet is all you need.](https://github.com/attogram/academic-vibing/issues/124) | [local](issues/124-K1-Vibing-is-all-you-need.-An-outlet-is-all-you-need./k1-vibing-is-all-you-need.-an-outlet-is-all-you-need..md) - open
+- #125 K2 [K2 dream the impossible dream](https://github.com/attogram/academic-vibing/issues/125) | [local](issues/125-K2-dream-the-impossible-dream/k2-dream-the-impossible-dream.md) - open
+- #126 K3 [K3 review](https://github.com/attogram/academic-vibing/issues/126) | [local](issues/126-K3-review/k3-review.md) - open
+- #127 K4 [K4 triage part 2](https://github.com/attogram/academic-vibing/issues/127) | [local](issues/127-K4-triage-part-2/k4-triage-part-2.md) - open
+- #128 K5 [K5 two streams is all u need](https://github.com/attogram/academic-vibing/issues/128) | [local](issues/128-K5-two-streams-is-all-u-need/k5-two-streams-is-all-u-need.md) - open
+- #129 K6 [K6 the sky is falling](https://github.com/attogram/academic-vibing/issues/129) | [local](issues/129-K6-the-sky-is-falling/k6-the-sky-is-falling.md) - open
+- #130 K7 [K7 what u say? Part 2](https://github.com/attogram/academic-vibing/issues/130) | [local](issues/130-K7-what-u-say?-Part-2/k7-what-u-say?-part-2.md) - open
+- #131 K8 [K8 what we do every night Pinky, try to take over the world](https://github.com/attogram/academic-vibing/issues/131) | [local](issues/131-K8-what-we-do-every-night-Pinky,-try-to-take-over-the-world/k8-what-we-do-every-night-pinky,-try-to-take-over-the-world.md) - open
+- #132 K9 [K9 home sweet home](https://github.com/attogram/academic-vibing/issues/132) | [local](issues/132-K9-home-sweet-home/k9-home-sweet-home.md) - open
+- #133 L1 [L1 I'm sorry Dave, I can't do that](https://github.com/attogram/academic-vibing/issues/133) | [local](issues/133-L1-I'm-sorry-Dave,-I-can't-do-that/l1-i'm-sorry-dave,-i-can't-do-that.md) - open
 
 ## Ghost Issues (deleted on GitHub, tracked locally)
 
