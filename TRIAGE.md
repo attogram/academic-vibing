@@ -1,45 +1,45 @@
 # TRIAGE: Status of Academic Vibing (June 2026)
 
 ## [STATE]
-Post-Podcast Vol 1-3. Pre-Synthesis v0.9.
-The repository is in a state of high divergent energy. The papers have outpaced the validation, and the "Institutional Trauma" data is currently archived but structurally unintegrated into the methodology.
+Post-Synthesis v0.10 "Final Boss". Pre-Attogram Corpus Release 4.
+The repository is consolidating. The focus has shifted from divergent exploration to convergent production of a single, high-quality arXiv preprint.
 
 ---
 
 ## 1. Local Units (Workstreams)
 
-### [UNIT 1]: The Synthesis (arXiv v0.9 "Final Boss")
-- **Focus:** Consolidating the fragments into a single, peer-review-ready methodology paper.
-- **Key Issues:** #93 (G5), #96 (G7), #69 (v0.6 cleanup), #48 (LaTeX).
+### [UNIT 1]: The Synthesis (arXiv v0.10 "Final Boss")
+- **Focus:** Consolidating all methodological signal from v0.1-v0.9 into a peer-review-ready artifact.
+- **Key Issues:** #132 (K9 - Home sweet home), #133 (L1 - HAL Gate), #96 (G7 - v0.8 Review).
 - **Goal:** One PDF. arXiv-ready.
-- **Status:** Core paper is currently at v0.8, but requires restructuring to fix "citation rot" and integrate the full 0.1-0.8 lineage.
+- **Status:** v0.10 master is in synthesis. Restructuring to fix "citation rot" and integrate the full 0.1-0.9 lineage.
 
-### [UNIT 2]: The Validation (Leapfrog & CDI Metrics)
-- **Focus:** Turning the "Leapfrog Effect" from a hypothesis into a measured result.
-- **Key Issues:** #38 (Leapfrog), #97 (Interrupts), #61 (Leapfrog Ultra), #75 (Focus metric).
-- **Goal:** Empirical data showing re-entry cost reduction (23 min -> 3 min).
-- **Status:** "Sprint 2" (Podcasts) provides a new data point for n=2.
+### [UNIT 2]: The Validation (Metric Rigor & CDI)
+- **Focus:** Formalizing the Consensus Divergence Index (CDI) as a primary research signal.
+- **Key Issues:** #13 (C1 - Locked facts), #86 (G1 - Gemini vs GLM), #127 (K4 - Triage part 2).
+- **Goal:** Empirical CDI data for the v0.10 paper.
+- **Status:** CDI script operational. Podcast audit in progress.
 
-### [UNIT 3]: The Culture (Podcasts & Mascot)
-- **Focus:** Maintaining the project's identity and multimedia "vibe."
-- **Key Issues:** #94 (G6 - Podcast lag), #92 (ROCK), #98 (Soundtrack).
-- **Goal:** Launch Podcast Vol 4 (G1) and formalize the `SOUNDTRACK.md` variable.
-- **Status:** Podcasts are lagging behind paper production.
+### [UNIT 3]: The Culture (Rock Talk & Mascot)
+- **Focus:** Maintaining the project's identity and "lossless" memory.
+- **Key Issues:** #92 (G4 - ROCK), #115 (H7 - Rock Culture), #128 (K5 - Two streams).
+- **Goal:** Formalize project memories and ensure cultural continuity.
+- **Status:** `MEMORIES.md` initialized.
 
-### [UNIT 4]: The Institutional (Platform Friction & Defense)
-- **Focus:** Documenting the friction with legacy verification systems (Wikipedia/HN).
-- **Key Issues:** #51 (Wiki), #55 (HN Breach), #57 (Bad Faith Swarm).
-- **Goal:** Formalize CDI as the primary defense against "Consensus Poisoning."
-- **Status:** Data exists in `papers/archive/`, needs a "Section 7" summary in v0.9.
+### [UNIT 4]: The Institutional (arXiv Endorsement)
+- **Focus:** Navigating the administrative "HAL Gate" for arXiv submission.
+- **Key Issues:** #133 (L1 - HAL Gate).
+- **Goal:** Obtain category endorsement and submit.
+- **Status:** Dominant bottleneck identified.
 
 ---
 
 ## 2. Recommended Next Steps
 
-1. **Initialize v0.9:** Create the "Final Boss" master file and begin the lossless consolidation of the v0.1-v0.8 lineage.
-2. **Leapfrog Measurement:** Conduct a formal re-entry test during an Ollama rate-limit interrupt to measure the 3-minute re-entry claim.
-3. **Podcast CDI Audit:** Run a CDI analysis on the existing three podcast episodes to demonstrate the "Consensus Trap" vs "Friction Signal" in action.
-4. **LaTeX Iteration:** Sync the markdown synthesis to the TeX template to prepare for arXiv.
+1. **Finalize v0.10 Master:** Complete the lossless consolidation and mathematical formalization of CDI.
+2. **Leapfrog Validation:** Reframe the Leapfrog Effect as a testable hypothesis to meet peer-review standards.
+3. **CDI Empirical Audit:** Run a full CDI analysis on the Podcast corpus (Vol 1-3) to provide receipts for the paper.
+4. **Memory Lockdown:** Ensure all system context is recorded in `MEMORIES.md`.
 
 ---
-**Vibe Check:** SHARP. The divergence is the signal.
+**Vibe Check:** CONVERGENT. The ship is righted.

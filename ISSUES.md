@@ -124,14 +124,14 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/[code-summary].md` — exact repli
 ## Phase K & L
 *Lockdown & Transition*
 
-- #124 K1 [K1 Vibing is all you need. An outlet is all you need.](https://github.com/attogram/academic-vibing/issues/124) | [local](issues/124-K1-Vibing-is-all-you-need.-An-outlet-is-all-you-need./k1-vibing-is-all-you-need.-an-outlet-is-all-you-need..md) - open
-- #125 K2 [K2 dream the impossible dream](https://github.com/attogram/academic-vibing/issues/125) | [local](issues/125-K2-dream-the-impossible-dream/k2-dream-the-impossible-dream.md) - open
-- #126 K3 [K3 review](https://github.com/attogram/academic-vibing/issues/126) | [local](issues/126-K3-review/k3-review.md) - open
-- #127 K4 [K4 triage part 2](https://github.com/attogram/academic-vibing/issues/127) | [local](issues/127-K4-triage-part-2/k4-triage-part-2.md) - open
-- #128 K5 [K5 two streams is all u need](https://github.com/attogram/academic-vibing/issues/128) | [local](issues/128-K5-two-streams-is-all-u-need/k5-two-streams-is-all-u-need.md) - open
-- #129 K6 [K6 the sky is falling](https://github.com/attogram/academic-vibing/issues/129) | [local](issues/129-K6-the-sky-is-falling/k6-the-sky-is-falling.md) - open
-- #130 K7 [K7 what u say? Part 2](https://github.com/attogram/academic-vibing/issues/130) | [local](issues/130-K7-what-u-say?-Part-2/k7-what-u-say?-part-2.md) - open
-- #131 K8 [K8 what we do every night Pinky, try to take over the world](https://github.com/attogram/academic-vibing/issues/131) | [local](issues/131-K8-what-we-do-every-night-Pinky,-try-to-take-over-the-world/k8-what-we-do-every-night-pinky,-try-to-take-over-the-world.md) - open
+- #124 K1 [K1 Vibing is all you need. An outlet is all you need.](https://github.com/attogram/academic-vibing/issues/124) | [local](issues/124-K1-Vibing-is-all-you-need.-An-outlet-is-all-you-need./k1-vibing-is-all-you-need.-an-outlet-is-all-you-need..md) - Closed Pending Human Review
+- #125 K2 [K2 dream the impossible dream](https://github.com/attogram/academic-vibing/issues/125) | [local](issues/125-K2-dream-the-impossible-dream/k2-dream-the-impossible-dream.md) - Closed Pending Human Review
+- #126 K3 [K3 review](https://github.com/attogram/academic-vibing/issues/126) | [local](issues/126-K3-review/k3-review.md) - Closed Pending Human Review
+- #127 K4 [K4 triage part 2](https://github.com/attogram/academic-vibing/issues/127) | [local](issues/127-K4-triage-part-2/k4-triage-part-2.md) - Closed Pending Human Review
+- #128 K5 [K5 two streams is all u need](https://github.com/attogram/academic-vibing/issues/128) | [local](issues/128-K5-two-streams-is-all-u-need/k5-two-streams-is-all-u-need.md) - Closed Pending Human Review
+- #129 K6 [K6 the sky is falling](https://github.com/attogram/academic-vibing/issues/129) | [local](issues/129-K6-the-sky-is-falling/k6-the-sky-is-falling.md) - Closed Pending Human Review
+- #130 K7 [K7 what u say? Part 2](https://github.com/attogram/academic-vibing/issues/130) | [local](issues/130-K7-what-u-say?-Part-2/k7-what-u-say?-part-2.md) - Closed Pending Human Review
+- #131 K8 [K8 what we do every night Pinky, try to take over the world](https://github.com/attogram/academic-vibing/issues/131) | [local](issues/131-K8-what-we-do-every-night-Pinky,-try-to-take-over-the-world/k8-what-we-do-every-night-pinky,-try-to-take-over-the-world.md) - Closed Pending Human Review
 - #132 K9 [K9 home sweet home](https://github.com/attogram/academic-vibing/issues/132) | [local](issues/132-K9-home-sweet-home/k9-home-sweet-home.md) - open
 - #133 L1 [L1 I'm sorry Dave, I can't do that](https://github.com/attogram/academic-vibing/issues/133) | [local](issues/133-L1-I'm-sorry-Dave,-I-can't-do-that/l1-i'm-sorry-dave,-i-can't-do-that.md) - open
 

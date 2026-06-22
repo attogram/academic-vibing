@@ -1,0 +1,42 @@
+[
+    {
+        "claim": "Consensus Poisoning is a valid threat to agentic swarms.",
+        "consensus": {
+            "Claude": "Support",
+            "Gemini": "Support",
+            "GLM-5.2": "Support"
+        }
+    },
+    {
+        "claim": "The Leapfrog Effect reduces re-entry time to under 3 minutes.",
+        "consensus": {
+            "Claude": "Support",
+            "Gemini": "Support",
+            "GLM-5.2": "Dispute"
+        }
+    },
+    {
+        "claim": "Institutional Trauma (Wikipedia/HN) is purely anecdotal and not methodological.",
+        "consensus": {
+            "Claude": "Dispute",
+            "Gemini": "Dispute",
+            "GLM-5.2": "Support"
+        }
+    },
+    {
+        "claim": "CDI is a better signal than simple agreement.",
+        "consensus": {
+            "Claude": "Support",
+            "Gemini": "Support",
+            "GLM-5.2": "Support"
+        }
+    },
+    {
+        "claim": "Version 0.6 of the core paper was structurally flawed.",
+        "consensus": {
+            "Claude": "Support",
+            "Gemini": "Support",
+            "GLM-5.2": "Dispute"
+        }
+    }
+]
