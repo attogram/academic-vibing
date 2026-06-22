@@ -36,3 +36,33 @@
 - Batch 3 (Culture Range) verified.
 - Batch 4 (Ghost Issues #3, #7, #8, #14, #29) verified via local archival record.
 - **SYNC COMPLETE.**
+
+## VI. Recent Triage: Phase M & N (The Attogram Corpus)
+*Objective: Classification of the v0.10 expansion artifacts.*
+- **[OUTLET]** #144: L10 The Origin Story
+- **[OUTLET]** #146: L11 The Blind Spot
+- **[OUTLET]** #147: L12 Zen life in balance
+- **[OUTLET]** #148: M1 - We introduce the Attogram Corpus
+- **[PAPER]** #149: M2 - P0 0.1
+- **[OUTLET]** #150: M3 - The joy of outlets
+- **[PAPER]** #151: M4 - Maestro jules P0
+- **[OUTLET]** #152: M5 - THE PYTHONS OF DESTINY: THE REUNION TOUR
+- **[OUTLET]** #153: M6 - The Sovereignty Roadmap
+- **[OUTLET]** #154: M7 - the pause
+- **[OUTLET]** #155: M8 - the first bot
+- **[OUTLET]** #156: M9 - release 3
+- **[OUTLET]** #157: M10 - Bonjour Paris.. wanna chat?
+- **[OUTLET]** #158: M11 - Mistral discord opens both eyes
+- **[OUTLET]** #159: M12 - be the turtle
+- **[OUTLET]** #160: M13 - The @cultural link to ur mind
+- **[OUTLET]** #161: M14 - where are you agent MD?
+- **[OUTLET]** #162: M15 - The Music Advisor
+- **[OUTLET]** #163: M16 - Claude plays puppy
+- **[OUTLET]** #164: N1 - I want to learn Dutch
+- **[OUTLET]** #165: N2 - The One With The Ping
+- **[OUTLET]** #166: N3 - why r all the models surprised by the velocity?
+- **[OUTLET]** #167: N4 - why r the people surprised by the velocity?
+- **[TOO RAW]** #168: N5 - CSI - The Cosmic Shame Index
+- **[OUTLET]** #169: N6 - Meet the family
+- **[TOO RAW]** #171: N7 - The Maestro forgets
+- **[OUTLET]** #180: P7 - Orchestrate
