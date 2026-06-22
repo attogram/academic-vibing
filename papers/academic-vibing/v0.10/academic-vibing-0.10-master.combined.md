@@ -3,7 +3,6 @@
 **Version:** 0.10 (Pre-arXiv Master)
 **Date:** June 22, 2026
 **Author:** Attogram - https://github.com/attogram
-**Mascot:** ROCK the Puppy 🐶
 **Environment:** 16GB Macbook, Ollama Cloud
 **Repository:** https://github.com/attogram/academic-vibing
 
@@ -14,16 +13,15 @@
 ### [ROCK TALK]
 ```
 Academic Vibing 0.10.
-Final Boss Synthesis.
+Integrated Synthesis.
 Metric: CDI (Consensus Divergence Index).
 Hypothesis: Leapfrog Mechanism (F2).
-Mascot: ROCK.
 Goal: arXiv cs.AI/cs.HC submission.
 Convergence of 0.1-0.9 signal.
 ```
 
 ### [PROSE]
-Academic Vibing 0.10 is the definitive synthesis of a high-velocity, agentic research methodology developed over a four-day intensive sprint. This version formalizes the **Consensus Divergence Index (CDI)** as a mathematical tool for measuring research signal in multi-agent swarms and proposes the **Leapfrog Mechanism**—a model for near-zero cost context re-entry—as a primary driver of human researcher wellbeing. By moving beyond simple agentic agreement and into the measurement of semantic friction, the methodology provides a robust framework for high-integrity research on consumer-grade hardware.
+Academic Vibing 0.10 formalizes a high-velocity, agentic research methodology centered on multi-agent consensus and friction. This version establishes the **Consensus Divergence Index (CDI)** as a mathematical metric for measuring research signal in multi-agent systems (MAS) and proposes the **Leapfrog Mechanism**—a model for near-zero cost context re-entry—as a primary driver of human researcher efficiency. By prioritizing the measurement of semantic friction over simple agreement, the methodology provides a robust framework for high-integrity research conducted on consumer-grade hardware.
 
 ---
 
@@ -124,19 +122,37 @@ This structure ensures that the research remains "lossless," preventing the deca
 
 ---
 
-## 5. Conclusion: Righting the Ship
+## 5. System Specifications and Constraints
 
 ### [ROCK TALK]
 ```
-v0.10 is the Final Boss.
+Lossless state requirement.
+Technical Stack:
+- Audio: edge-tts (AndrewNeural/ChristopherNeural).
+- Graphics: Pillow + MoviePy.
+- Video: ffmpeg (AAC encoding).
+Documentation Standards: Unique, descriptive filenames.
+```
+
+### [PROSE]
+The Academic Vibing framework operates under a strict "Lossless State" requirement. Every artifact, from the initial dictation to the final synthesis, must be preserved without summarization to maintain the full epistemic audit trail.
+
+Technical implementations of the framework utilize a modular stack for artifact generation. Audio logs are generated using high-fidelity text-to-speech engines (e.g., `edge-tts`), while procedural visual assets are rendered via `Pillow` and sequenced through `MoviePy`. All video outputs are encoded via `ffmpeg` using the AAC standard for maximum playback compatibility. To prevent local file-system conflicts, a project-wide rule mandates unique, descriptive filenames for all research artifacts, explicitly forbidding generic identifiers.
+
+---
+
+## 6. Conclusion
+
+### [ROCK TALK]
+```
+v0.10 Integrated Synthesis.
 CDI formalized.
 Leapfrog testable.
-ROCK is Lossless.
 Ready for arXiv.
 ```
 
 ### [PROSE]
-Version 0.10 represents the transition from exploration to convergence. By formalizing the mathematical underpinnings of the CDI and framing the Leapfrog Effect as a testable hypothesis, Academic Vibing moves from a collection of "vibes" to a rigorous, AI-native research methodology. The ship is righted, the memories are recorded, and the methodology is ready for formal peer review.
+Version 0.10 represents the transition from exploration to convergence. By formalizing the mathematical underpinnings of the CDI and framing the Leapfrog Effect as a testable hypothesis, Academic Vibing establishes a rigorous, AI-native research methodology. The framework is now prepared for formal peer review and external validation.
 
 ---
 

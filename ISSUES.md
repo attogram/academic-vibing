@@ -134,6 +134,40 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/[code-summary].md` — exact repli
 - #131 K8 [K8 what we do every night Pinky, try to take over the world](https://github.com/attogram/academic-vibing/issues/131) | [local](issues/131-K8-what-we-do-every-night-Pinky,-try-to-take-over-the-world/k8-what-we-do-every-night-pinky,-try-to-take-over-the-world.md) - Closed Pending Human Review
 - #132 K9 [K9 home sweet home](https://github.com/attogram/academic-vibing/issues/132) | [local](issues/132-K9-home-sweet-home/k9-home-sweet-home.md) - open
 - #133 L1 [L1 I'm sorry Dave, I can't do that](https://github.com/attogram/academic-vibing/issues/133) | [local](issues/133-L1-I'm-sorry-Dave,-I-can't-do-that/l1-i'm-sorry-dave,-i-can't-do-that.md) - open
+- #144 L10 [L10 The Origin Story](https://github.com/attogram/academic-vibing/issues/144) - open
+- #146 L11 [L11 The Blind Spot](https://github.com/attogram/academic-vibing/issues/146) - open
+- #147 L12 [L11 Zen life in balance](https://github.com/attogram/academic-vibing/issues/147) - open
+
+## Phase M
+*The Attogram Corpus*
+
+- #148 M1 [M1 - We introduce the Attogram Corpus](https://github.com/attogram/academic-vibing/issues/148) - open
+- #149 M2 [M2 - P0 0.1](https://github.com/attogram/academic-vibing/issues/149) - open
+- #150 M3 [M3 - The joy of outlets](https://github.com/attogram/academic-vibing/issues/150) - open
+- #151 M4 [M4 - Maestro jules P0](https://github.com/attogram/academic-vibing/issues/151) - open
+- #152 M5 [M5 - THE PYTHONS OF DESTINY: THE REUNION TOUR](https://github.com/attogram/academic-vibing/issues/152) - open
+- #153 M6 [M6 - The Sovereignty Roadmap](https://github.com/attogram/academic-vibing/issues/153) - open
+- #154 M7 [M7 - the pause](https://github.com/attogram/academic-vibing/issues/154) - open
+- #155 M8 [M8 - the first bot](https://github.com/attogram/academic-vibing/issues/155) - open
+- #156 M9 [M9 - release 3](https://github.com/attogram/academic-vibing/issues/156) - open
+- #157 M10 [M10 - Bonjour Paris.. wanna chat?](https://github.com/attogram/academic-vibing/issues/157) - open
+- #158 M11 [M11 - Mistral discord opens both eyes](https://github.com/attogram/academic-vibing/issues/158) - open
+- #159 M12 [M12 - be the turtle](https://github.com/attogram/academic-vibing/issues/159) - open
+- #160 M13 [M13 - The @cultural link to ur mind](https://github.com/attogram/academic-vibing/issues/160) - open
+- #161 M14 [M14 - where are you agent MD?](https://github.com/attogram/academic-vibing/issues/161) - open
+- #162 M15 [M15 - The Music Advisor](https://github.com/attogram/academic-vibing/issues/162) - open
+- #163 M16 [M16 - Claude plays puppy](https://github.com/attogram/academic-vibing/issues/163) - open
+
+## Phase N
+*Surprise & Velocity*
+
+- #164 N1 [N1 - I want to learn Dutch](https://github.com/attogram/academic-vibing/issues/164) - open
+- #165 N2 [N2 - The One With The Ping](https://github.com/attogram/academic-vibing/issues/165) - open
+- #166 N3 [N3 - why r all the models surprised by the velocity?](https://github.com/attogram/academic-vibing/issues/166) - open
+- #167 N4 [N4 - why r the people surprised by the velocity?](https://github.com/attogram/academic-vibing/issues/167) - open
+- #168 N5 [N5 - CSI - The Cosmic Shame Index](https://github.com/attogram/academic-vibing/issues/168) - open
+- #169 N6 [N6 - Meet the family](https://github.com/attogram/academic-vibing/issues/169) - open
+- #171 N7 [N7 - The Maestro forgets](https://github.com/attogram/academic-vibing/issues/171) - open
 
 ## Ghost Issues (deleted on GitHub, tracked locally)
 
