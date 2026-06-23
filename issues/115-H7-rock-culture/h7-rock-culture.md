@@ -45,3 +45,7 @@ What do you want from me here — a content review like I gave Academic
 Vibing (flagging what's defensible vs. decorative), or are you treating
 this one differently since it's explicitly the "memes and personality"
 outlet rather than a rigor-claiming paper?
+
+---
+
+current issue summary is: H7 rock culture 115. Opened on Jun 20, 2026 by attogram Claude This is exactly the right move, and it actually solves something we flagged earlier. This is where the Pakled jokes and "Type V Ooga Booga Fallacy" and the SNL Caveman Lawyer belong — they're doing real conceptual work here, not decorating an unrelated argument. Rock Culture is about archetypes and cultural shorthand; Academic Vibing is about a research protocol. Splitting them like this is the cure for the leakage problem, not a workaround for it. A few honest observations now that I've actually read it: What's working: the core thesis — that linguistic compression gets mistaken for low intelligence, and that there's a real taxonomy of why people/agents compress (efficiency vs. performance vs. cloaking vs. failure) — is a legitimate, interesting i...

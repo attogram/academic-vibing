@@ -171,3 +171,7 @@ or a label taxonomy for auto-tagging your 99 issues
 
 or a “voice-safe ingestion layer” spec that prevents #120-type
 corruption entirely
+
+---
+
+current issue summary is: K7 what u say? Part 2 130. Opened on Jun 21, 2026 by attogram Good. Now we switch lenses: not content review, but system behavior under voice-induced corruption. 1. Clean pipeline view (what your system actually is) ┌────────────────────────────┐ │ VOICE INPUT STREAM │ │ (high entropy + noise) │ └────────────┬───────────────┘ │ v ┌────────────────────────────────────────┐ │ TRANSCRIPTION / TOKENIZATION LAYER │ │ - speech-to-text model │ │ - background noise interference │ │ - segmentation + punctuation guess │ └────────────┬───────────────────────────┘ │ ┌───────────────┼──────────────────────────────┐ │ │ │ v v v STATE PIPE COGNITION PIPE NARRATIVE PIPE (truth ledger) (interpretation) (compression) │               │                              │ │               │                              │ v               v   ...

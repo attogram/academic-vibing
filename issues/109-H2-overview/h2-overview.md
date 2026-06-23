@@ -378,3 +378,7 @@ Leapfrog / CDI / Rock Talk efficiency claims)
 
 or a “minimal version” that keeps only the parts that survive empirical
 stress testing
+
+---
+
+current issue summary is: H2 overview 109. Opened on Jun 20, 2026 by attogram Chatgpt Here’s a clean deep-dive synthesis across everything you’ve been building — Rock Talk 0.5, Academic Vibing 0.8, and the broader RAC/CDI stack — as one coherent system you can “listen to” as a conceptual narrative. __________________________________________________________________ 1. What this whole thing actually is (one sentence) This is a human–multi-agent cognition operating system built on top of LLMs, where: communication is compressed (Rock Talk), cognition is distributed (RAC), memory is externalized (Issue-Loop), and uncertainty is quantified through disagreement (CDI). Everything else is implementation detail or naming layer. __________________________________________________________________ 2. The system stack (four layers) Layer 1 — Lan...

@@ -119,3 +119,7 @@ Citations:
     Experimental Psychology: Human Perception and Performance.
   * Nature/Scientific Reports (2025). The effects of cues on task
     interruption recovery in a concurrent multitasking environment.
+
+---
+
+current issue summary is: F2 leapfrog ultra 61. Opened on Jun 18, 2026 by attogram Claude Here it is. Deep, cited, ready to paste. __________________________________________________________________ [SEED] F2 — The Leapfrog Mechanism: Drop Context, Grab Context, Easy Life [ROCK] Claim: Leapfrog ≠ speed. Leapfrog = frictionless context transfer. Mechanism: Drop → Store (swarm) → Grab → Continue. Key variable: Re-entry cost, not exit cost. Literature: context switching (UCI, 23min recovery), Extended Mind (Clark & Chal mers 1998), Distributed Cognition (Hutchins 1995). Gap: prior work assumes re-entry is inevitable. Academic Vibing assumes re-entry is optional and cheap. [PROSE] The "Leapfrog Effect" as previously documented in this corpus (Claim #16) describes a productivity-wellbeing surplus. This issue refines the underlying mechanism: ...

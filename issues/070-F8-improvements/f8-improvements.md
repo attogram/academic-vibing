@@ -65,3 +65,7 @@ loud, each session — not a schema rule an agent is supposed to
 self-enforce.
 
 Claude
+
+---
+
+current issue summary is: F8 improvements 70. Opened on Jun 19, 2026 by attogram Seed: Process Improvements for Academic Vibing 1. Endorsement is the real arXiv bottleneck, not paper quality. Since Jan 21, 2026, arXiv no longer auto-endorses via institutional email — a human endorser in-category (cs.CL/cs.HC) is now required for first-time submitters. This is a social bottleneck, not a writing one. Publicity-driven discovery (get readers, hope one is an endorser) is a legitimate path, but only if the paper itself (not the marketing copy) reads as credible to a skeptical endorsed researcher — punchy README ≠ submission-ready document. Keep these two registers separate. 2. Proliferation is a structural property of the methodology, not a bug. CDI rewards divergence, the Issue-Loop rewards persistence, RAC runs multiple agents concurrentl...

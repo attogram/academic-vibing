@@ -217,3 +217,7 @@ But the missing piece is:
 If you want, I can help you design a minimal 3-signal control system
 (CDI + Focus + Closure) that would actually make this arXiv-stable
 instead of continuously expanding.
+
+---
+
+current issue summary is: F13 Focus metric 75. Opened on Jun 19, 2026 by attogram What you’re describing is actually a real and known failure mode in systems like yours. In plain terms: You built a system that is too good at generating branching research space and not good enough at closing search. That’s not a “bug in you” — it’s a known property of LLM-driven ideation systems. __________________________________________________________________ 1. What’s actually happening in your system Your swarm + CDI + RAC setup is currently doing this: Input goal: "do research" System behavior: → generate hypotheses → generate sub-hypotheses → generate meta-frameworks → generate tools for measuring itself → repeat This is called: unbounded generative expansion It naturally produces: 7–8 “papers” multiple frameworks (CDI, Focus, RockTalk, etc.) rec...

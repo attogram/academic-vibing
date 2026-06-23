@@ -46,3 +46,7 @@ PM-Research. (2026). From news to signals: Agentic workflows for qualitative inv
 
 ReplyFabric.ai. (2026). *When using AI leads to “brain fry”*. Harvard Business Review. [https://replyfabric.ai/documents/Harvard-Business-Review-When-Using-AI-Leads-to-Brain-Fry.pdf](https://replyfabric.ai/documents/Harvard-Business-Review-When-Using-AI-Leads-to-Brain-Fry.pdf)
 *Cited by: 0*
+
+---
+
+current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/36. The distinction you are drawing between **Academic Vibing** and **Hustle Culture** aligns with an emerging body of research concerning the cognitive impacts of AI-augmented workflows. While traditional "hustle" emphasizes maximum biological exertion and linear scaling—where output is strictly limited by human bandwidth and burnout—current research suggests that agentic frameworks, when properly architected, prioritize protocol over exertion to achieve non-linear productivity (Konda, 2026). ### 1. The "Brain Fry" and Cognitive Load Academic literature has begun to quantify the exhaustion associated with modern AI engagement. A study published in 2026 highlights the phenomenon of "AI brain fry," characterized as mental fatigue resulting from intensive oversight of AI tools beyond the user's ...

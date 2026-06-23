@@ -278,3 +278,7 @@ remove dependency on you to interpret it
 If you want next step, I can compress your entire system into a “RAC v1
 minimal executable spec” that is deliberately designed to be POP
 10-ready.
+
+---
+
+current issue summary is: K8 what we do every night Pinky, try to take over the world 131. Opened on Jun 21, 2026 by attogram Here’s the practical, non-mystical version: POP moves when the system stops being interesting text and becomes default behavior in someone else’s workflow. I’ll map it as concrete transitions, not vibes. __________________________________________________________________ POP 1 → 10 → 50: what actually causes the jumps POP 1 → 10 (from “artifact” → “noticed system”) What you have at POP 1 GitHub issues diagrams terminology (RAC, CDI, drift, planes) isolated experiments no external dependency What pushes it to POP 10 You need external legibility + repeatability, not more theory. Required changes: 1. Stable “core spec” (non-negotiable) Right now your system is still: evolving language shifting definitions across issues To hit POP 10: one canonical spec that d...

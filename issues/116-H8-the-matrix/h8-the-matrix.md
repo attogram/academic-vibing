@@ -39,3 +39,7 @@ Two things worth deciding before you build it:
     per-paper tiers. That's a bigger compression task than what
     currently exists — currently each paper gets tiered, not the
     project as a whole.
+
+---
+
+current issue summary is: H8 the matrix 1k 2k 4k .... 116. Opened on Jun 20, 2026 by attogram Claude That's a clean fix, and it solves two problems at once. Right now the tiered files (1k/2k/4k.../128k) are duplicated per version, per paper line — so updating content means regenerating 11 files × 9 versions × 2 lines just to keep them in sync, and most of those tiers are stale the moment the source paper changes. Collapsing that into one overview/ directory means there's exactly one current "here's the whole idea at size X" artifact at any time, not eighty-some historical snapshots competing for which one's authoritative. That also directly answers the closing problem from before — old version-specific tiered files can just get deleted instead of living forever as ambiguous half-current artifacts. The "copy-paste payload for handing context to ano...

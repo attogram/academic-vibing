@@ -184,3 +184,7 @@ It is about:
   preventing epistemic contamination between modes of thinking
 
 That’s the actual architecture hiding inside the noise.
+
+---
+
+current issue summary is: K4 triage part 2 127. Opened on Jun 20, 2026 by attogram Chatgpt This issue (#122) is actually the first place in the whole system where something real and structurally meaningful emerges without relying on the mythology layer. If we strip everything else away, here is what “J5 skills/triage/SKILL.md” actually is: __________________________________________________________________ What this is (clean read) It is a routing mechanism for epistemic sorting. Not a philosophy. Not vibing. Not an ontology. It is: A decision procedure that classifies incoming cognitive artifacts into: PAPER (claims meant to survive external scrutiny) OUTLET (non-verifiable, expressive, or internal-context material) NEEDS VERIFICATION (claims requiring evidence before promotion) TOO RAW (premature or under-formed ideas) ________________...
