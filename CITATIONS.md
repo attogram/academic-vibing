@@ -9,7 +9,8 @@ Master reference registry. Every citation used anywhere in the corpus is listed 
 [2] Attogram (2026). Rock Talk Protocol. https://github.com/attogram/rock-talk
 
 [3] Attogram (2026). Academic Vibing: Structured Curiosity for Human-Agent Collaboration.
-    - [v0.9 (Master)](papers/academic-vibing/v0.9/academic-vibing-0.9-master.combined.md)
+    - [v0.10 (Master)](papers/academic-vibing/v0.10/academic-vibing-0.10-master.combined.md)
+    - [v0.9](papers/academic-vibing/v0.9/academic-vibing-0.9-master.combined.md)
     - [v0.8](papers/academic-vibing/v0.8/paper.combined.md)
     - [v0.7](papers/academic-vibing/v0.7/paper.combined.md)
     - [v0.6](papers/academic-vibing/v0.6/academic-vibing.0.6.combined.md)
@@ -20,7 +21,7 @@ Master reference registry. Every citation used anywhere in the corpus is listed 
     - [v0.1](papers/academic-vibing/v0.1/academic-vibing.0.1.combined.md)
 
 [4] Attogram (2026). Academic Vibing Receipts: 1 STFU. 115 Hours. 5 Papers. 3 Podcasts. 1 Normal Life.
-    - [v0.4](papers/receipts/v0.4/paper.combined.md)
+    - [v0.4 (Master)](papers/receipts/v0.4/paper.combined.md)
     - [v0.3](papers/receipts/v0.3/5-papers-4-days.0.3.combined.md)
     - [v0.2](papers/receipts/v0.2/5-papers-4-days.0.2.combined.md)
     - [v0.1](papers/receipts/v0.1/5-papers-4-days.0.1.combined.md)

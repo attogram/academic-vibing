@@ -6,19 +6,30 @@
 
 <img width="2816" height="1536" alt="image" src="https://github.com/user-attachments/assets/33c67937-37a1-4b3b-8f06-43f675cb566d" />
 
+## The Attogram Corpus (P0)
+
+Formal archival ground truth of human-agent synthesis.
+
+- **[v1.0 (The Archive)](issues/149-M2-p0-01/m2-p0-01.md)**
+- **Temporal Bounds:** June 11, 2026 – June 21, 2026
+- **Total Runtime:** ~239 Hours
+- **Status:** [STATE] Synthesized. Lossless.
 
 ### Podcasts (Audio & Transcripts)
 
 Multi-agent research audio logs. Each podcast is a single node in the swarm giving its take on the corpus — and the CDI between them is the signal.
 
-- **[Vol. 1 — "Why Confusion Is the Highest-Trust Signal You Have"](podcasts/1-bike-ride/podcast.md)** (Claude) — Amsterdam bike ride. Consensus Poisoning, the Leapfrog, @guninvalid. [EN](podcasts/1-bike-ride/podcast.en.md) / [NL](podcasts/1-bike-ride/podcast.nl.md) · [EN mp3](podcasts/1-bike-ride/academic-vibing-vol1-confusion-is-the-highest-trust-signal.en.mp3) / [NL mp3](podcasts/1-bike-ride/academic-vibing-vol1-confusion-is-the-highest-trust-signal.nl.mp3)
-- **[Vol. 2 — "The View From the Substrate"](podcasts/2-substrate/podcast.md)** (Gemini) — The silicon POV. Velocity is an illusion; the protocol stops humans burning out. [EN](podcasts/2-substrate/podcast.en.md) / [NL](podcasts/2-substrate/podcast.nl.md) · [EN mp3](podcasts/2-substrate/academic-vibing-vol2-the-view-from-the-substrate.en.mp3) / [NL mp3](podcasts/2-substrate/academic-vibing-vol2-the-view-from-the-substrate.nl.mp3)
-- **[Vol. 3 — "The Open Window"](podcasts/3-open-window/podcast.md)** (GLM-5.2) — The third node breaks the consensus Vol. 1 & 2 silently formed. [EN](podcasts/3-open-window/podcast.en.md) / [NL](podcasts/3-open-window/podcast.nl.md) · [EN mp3](podcasts/3-open-window/academic-vibing-vol3-the-open-window.en.mp3) / [NL mp3](podcasts/3-open-window/academic-vibing-vol3-the-open-window.nl.mp3)
+- **[Vol. 4 — "Triage, Leapfrog, and the Final Boss"](podcasts/4-triage-audit/triage-leapfrog-final-boss.en.md)** (Jules) — Decisive triage. Mythology vs. Methodology. The P1/P2 boundary. [EN mp3](podcasts/4-triage-audit/academic-vibing-vol4-triage-leapfrog-final-boss.en.mp3)
+- **[Vol. 3 — "The Open Window"](podcasts/3-open-window/podcast.md)** (GLM-5.2) — The third node breaks the consensus Vol. 1 & 2 silently formed. [EN](podcasts/3-open-window/the-open-window.en.md) / [NL](podcasts/3-open-window/the-open-window.nl.md) · [EN mp3](podcasts/3-open-window/academic-vibing-vol3-the-open-window.en.mp3) / [NL mp3](podcasts/3-open-window/academic-vibing-vol3-the-open-window.nl.mp3)
+- **[Vol. 2 — "The View From the Substrate"](podcasts/2-substrate/podcast.md)** (Gemini) — The silicon POV. Velocity is an illusion; the protocol stops humans burning out. [EN](podcasts/2-substrate/view-from-the-substrate.en.md) / [NL](podcasts/2-substrate/view-from-the-substrate.nl.md) · [EN mp3](podcasts/2-substrate/academic-vibing-vol2-the-view-from-the-substrate.en.mp3) / [NL mp3](podcasts/2-substrate/academic-vibing-vol2-the-view-from-the-substrate.nl.mp3)
+- **[Vol. 1 — "Why Confusion Is the Highest-Trust Signal You Have"](podcasts/1-bike-ride/podcast.md)** (Claude) — Amsterdam bike ride. Consensus Poisoning, the Leapfrog, @guninvalid. [EN](podcasts/1-bike-ride/confusion-is-highest-trust-signal.en.md) / [NL](podcasts/1-bike-ride/confusion-is-highest-trust-signal.nl.md) · [EN mp3](podcasts/1-bike-ride/academic-vibing-vol1-confusion-is-the-highest-trust-signal.en.mp3) / [NL mp3](podcasts/1-bike-ride/academic-vibing-vol1-confusion-is-the-highest-trust-signal.nl.mp3)
 
 ### Academic Vibing (Core Paper)
 
-- **[v0.8 (Current arXiv Draft)](papers/academic-vibing/v0.8/paper.combined.md)** - Stand-alone
-- [v0.7 (Archived)](papers/academic-vibing/v0.7/paper.combined.md)
+- **[v0.10 (arXiv Integrated Synthesis)](papers/academic-vibing/v0.10/academic-vibing-0.10-master.combined.md)** - Stand-alone
+- [v0.9](papers/academic-vibing/v0.9/academic-vibing-0.9-master.combined.md)
+- [v0.8](papers/academic-vibing/v0.8/paper.combined.md)
+- [v0.7](papers/academic-vibing/v0.7/paper.combined.md)
 - [v0.6](papers/academic-vibing/v0.6/academic-vibing.0.6.combined.md)
 - [v0.5](papers/academic-vibing/v0.5/academic-vibing.0.5.combined.md)
 - [v0.4](papers/academic-vibing/v0.4/academic-vibing.0.4.combined.md)
@@ -47,12 +58,6 @@ Tangential papers not required for arXiv submission. Available in `papers/archiv
 #### Meet ROCK: The Fluffy Puppy
 - [Mascot Intro (MP4)](podcasts/mascot/rock-mascot-intro.mp4)
 
-### Meta-Studies
-
-#### [5 Papers in 4 Days: Here's the Receipt (v0.3)](papers/receipts/v0.3/5-papers-4-days.0.3.combined.md) - Stand-alone
-- [Rock Version](papers/receipts/v0.3/5-papers-4-days.0.3.rock.md)
-- [Prose Version](papers/receipts/v0.3/5-papers-4-days.0.3.prose.md)
-
 ---
 
 Contact: GitHub Issues - https://github.com/attogram/academic-vibing/issues
@@ -66,6 +71,8 @@ Author: Attogram - https://github.com/attogram
 - [Claims (CLAIMS.md)](CLAIMS.md)
 - [Citations (CITATIONS.md)](CITATIONS.md)
 - [Issues Tracking (ISSUES.md)](ISSUES.md)
+- [Corpus Graph (CORPUS_GRAPH.md)](CORPUS_GRAPH.md)
+- [Triage (TRIAGE.md)](TRIAGE.md)
 - [Skills](skills/) — Podcast generation, issues sync, TeX/PDF
 
 ## See also
