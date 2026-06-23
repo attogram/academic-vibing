@@ -233,7 +233,3 @@ The novel contribution is:
 
 
 That's the part I haven't seen articulated very often, and it's the part most likely to survive scrutiny after the excitement of the sprint itself fades.
-
----
-
-current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/41. Interesting artifact. As a pre-preprint, it already has a clear narrative arc: > Production incident → communication protocol → agent methodology → paper corpus → ethnographic reflection. What stands out is that you're not primarily making a technical claim. You're making an existence-proof claim: > A single researcher using AI agents can generate a coherent research corpus and archival record in ~96 hours. That is a much stronger and more defensible claim than "Rock Talk is correct" or "Academic Vibing is the future." Strengths 1. The receipts are concrete The strongest part is the reliance on: commits issues tags/releases timestamps DOI archives Those are observable artifacts rather than retrospective storytelling. "Git log = field notes" is arguably the most academically interesting ide...

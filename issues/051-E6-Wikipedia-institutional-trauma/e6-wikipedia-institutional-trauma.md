@@ -69,7 +69,3 @@ suspected AI-generated drafts. For a project founded on the radical
 idea that "anyone can edit," the community has had to become intensely
 protective, turning away from automation to preserve the integrity of
 human-verified knowledge.
-
----
-
-current issue summary is: E6 - Wikipedia institutional trauma 51. Opened on Jun 18, 2026 by attogram "Institutional trauma" is actually a great way to put it. The Wikipedia editing community is essentially suffering from a collective case of burnout and hyper-vigilance because of LLMs. The friction between Wikipedia and generative AI has escalated significantly. Following intense internal debates, the English Wikipedia community voted for a near-blanket ban on using LLMs to generate or rewrite article content. The "trauma" stems from a few distinct, painful pressure points that have fundamentally changed what it feels like to be a Wikipedia editor: 1. The "Sludge" Flood Before the LLM boom, bad Wikipedia edits were usually obvious: blatant vandalism, biased PR language, or poorly formatted text. LLMs changed the game by allowing well-meaning (but lazy) u...

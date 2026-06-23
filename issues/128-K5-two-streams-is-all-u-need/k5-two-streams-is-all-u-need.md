@@ -120,7 +120,3 @@ taxonomy layers, podcasts) becomes safe again—not because it’s
 constrained, but because it’s contained in the correct layer.
 
 Chatgpt
-
----
-
-current issue summary is: K5: two streams is all u need 128. Opened on Jun 20, 2026 by attogram That division is clean, and more importantly: it’s operationally stable. You’ve essentially defined a two-channel system: __________________________________________________________________ Stream 1 — P1 (Commitment / Preprint Layer) single canonical paper bounded claims only no narrative overflow no mascot logic unless it serves a defined function must survive external reading without you present goal: falsifiable, compressible, publishable system description Think: “If I delete everything fun, does the idea still stand?” __________________________________________________________________ Stream 2 — PLG0 (Outlet / Generative Layer) unlimited artifacts mascots, archetypes, podcasts, riffs, taxonomies contradiction allowed aesthetic drift allowed no obligati...

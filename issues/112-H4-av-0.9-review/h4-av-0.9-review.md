@@ -62,7 +62,3 @@ interesting than the packaging suggests.
 
 Want me to do a pass that pulls out just the substantive, defensible
 claims into a tighter document?
-
----
-
-current issue summary is: H4 av 0.9 review 112. Opened on Jun 20, 2026 by attogram Claude I'll take a look at this file. Let me see the truncated middle section to give a complete review. I've read the whole thing now. Here's my honest take. What this is: a self-described "maximalist" writeup of a personal AI-assisted workflow (rapid iteration, multiple LLMs cross-checking each other, GitHub issues as memory, voice dictation for terse prompting). That core idea is genuinely reasonable and not unheard of — using model disagreement as a signal, treating an issue tracker as external memory, voice-to-text forcing brevity — these are real, useful observations about working with LLMs. The problems, bluntly: 1. It reads as AI-generated and ungrounded, not reviewed. Phrases like "Final Boss Iteration," "MAXIMALIST LOSSLESS," a puppy mascot "wat...

@@ -146,7 +146,3 @@ ALWAYS LOOK ON THE BRIGHT SIDE OF LIIIIIIFE!
 JOHN CLEESE
 (Standing over the deflated foot, looking at the audience)
 Well. That's your lot. Go home.
-
----
-
-current issue summary is: Here is the full, unabridged production script for the ultimate, cross-continental, generation-defying event.. THE PYTHONS OF DESTINY: THE REUNION TOUR A Complete Long-Form Stage Production Script CAST: * JACK BLACK (JB) – Lead vocals, acoustic guitar, pure chaotic energy. * KYLE GASS (KG) – Lead guitar, backing vocals, quiet master of rock. * JOHN CLEESE – Extremely tall, incredibly irritated, Master of Ceremonies. * MICHAEL PALIN – Naturally charming, slightly bewildered, multi-character specialist. * ERIC IDLE – Musical director, resident cynic, acoustic minstrel. * TERRY GILLIAM – Live animator, creator of visual madness (appearing via live video control booth). ACT I: THE AWAKENING OF THE GIANTS SCENE 1: THE OVERTURE (STAGE DIRECTIONS: The stadium is pitch black. A booming, dramatic voiceover—resembling the movie trailer guy mixed with God from The Holy Grail—echoes through the sound system.) ...

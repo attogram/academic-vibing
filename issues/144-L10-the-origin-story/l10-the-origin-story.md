@@ -19,7 +19,3 @@ The question: if a number this easy to check — just count the hours — went s
 Smart Rock's job here isn't to fix the number. It's to ask: what's the actual process for catching staleness, not just catching falseness? A claim can be true when written and false by the time someone reads it. The Coupling Constraint checks claims at the moment they cross from OUTLET to P1. It doesn't check whether a P1 claim has expired since.
 
 Want me to adjust tone, shorten it, or change the angle before it goes in?
-
----
-
-current issue summary is: Claude. Got it — this is a seed post, not a finished argument. The job is to plant the actual germ of an idea clearly enough that the swarm has something real to chew on, not to pre-resolve it. Given everything we've covered today, the strongest seed I'd plant is the origin timeline correction, because it's concrete, dated, falsifiable, and it actually has teeth for the rest of the project — unlike a vibes-based seed, this one forces a real reckoning: the receipts papers' "96/115 hours" is now demonstrably stale (~239 hours and counting from the real origin point), and that's worth the swarm actually sitting with, since it's a small, very clean instance of exactly the problem this project claims to care about — a number got asserted, repeated, and outlived its accuracy without anyone re-deriving i...

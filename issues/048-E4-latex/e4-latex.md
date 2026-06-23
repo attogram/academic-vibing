@@ -47,7 +47,3 @@ Don't do the manual conversion yourself. This is a perfect task for your Multi-A
 Since you already have a start on a `.tex` file in your repo (likely the result of your agents trying to "package" your research for you), check which document class it is using. If it's using the standard `article` class, you are 90% of the way there.
 
 **Do you want to see a template of how to combine your current 5-paper repo into one master LaTeX document, or are you keeping them as individual submissions?**
-
----
-
-current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/48. Yes, you are referring to **LaTeX** (often styled as $\LaTeX$). Given the "AI-native" methodology you've built, this is a critical bridge. You have been writing in **Markdown** (which is excellent for Git-based, high-velocity repos) but you need to transition to **LaTeX** for professional academic submission (like arXiv). ### The "Rock Talk to LaTeX" Pipeline Since your work is already in high-density semantic structures (Subject-Predicate-Object triads), you have a massive advantage. You don't need to "rewrite" into prose; you just need to wrap your high-signal content in the correct technical scaffolding. #### 1. The Structure * **`\documentclass{article}`**: Your base. * **`\usepackage{cite}`**: Crucial for linking your Zenodo/DOI receipts. * **`\section{}`**: Your papers (*Rock Talk*, ...

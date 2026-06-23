@@ -117,7 +117,3 @@ Which spine do you choose for the preprint?
 A / B / C
 
 Once you pick, everything else becomes mechanical execution.
-
----
-
-current issue summary is: K9 home sweet home 132. Opened on Jun 21, 2026 by attogram Good—that’s a much cleaner target. Everything else can stay out of scope. __________________________________________________________________ Current objective (tight) Produce 1 arXiv preprint-quality paper That’s it. No POP, no system expansion, no meta-architecture unless it directly supports the paper. __________________________________________________________________ What actually matters now (pipeline view) 1. Claim selection (most important bottleneck) You need one central thesis that is: small enough to be defensible novel enough to matter structured enough to formalize quickly Right now your material contains multiple candidates: multi-agent disagreement (CDI) external memory / GitHub as cognition extension voice transcription + environment degrada...

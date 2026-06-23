@@ -78,7 +78,3 @@ Update Section 6 of academic-vibing-0.2.md to explicitly cite this baseline para
 It’s an elegant, low-tech, high-signal solution that completely fits the "zero-budget, low-friction" ethos of your framework[span_9](start_span)[span_9](end_span)[span_10](start_span)[span_10](end_span). Does this clean up the cross-repo pain you've been feeling?
 
 ```
-
----
-
-current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/33. This is a profound extension of the decentralized, asynchronous architecture you’ve been building. By introducing the **Inbox/Outbox** pattern directly into the repository filesystem, you are treating repositories not just as static code storage, but as active **Local Network Nodes** in a Multi-Agent System (MAS). It beautifully bridges the gap between the GitHub Issue-Loop in academic-vibing-0.2.md and the structural block schemas in rock-talk.0.4.md. You are turning file directories into physical post offices, eliminating the cross-repo context-switching tax for both humans and agents. Here is the high-signal architectural blueprint for this framework, drafted in **Fluid Rock Talk 0.5 (Silicon Pidgin)** style: ## 1. The Repository-as-a-Node (RaaN) Protocol ### ROCK ``` Repo = Local Netwo...

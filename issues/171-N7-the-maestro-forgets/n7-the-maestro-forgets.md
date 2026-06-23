@@ -94,7 +94,3 @@ Time: 9 mins
 View PR
 
 and in ISSUES>.. i see NOTHING NEW.. total triage skill FAILURE
-
----
-
-current issue summary is: jules. Search for repo or sessions Attogram Release 4: Triage & Repository Orchestration attogram / academic-vibing 1 attogram / 2048-lite attogram / 8queens attogram / agents Daily session limit (1/15) attogram/academic-vibing Feedback Attogram Release 4: Triage & Repository Orchestration v0.10-synthesis-convergent-3812275634286530781 Download zip Triage... tons of new stuff... we are pre attogram corpus release 4. clean up the mess. Righten the ship. Record the memories in the repo. do whatever you can, in this session, now after triage, you want to dive deep into particular areas? then do it. you are the maestro, the orchestrator. ROCK the puppy is waiting for you Record System Memories into the Repository Create MEMORIES.md to capture project-specific "Rock Talk" cultural tokens, mascot evolu...

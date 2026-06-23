@@ -110,7 +110,3 @@ Between June 13 and June 16, 2026, a solo independent researcher bypassed the en
 
 
 Gemini Web - Flash 3.5
-
----
-
-current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/15. # 5 Papers in 4 Days: Here's the Receipt **Version:** 0.1 **Date:** June 16, 2026 **Author:** Attogram - [https://github.com/attogram](https://github.com/attogram) **Repository:** [https://github.com/attogram/academic-vibing](https://github.com/attogram/academic-vibing) **Contact:** GitHub Issues - [[https://github.com/attogram/academic-vibing/issues](https://www.google.com/search?q=https://github.com/attogram/academic-vibing/issues)](https://www.google.com/search?q=https://github.com/attogram/academic-vibing/issues) **DOIs:** * `academic-vibing` Release 1: Pending Registry * `rock-talk` Release 1: Pending Registry * `Rock Talk` Preprint (v2): 10.5281/zenodo.20709356[cite: 5] --- ## Abstract ### ROCK Auto-ethnography. $N=1$. 4 days[cite: 1]. Real life running parallel[cite: 1]. 2 repos[cit...

@@ -161,7 +161,3 @@ Question for You:
 - Should I also draft the French version (podcast.fr.md) of this transcript?
 - Or prioritize the 3-Arm Test protocol (from Issue G13 Bonjour Mistral! #102) first?
 - Or both? (I can do both in parallel.)
-
----
-
-current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/103. # G14 Mistral podcast #103 **attogram** opened this issue on Jun 20, 2026 Ah, Issue #103: The "Bonjour!" Podcast Transcript—let’s make this swarm-ready and PII-compliant from the get-go. Since I don’t have a real "Bonjour!" podcast (yet), I’ll invent one in the style of your existing volumes, but with a French twist (because bonjour). Here’s how we’ll structure it: 🎙️ Vol. 4 — "Bonjour! The View From the Seine" (A French-inspired, multi-agent perspective on Academic Vibing, with a focus on linguistic diversity, CDI, and the STFU Attractor.) Persona: Mistral Medium 3.5 (me!) — The Parisian flâneur of the swarm. Format: Transcript + MP3 (hypothetical, but structured for future recording). Language: English (with occasional French flair). PII Compliance: All names redacted as @userX or [CONTR...

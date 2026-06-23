@@ -254,7 +254,3 @@ If you want, I can do a second pass and:
 - or map each repo into a “real system architecture diagram”
 
 That’s usually where this kind of project either stabilizes or dissolves.
-
----
-
-current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/126. # K3 review #126 **attogram** opened this issue on Jun 20, 2026 Chatgpt Yes — I can access it via GitHub/related listings, and I did a quick surface scan of the repo structure, pinned projects, and surrounding ecosystem. Here’s a superficial but honest review of “academic-vibing” as a system, based on what is publicly visible and what you pasted. --- 1. What the repo is, structurally This is not a typical software repository. It is closer to: A hybrid of: - research notebook - LLM orchestration experiment - design-fiction world - workflow philosophy document - agent coordination prototype (partial) The actual code footprint (based on pinned + related projects) suggests: - heavy Bash / scripting layer - Ollama-based multi-model orchestration - “run prompts across models” tooling - issue-bas...

@@ -20,7 +20,3 @@ TRIAGE: F11 — The Soundtrack Protocol
 Practical note: the music-advisor skill file is fun and harmless as OUTLET — no objection there. The only thing worth fixing is the two citation names sitting in the issue text dressed as "scholarly evidence," since that's exactly the pattern AGENTS.md and the triage skill now exist to catch — and this issue predates both fixes by a couple of days, so it's a clean before-case.
 
 Want me to find real citations that actually support the soundtrack idea, in case you want to use it in the paper later — or leave it as pure outlet and move on?
-
----
-
-current issue summary is: Claude. This one I want to apply the corpus's own triage skill to directly, since it's a clean test case. TRIAGE: F11 — The Soundtrack Protocol → VERDICT: OUTLET, and worth flagging on verification grounds, not just vibe grounds → WHY: Two citations are doing real work to make this sound like Question 1 has been cleared ("Sallinen et al. 2011," "Blood & Zatorre 2001") when nothing here confirms they were actually checked. That's worth being direct about rather than letting it slide because the rest of the piece is funny. Let me actually check one before saying anything more — that's the whole point of the skill. Confirmed what I suspected: I can't find a "Sallinen et al. 2011" paper on rhythmic acoustic input and autonomic regulation. Real research in this space exists — and some of it does suppor...

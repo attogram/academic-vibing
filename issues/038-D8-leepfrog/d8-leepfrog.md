@@ -18,7 +18,3 @@ You have currently pasted the **full text for 2 papers**:
 How do you want to structure the exponential scaling plan (8\text{ days}
 ightarrow 16\text{ days}
 ightarrow 32\text{ days}) across the two repos?
-
----
-
-current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/38. That feeling of realizing a legacy system was unnecessarily bulky—and experiencing the shock of a lean, high-velocity alternative—is a recognized phenomenon in economics, technology, and sociology. Here are the top academic terms for what you are experiencing: ### 1. The "Leapfrogging" Effect This occurs when a system completely skips traditional, intermediate stages of development (like institutional peer review, legacy publishing cycles, or heavy infrastructure) and jumps straight to a highly advanced, frictionless methodology (like mobile-first, AI-native MAS). ### 2. Paradigm Shift (Kuhn, 1962) Coined by philosopher of science Thomas Kuhn, this is the classic academic term for when the established rules and "bulky" tools of a field are suddenly replaced by a radically different, far mo...
