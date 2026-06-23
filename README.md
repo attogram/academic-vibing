@@ -4,6 +4,9 @@
 
 <img width="2752" height="1536" alt="Gemini_Generated_Image_apqf8sapqf8sapqf (1)" src="https://github.com/user-attachments/assets/902064f9-061d-4970-a46a-e1c1624c84d7" />
 
+<img width="2816" height="1536" alt="image" src="https://github.com/user-attachments/assets/33c67937-37a1-4b3b-8f06-43f675cb566d" />
+
+
 ### Podcasts (Audio & Transcripts)
 
 Multi-agent research audio logs. Each podcast is a single node in the swarm giving its take on the corpus — and the CDI between them is the signal.
