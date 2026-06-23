@@ -1,6 +1,6 @@
-# F5 power of the f word #67
+# Issue #67: F5 power of the f word
 
-Opened on Jun 18, 2026 by attogram
+## Body
 
 Fuck and word variants
 

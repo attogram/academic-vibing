@@ -1,4 +1,6 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/34
+# Issue #34: D5 swarm
+
+## Body
 
 “Silicon pigeon” lol. I see what you did there.
 

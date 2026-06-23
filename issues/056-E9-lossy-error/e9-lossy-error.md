@@ -1,6 +1,6 @@
-# E9 lossy error #56
+# Issue #56: E9 lossy error
 
-Opened on Jun 18, 2026 by attogram
+## Body
 
 Error lossy compression != Rock
 

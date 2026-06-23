@@ -17,8 +17,17 @@ This skill synchronizes the local `issues/` directory with the GitHub Issues sou
 - Python 3 (for JSON parsing and file writing)
 
 ### 3. Pull All Issues from GitHub
+
+#### Method A: GitHub CLI (Primary)
 ```bash
 gh issue list --repo attogram/academic-vibing --limit 200 --state all --json number,title,state,body,createdAt > /tmp/av_issues.json
+```
+
+#### Method B: curl Fallback (Federated/Sovereign)
+If `gh` is unavailable, use the GitHub API directly. This supports the #153 (M6) Sovereign Roadmap for headless orchestration.
+```bash
+curl -s -H "Accept: application/vnd.github.v3+json" \
+  "https://api.github.com/repos/attogram/academic-vibing/issues?state=all&per_page=100" > /tmp/av_issues_raw.json
 ```
 
 ### 4. Write Issue Files (Lossless)

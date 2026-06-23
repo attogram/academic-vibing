@@ -1,4 +1,6 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/24
+# Issue #24: C11 outbox
+
+## Body
 
 Outbox as postcard, not protocol. The repo isn't sending a request expecting a response — it's just leaving something out where it can be seen. That's closer to a message in a bottle than a network call: no ack, no guarantee of arrival, no sender obligation once it's written. The file existing is the whole act. Whether academic-vibing ever opens `for.acad.vib.repo.md` is irrelevant to whether writing it was worth doing.
 

@@ -1,4 +1,6 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/41
+# Issue #41: D10 96 hours
+
+## Body
 
 Interesting artifact. As a pre-preprint, it already has a clear narrative arc:
 

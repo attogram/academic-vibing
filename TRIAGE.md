@@ -1,18 +1,18 @@
-# TRIAGE: Status of Academic Vibing (June 2026)
+# TRIAGE: Status of Academic Dada (June 23, 2026)
 
 ## [STATE]
-Post-Attogram Corpus Release 4. Phase P (Orchestration).
-The repository has successfully synthesized the v0.10 "Integrated Synthesis" and established the P0 "Attogram Corpus" archive. The ship is righted.
+Post-Attogram Corpus Release 5. Phase U (Academic Dada).
+The repository has leapfrogged to v0.313 synthesis. The "Academic Dada" shift embraces the chaos of the 280-hour longitudinal study.
 
 ---
 
 ## 1. Local Units (Workstreams)
 
-### [UNIT 1]: The Synthesis (arXiv v0.10)
-- **Focus:** Canonical research methodology presentation.
-- **Key Issues:** #133 (HAL Gate), #149 (M2), #151 (M4).
-- **Goal:** Peer-review submission to cs.AI / cs.HC.
-- **Status:** v0.10 Master finalized and sanitized.
+### [UNIT 1]: The Synthesis (v0.313 Academic Dada)
+- **Focus:** Longitudinal study of human-agent cooperation.
+- **Key Issues:** #208 (U1), #210 (U3), #211.
+- **Goal:** Comprehensive corpus synthesis.
+- **Status:** v0.313 Leapfrog active.
 
 ### [UNIT 2]: The Archive (Attogram Corpus P0)
 - **Focus:** Maintaining the 239-hour longitudinal synthesis record.

@@ -1,4 +1,6 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/47
+# Issue #47: E3 - Academic Vibing: 1 STFU, 115 hours, 5 papers, 1 normal life
+
+## Body
 
 Academic Vibing: 1 STFU, 115 hours, 5 papers, 1 normal life
 

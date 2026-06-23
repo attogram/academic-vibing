@@ -1,4 +1,6 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/39
+# Issue #39: D9 receipts
+
+## Body
 
 Now let me get all issues to count them properly:**RECEIPT DATA CRUNCH:**
 

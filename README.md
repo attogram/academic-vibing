@@ -1,6 +1,5 @@
-~~*Academic Vibing: Structured Curiosity for Human-Agent Collaboration*~~
-
 # Academic Dada: Embracing Chaos for Human-Agent Cooperation
+### A Longitudinal Study of the Attogram Corpus
 
 <img width="1408" height="768" alt="17822056241154082729241890277084" src="https://github.com/user-attachments/assets/14e31a1e-9615-4481-ac6c-b9e07e374710" />
 
@@ -18,14 +17,15 @@
 Formal archival ground truth of human-agent synthesis.
 
 - **[v1.0 (The Archive)](issues/149-M2-p0-01/m2-p0-01.md)**
-- **Temporal Bounds:** June 11, 2026 – June 21, 2026
-- **Total Runtime:** ~239 Hours
-- **Status:** [STATE] Synthesized. Lossless.
+- **Temporal Bounds:** June 11, 2026 – June 23, 2026
+- **Total Runtime:** ~280 Hours
+- **Status:** [STATE] Synthesized. Lossless. Academic Dada.
 
 ### Podcasts (Audio & Transcripts)
 
 Multi-agent research audio logs. Each podcast is a single node in the swarm giving its take on the corpus — and the CDI between them is the signal.
 
+- **[Vol. 5 — "Academic Dada"](podcasts/5-dada/podcast.md)** (Mistral) — The leapfrog to absurdity. [EN mp3](podcasts/5-dada/academic-vibing-vol5-academic-dada.en.mp3)
 - **[Vol. 4 — "Triage, Leapfrog, and the Final Boss"](podcasts/4-triage-audit/triage-leapfrog-final-boss.en.md)** (Jules) — Decisive triage. Mythology vs. Methodology. The P1/P2 boundary. [EN mp3](podcasts/4-triage-audit/academic-vibing-vol4-triage-leapfrog-final-boss.en.mp3)
 - **[Vol. 3 — "The Open Window"](podcasts/3-open-window/podcast.md)** (GLM-5.2) — The third node breaks the consensus Vol. 1 & 2 silently formed. [EN](podcasts/3-open-window/the-open-window.en.md) / [NL](podcasts/3-open-window/the-open-window.nl.md) · [EN mp3](podcasts/3-open-window/academic-vibing-vol3-the-open-window.en.mp3) / [NL mp3](podcasts/3-open-window/academic-vibing-vol3-the-open-window.nl.mp3)
 - **[Vol. 2 — "The View From the Substrate"](podcasts/2-substrate/podcast.md)** (Gemini) — The silicon POV. Velocity is an illusion; the protocol stops humans burning out. [EN](podcasts/2-substrate/view-from-the-substrate.en.md) / [NL](podcasts/2-substrate/view-from-the-substrate.nl.md) · [EN mp3](podcasts/2-substrate/academic-vibing-vol2-the-view-from-the-substrate.en.mp3) / [NL mp3](podcasts/2-substrate/academic-vibing-vol2-the-view-from-the-substrate.nl.mp3)
@@ -33,7 +33,8 @@ Multi-agent research audio logs. Each podcast is a single node in the swarm givi
 
 ### Academic Vibing (Core Paper)
 
-- **[v0.10 (arXiv Integrated Synthesis)](papers/academic-vibing/v0.10/academic-vibing-0.10-master.combined.md)** - Stand-alone
+- **[v0.313 (Academic Dada Leapfrog)](papers/academic-vibing/v0.313/academic-dada-0.313-master.combined.md)** - Stand-alone
+- [v0.10 (arXiv Integrated Synthesis)](papers/academic-vibing/v0.10/academic-vibing-0.10-master.combined.md)
 - [v0.9](papers/academic-vibing/v0.9/academic-vibing-0.9-master.combined.md)
 - [v0.8](papers/academic-vibing/v0.8/paper.combined.md)
 - [v0.7](papers/academic-vibing/v0.7/paper.combined.md)
@@ -46,7 +47,8 @@ Multi-agent research audio logs. Each podcast is a single node in the swarm givi
 
 ### Receipts Paper
 
-- **[v0.4 (Current Receipts)](papers/receipts/v0.4/paper.combined.md)** - Stand-alone
+- **[v0.5 (Dada Receipts)](papers/receipts/v0.5/paper.combined.md)** - Stand-alone
+- [v0.4 (Current Receipts)](papers/receipts/v0.4/paper.combined.md)
 - [v0.3](papers/receipts/v0.3/5-papers-4-days.0.3.combined.md)
 - [v0.2](papers/receipts/v0.2/5-papers-4-days.0.2.combined.md)
 - [v0.1](papers/receipts/v0.1/5-papers-4-days.0.1.combined.md)
