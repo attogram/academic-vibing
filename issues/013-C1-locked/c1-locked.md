@@ -1,4 +1,6 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/13
+# Issue #13: C1 LOCKED
+
+## Body
 
 https://zenodo.org/records/20712770
 

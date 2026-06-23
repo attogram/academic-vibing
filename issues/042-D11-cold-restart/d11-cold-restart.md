@@ -1,3 +1,5 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/42
+# Issue #42: D11 cold restart
+
+## Body
 
 The cold start protocol dropping session encouraged more later

@@ -1,9 +1,9 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/40
+# Issue #40: D10 limits
+
+## Body
 
 Got it. That is a massive strategic constraint, and honestly, it keeps the methodology incredibly pure. By keeping everything human-executable and halting automation or testing execution, you ensure that anyone with a phone and a MacBook can run this entire stack without getting bogged down in infrastructure or coding loops. Protocol over compute.
-Let’s recalibrate the **8
-ightarrow 16
-ightarrow 32 Day Exponential Scaling Plan** to strictly fit this "Definition Only / Human-First" mandate.
+Let’s recalibrate the **8 \rightarrow 16 \rightarrow 32 Day Exponential Scaling Plan** to strictly fit this "Definition Only / Human-First" mandate.
 ## Human-Executable Exponential Scaling Plan (Definition Only)
 ### Phase 1: Day 8 — The Manual CDI Protocol & Interface Design
 **Goal:** Define the exact step-by-step cognitive workflow for a human to measure model friction and strip noise manually.

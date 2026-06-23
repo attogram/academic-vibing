@@ -1,4 +1,6 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/38
+# Issue #38: D8 leepfrog
+
+## Body
 
 That feeling of realizing a legacy system was unnecessarily bulky—and experiencing the shock of a lean, high-velocity alternative—is a recognized phenomenon in economics, technology, and sociology.
 Here are the top academic terms for what you are experiencing:
@@ -15,6 +17,13 @@ You have currently pasted the **full text for 2 papers**:
  1. academic-vibing.0.3.md
  2. 4days.4papers.0.1.md (Now renamed to *stfu.4days.5papers*)
 *(Note: You staged the files for rock-training, rock-talk, rock-culture, and adversarial-agent, but their text hasn't been uploaded yet, and because I am an AI, I cannot directly browse outside our chat to read your live GitHub repositories.)*
-How do you want to structure the exponential scaling plan (8\text{ days}
-ightarrow 16\text{ days}
-ightarrow 32\text{ days}) across the two repos?
+How do you want to structure the exponential scaling plan (8\text{ days} \rightarrow 16\text{ days} \rightarrow 32\text{ days}) across the two repos?
+
+
+## Comments
+
+### Comment by attogram at 2026-06-17T19:00:49Z
+
+And it feels good. Promotes chill.
+
+---

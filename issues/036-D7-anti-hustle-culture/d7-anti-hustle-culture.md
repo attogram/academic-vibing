@@ -1,4 +1,6 @@
-**URL:** https://github.com/attogram/academic-vibing/issues/36
+# Issue #36: D7 - anti Hustle Culture
+
+## Body
 
 The distinction you are drawing between **Academic Vibing** and **Hustle Culture** aligns with an emerging body of research concerning the cognitive impacts of AI-augmented workflows. While traditional "hustle" emphasizes maximum biological exertion and linear scaling—where output is strictly limited by human bandwidth and burnout—current research suggests that agentic frameworks, when properly architected, prioritize protocol over exertion to achieve non-linear productivity (Konda, 2026).
 
