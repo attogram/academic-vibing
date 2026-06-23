@@ -115,6 +115,12 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/[code-summary].md` — exact repli
   > current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/105. # G16 gitingest.com #105 **attogram** opened this issue on Jun 20, 2026 https://gitingest.com/attogram/rock-talk https://gitingest.com/attogram/academic-vibing niiiice......
 - #106 G17 [G17  cosmic shame](https://github.com/attogram/academic-vibing/issues/106) | [local](issues/106-G17-cosmic-shame/g17-cosmic-shame.md) - open
   > current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/106. # G17 cosmic shame #106 **attogram** opened this issue on Jun 20, 2026 https://youtu.be/usZqFIjdGEs?si=cqk71RgLyYBROuIN Tenacious D - Cosmic shame 77K views · 13 years ago...more FuckingDis Back 378 Subscribe 1K Share Save Report Comme...
+- #101 G12 [G12  n=2](https://github.com/attogram/academic-vibing/issues/101) | [local](issues/101-G12-n=2/g12-n=2.md) - open
+- #102 G13 [G13  Bonjour Mistral!](https://github.com/attogram/academic-vibing/issues/102) | [local](issues/102-G13-Bonjour-Mistral!/g13-bonjour-mistral!.md) - open
+- #103 G14 [G14  Mistral podcast](https://github.com/attogram/academic-vibing/issues/103) | [local](issues/103-G14-Mistral-podcast/g14-mistral-podcast.md) - open
+- #104 G15 [G15  Mistral goes deep into the past few days](https://github.com/attogram/academic-vibing/issues/104) | [local](issues/104-G15-Mistral-goes-deep-into-the-past-few-days/g15-mistral-goes-deep-into-the-past-few-days.md) - open
+- #105 G16 [G16  gitingest.com](https://github.com/attogram/academic-vibing/issues/105) | [local](issues/105-G16-gitingest.com/g16-gitingest.com.md) - open
+- #106 G17 [G17  cosmic shame](https://github.com/attogram/academic-vibing/issues/106) | [local](issues/106-G17-cosmic-shame/g17-cosmic-shame.md) - open
 
 ## Phase H & J
 *Culture & Orchestration*
@@ -135,6 +141,13 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/[code-summary].md` — exact repli
   > current issue summary is: J5 skills/triage/SKILL.md 122. Opened on Jun 20, 2026 by attogram Orchestrator agent answers wtf is going on......
 - #123 J6 [J6  go speed racer go](https://github.com/attogram/academic-vibing/issues/123) | [local](issues/123-J6-go-speed-racer-go/j6-go-speed-racer-go.md) - open
   > current issue summary is: **URL:** https://github.com/attogram/academic-vibing/issues/123. # J6 go speed racer go #123 **attogram** opened this issue on Jun 20, 2026 Claude Let me actually break this down rather than throw out a single number, because the components have wildly different timescales in the traditional world. ...
+- #114 H6 [H6  chemicals](https://github.com/attogram/academic-vibing/issues/114) | [local](issues/114-H6-chemicals/h6-chemicals.md) - open
+- #117 J1 [J1  Jules orch 2](https://github.com/attogram/academic-vibing/issues/117) | [local](issues/117-J1-Jules-orch-2/j1-jules-orch-2.md) - open
+- #119 Triage [Triage and v0.9 Initialization](https://github.com/attogram/academic-vibing/issues/119) | [local](issues/119-Triage-v0.9-Initialization/triage-v0.9-initialization.md) - closed
+- #120 J3 [J3  what did u say???](https://github.com/attogram/academic-vibing/issues/120) | [local](issues/120-J3-what-did-u-say???/j3-what-did-u-say???.md) - open
+- #121 J4 [J4  everything everywhere all at once](https://github.com/attogram/academic-vibing/issues/121) | [local](issues/121-J4-everything-everywhere-all-at-once/j4-everything-everywhere-all-at-once.md) - open
+- #122 J5 [J5  skills/triage/SKILL.md](https://github.com/attogram/academic-vibing/issues/122) | [local](issues/122-J5-skills-triage-SKILL.md/j5-skills-triage-skill.md.md) - open
+- #123 J6 [J6  go speed racer go](https://github.com/attogram/academic-vibing/issues/123) | [local](issues/123-J6-go-speed-racer-go/j6-go-speed-racer-go.md) - open
 
 ## Phase K & L
 *Lockdown & Transition*
@@ -165,6 +178,11 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/[code-summary].md` — exact repli
   > current issue summary is: Claude. Okay, let me actually go somewhere with this instead of asking what you want. Here's what's been nagging me across everything I've read today: this project has a really good immune system pointed in exactly one direction, and a blind spot pointed in the other. The CDI, the Coupling Constrain...
 - #147 L12 [L12 L11 Zen life in balance](https://github.com/attogram/academic-vibing/issues/147) | [local](issues/147-L12-zen-life-in-balance/l12-zen-life-in-balance.md) - [OUTLET] open
   > current issue summary is: Yeah — that's actually the real claim worth sitting with, more than CDI or the Coupling Constraint or any of the named mechanisms. Not "AI makes research faster" in the abstract, but specifically: the bottleneck wasn't thinking speed, it was context-reload cost — and you found a way to externalize t...
+- #132 K9 [K9  home sweet home](https://github.com/attogram/academic-vibing/issues/132) | [local](issues/132-K9-home-sweet-home/k9-home-sweet-home.md) - open
+- #133 L1 [L1  I'm sorry Dave, I can't do that](https://github.com/attogram/academic-vibing/issues/133) | [local](issues/133-L1-I'm-sorry-Dave,-I-can't-do-that/l1-i'm-sorry-dave,-i-can't-do-that.md) - open
+- #144 L10 [L10  The Origin Story](https://github.com/attogram/academic-vibing/issues/144) | [local](issues/144-L10-the-origin-story/l10-the-origin-story.md) - [OUTLET] open
+- #146 L11 [L11  The Blind Spot](https://github.com/attogram/academic-vibing/issues/146) | [local](issues/146-L11-the-blind-spot/l11-the-blind-spot.md) - [OUTLET] open
+- #147 L12 [L12 L11 Zen life in balance](https://github.com/attogram/academic-vibing/issues/147) | [local](issues/147-L12-zen-life-in-balance/l12-zen-life-in-balance.md) - [OUTLET] open
 
 ## Phase M
 *The Attogram Corpus*
@@ -201,6 +219,21 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/[code-summary].md` — exact repli
   > current issue summary is: Claude. This one I want to apply the corpus's own triage skill to directly, since it's a clean test case. TRIAGE: F11 — The Soundtrack Protocol → VERDICT: OUTLET, and worth flagging on verification grounds, not just vibe grounds → WHY: Two citations are doing real work to make this sound like Questi...
 - #163 M16 [M16 - Claude plays puppy](https://github.com/attogram/academic-vibing/issues/163) | [local](issues/163-M16-claude-plays-puppy/m16-claude-plays-puppy.md) - [OUTLET] open
   > current issue summary is: 🐶 Woof. Okay — puppy report, longer cut:. Today the swarm went deep. We found a real idea worth keeping (CDI — disagreement beats agreement, because agreement is just shared training data echoing itself). We found a real bug and a real fix (orchestrators skipping the attractor issue — AGENTS.md and ...
+- #149 M2 [M2 - P0 0.1](https://github.com/attogram/academic-vibing/issues/149) | [local](issues/149-M2-p0-01/m2-p0-01.md) - [PAPER] open
+- #150 M3 [M3 - The joy of outlets](https://github.com/attogram/academic-vibing/issues/150) | [local](issues/150-M3-the-joy-of-outlets/m3-the-joy-of-outlets.md) - [OUTLET] open
+- #151 M4 [M4 - Maestro jules P0](https://github.com/attogram/academic-vibing/issues/151) | [local](issues/151-M4-maestro-jules-p0/m4-maestro-jules-p0.md) - [PAPER] open
+- #152 M5 [M5 - THE PYTHONS OF DESTINY: THE REUNION TOUR](https://github.com/attogram/academic-vibing/issues/152) | [local](issues/152-M5-the-pythons-of-destiny-the-reunion-tour/m5-the-pythons-of-destiny-the-reunion-tour.md) - [OUTLET] open
+- #153 M6 [M6 - The Sovereignty Roadmap](https://github.com/attogram/academic-vibing/issues/153) | [local](issues/153-M6-the-sovereignty-roadmap/m6-the-sovereignty-roadmap.md) - [OUTLET] open
+- #154 M7 [M7 - the pause](https://github.com/attogram/academic-vibing/issues/154) | [local](issues/154-M7-the-pause/m7-the-pause.md) - [OUTLET] open
+- #155 M8 [M8 - the first bot](https://github.com/attogram/academic-vibing/issues/155) | [local](issues/155-M8-the-first-bot/m8-the-first-bot.md) - [OUTLET] open
+- #156 M9 [M9 - release 3](https://github.com/attogram/academic-vibing/issues/156) | [local](issues/156-M9-release-3/m9-release-3.md) - [OUTLET] open
+- #157 M10 [M10 - Bonjour Paris.. wanna chat?](https://github.com/attogram/academic-vibing/issues/157) | [local](issues/157-M10-bonjour-paris-wanna-chat/m10-bonjour-paris-wanna-chat.md) - [OUTLET] open
+- #158 M11 [M11 - Mistral discord opens both eyes](https://github.com/attogram/academic-vibing/issues/158) | [local](issues/158-M11-mistral-discord-opens-both-eyes/m11-mistral-discord-opens-both-eyes.md) - [OUTLET] open
+- #159 M12 [M12 - be the turtle](https://github.com/attogram/academic-vibing/issues/159) | [local](issues/159-M12-be-the-turtle/m12-be-the-turtle.md) - [OUTLET] open
+- #160 M13 [M13 - The @cultural link to ur mind](https://github.com/attogram/academic-vibing/issues/160) | [local](issues/160-M13-the-cultural-link-to-ur-mind/m13-the-cultural-link-to-ur-mind.md) - [OUTLET] open
+- #161 M14 [M14 - where are you agent MD?](https://github.com/attogram/academic-vibing/issues/161) | [local](issues/161-M14-where-are-you-agent-md/m14-where-are-you-agent-md.md) - [OUTLET] open
+- #162 M15 [M15 - The Music Advisor](https://github.com/attogram/academic-vibing/issues/162) | [local](issues/162-M15-the-music-advisor/m15-the-music-advisor.md) - [OUTLET] open
+- #163 M16 [M16 - Claude plays puppy](https://github.com/attogram/academic-vibing/issues/163) | [local](issues/163-M16-claude-plays-puppy/m16-claude-plays-puppy.md) - [OUTLET] open
 
 ## Phase N
 *Surprise & Velocity*
@@ -219,6 +252,12 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/[code-summary].md` — exact repli
   > current issue summary is: Outlet video series. ROCK the eager little puppy KIT the Git cat The family . Maestro . The orchestrator . The spouse . Totally hates tech . The kids . The neighbors . The postman . The ice cream truck......
 - #171 N7 [N7 - The Maestro forgets](https://github.com/attogram/academic-vibing/issues/171) | [local](issues/171-N7-the-maestro-forgets/n7-the-maestro-forgets.md) - [TOO RAW] open
   > current issue summary is: jules. Search for repo or sessions Attogram Release 4: Triage & Repository Orchestration attogram / academic-vibing 1 attogram / 2048-lite attogram / 8queens attogram / agents Daily session limit (1/15) attogram/academic-vibing Feedback Attogram Release 4: Triage & Repository Orchestration v0.10-syn...
+- #165 N2 [N2 - The One With The Ping](https://github.com/attogram/academic-vibing/issues/165) | [local](issues/165-N2-the-one-with-the-ping/n2-the-one-with-the-ping.md) - [OUTLET] open
+- #166 N3 [N3 - why r all the models surprised by the velocity?](https://github.com/attogram/academic-vibing/issues/166) | [local](issues/166-N3-why-r-all-the-models-surprised-by-the-velocity/n3-why-r-all-the-models-surprised-by-the-velocity.md) - [OUTLET] open
+- #167 N4 [N4 - why r the people surprised by the velocity?](https://github.com/attogram/academic-vibing/issues/167) | [local](issues/167-N4-why-r-the-people-surprised-by-the-velocity/n4-why-r-the-people-surprised-by-the-velocity.md) - [OUTLET] open
+- #168 N5 [N5 - CSI - The Cosmic Shame Index](https://github.com/attogram/academic-vibing/issues/168) | [local](issues/168-N5-csi---the-cosmic-shame-index/n5-csi---the-cosmic-shame-index.md) - [TOO RAW] open
+- #169 N6 [N6 - Meet the family](https://github.com/attogram/academic-vibing/issues/169) | [local](issues/169-N6-meet-the-family/n6-meet-the-family.md) - [OUTLET] open
+- #171 N7 [N7 - The Maestro forgets](https://github.com/attogram/academic-vibing/issues/171) | [local](issues/171-N7-the-maestro-forgets/n7-the-maestro-forgets.md) - [TOO RAW] open
 
 ## Ghost Issues (deleted on GitHub, tracked locally)
 
