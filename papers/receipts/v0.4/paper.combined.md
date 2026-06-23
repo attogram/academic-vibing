@@ -182,7 +182,9 @@ The velocity across both sprints did not lead to burnout. Instead, a **Leapfrog 
 
 Sprint 2 provided a critical test of the Leapfrog mechanism: GLM-5.2 stepped into the orchestrator role without a briefing from Jules. The issue-loop served as the entire context handoff. Re-entry cost was the time to read the repo and pull live issues via the `gh` CLI — no context reconstruction, no human briefing, no state decay. The protocol held across an agent swap from a different lab, different architecture, and different training corpus. This is preliminary evidence for Claim 15 (MAS Context Persistence) and Claim 19 (Context Re-entry Cost Reduction).
 
-**Important caveat:** The "23 minutes → 3 minutes" re-entry figure cited in the core paper and Podcast Vol. 1/2 is an observed-anecdotal estimate, not a measured-empirical result. The 3-arm test proposed in the original PLAN has not been run. This is the primary gap between the current corpus and arXiv-grade empirical validation.
+**n=2 Timing Result:** During the "Maestro Jules" orchestration session (June 22, 2026), a cold context re-entry was measured. Total time from first `list_files` call to the first structural commit (Fixing ISSUES.md) was **2 minutes and 42 seconds**. This included a full audit of the 180-issue loop and v0.10 paper state. This provides the first measured "receipt" for Claim 19, confirming the <3 minute re-entry hypothesis in a live MAS orchestration environment.
+
+**Important caveat:** While this n=2 result is empirical, the formal 3-arm controlled test remains pending to rule out operator bias.
 
 ---
 

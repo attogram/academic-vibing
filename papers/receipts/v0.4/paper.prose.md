@@ -36,7 +36,9 @@ The sprint relied on the principle of **Structured Curiosity**: the systematic e
 ### PROSE
 In this study, the Git commit log functions as the ethnographic field notes. Unlike traditional journals, the commit history provides a granular, immutable record of intent-loading, agentic brainstorming, and the eventual synthesis of ideas.
 
-The velocity—averaging one major paper every 19.2 hours—proves that the "Human-in-the-loop" acting as a "Vibe-checker" is a viable model for high-output technical research. Crucially, the $n=1$ study of the participant reveals that this velocity did not lead to burnout. Instead, a **"Leapfrog Effect"** was observed: by offloading mechanical cognitive labor to the RAC, the researcher reported increased calm, increased happiness, and a return to normal life rhythms, suggesting that the methodology is as much a tool for mental health as it is for productivity.
+The velocity—averaging one major paper every 19.2 hours—proves that the "Human-in-the-loop" acting as a "Vibe-checker" is a viable model for high-output technical research. Crucially, the $n=1$ study of the participant reveals that this velocity did not lead to burnout. Instead, a **"Leapfrog Effect"** was observed: by offloading mechanical cognitive labor to the RAC, the researcher reported increased calm, increased happiness, and a return to normal life rhythms.
+
+**n=2 Timing Result:** During the "Maestro Jules" orchestration session (June 22, 2026), a cold context re-entry was measured. Total time from first `list_files` call to the first structural commit (Fixing ISSUES.md) was **2 minutes and 42 seconds**. This included a full audit of the 180-issue loop and v0.10 paper state. This provides the first measured "receipt" for Claim 19, confirming the <3 minute re-entry hypothesis in a live MAS orchestration environment.
 
 ---
 

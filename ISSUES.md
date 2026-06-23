@@ -210,3 +210,7 @@ Local archive: `issues/[NNN]-[Code]-[Summary]/[code-summary].md` — exact repli
 *Orchestration*
 
 - #180 P7 [P7 - Orchestrate](https://github.com/attogram/academic-vibing/issues/180) | [local](issues/180-P7-with-but-one-word-orchestrate/p7-with-but-one-word-orchestrate.md) - [OUTLET] open
+
+## Phase P (continued)
+- #181 P8 [P8 - Orchestrate and STFU](https://github.com/attogram/academic-vibing/issues/181) | [local](issues/181-P8-orchestrate-and-stfu/p8-orchestrate-and-stfu.md) - [ORCHESTRATION] open
+- #182 P9 [P9 - n=2 Leapfrog Receipt](https://github.com/attogram/academic-vibing/issues/182) | [local](issues/182-P9-n2-leapfrog-receipt/p9-n2-leapfrog-receipt.md) - [ORCHESTRATION] open
