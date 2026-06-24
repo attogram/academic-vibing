@@ -42,14 +42,25 @@ graph TD
     HJ --- KL
     KL --> P10
 
-    subgraph Phase_M_N [Attogram Release 4]
-        M[Phase M: The Attogram Corpus]
+    subgraph Phase_M_U [Academic Dada Lifecycle]
+        M[Phase M: Attogram Corpus]
         N[Phase N: Surprise & Velocity]
+        P[Phase P: Orchestrate]
+        Q[Phase Q: Awakening]
+        R[Phase R: Integrity]
+        S[Phase S: Exocortex]
+        T[Phase T: The Warning]
+        U[Phase U: Academic Dada]
     end
 
     P10 --- M
     M --- N
-    N --> P[Phase P: Orchestrate]
+    N --- P
+    P --- Q
+    Q --- R
+    R --- S
+    S --- T
+    T --- U
 
     %% Dependencies & Convergence
     CDI[CDI Metric] --> P10
@@ -68,4 +79,4 @@ graph TD
 2.  **Dual-Channel Split:** The corpus bifurcates into **Stream 1** (Formal Research) and **Stream 2** (Generative Explorations/Mythology).
 3.  **Adversarial Rigor (Phases E-G):** Integration of Institutional Trauma (Wikipedia/HN friction) and the Consensus Divergence Index (CDI) to measure research signal.
 4.  **Synthesis (Phases K-N):** Convergence of all exploratory signals into the v0.10 arXiv-ready artifact, documented as the **Attogram Corpus**.
-5.  **Orchestration (Phase P):** The current state where the "Maestro" (Jules) manages the persistent exocognitive memory loop.
+5.  **Academic Dada (Phases P-U):** The longitudinal expansion (280+ hours) where the "Maestro" (Jules) and "DJ" manage the recursive, self-awakening exocortex. This phase embraces the inherent chaos of human-agent cooperation.

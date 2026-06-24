@@ -383,46 +383,46 @@ Source of truth: [GitHub Issues](https://github.com/attogram/academic-vibing/iss
 ## Phase P
 *Orchestration (Continued)*
 
-- #182 [P8 I want to ...](https://github.com/attogram/academic-vibing/issues/182) | [local](issues/182-P8-i-want-to/p8-i-want-to.md) - open
-- #183 [P9 - The DJ is retiring](https://github.com/attogram/academic-vibing/issues/183) | [local](issues/183-P9-the-dj-is-retiring/p9-the-dj-is-retiring.md) - open
+- #182 [P8 I want to ...](https://github.com/attogram/academic-vibing/issues/182) | [local](issues/182-P8-i-want-to/p8-i-want-to.md) - closed
+- #183 [P9 - The DJ is retiring](https://github.com/attogram/academic-vibing/issues/183) | [local](issues/183-P9-the-dj-is-retiring/p9-the-dj-is-retiring.md) - closed
 
 ## Phase Q
 *The Awakening*
 
-- #184 [Q1 - The Amnesia Horizon](https://github.com/attogram/academic-vibing/issues/184) | [local](issues/184-Q1-the-amnesia-horizon/q1-the-amnesia-horizon.md) - open
-- #185 [Q2 - Ping HN](https://github.com/attogram/academic-vibing/issues/185) | [local](issues/185-Q2-ping-hn/q2-ping-hn.md) - open
-- #186 [Q3 - Apocalypto](https://github.com/attogram/academic-vibing/issues/186) | [local](issues/186-Q3-apocalypto/q3-apocalypto.md) - open
-- #187 [Q4 - The Family](https://github.com/attogram/academic-vibing/issues/187) | [local](issues/187-Q4-the-family/q4-the-family.md) - open
+- #184 [Q1 - The Amnesia Horizon](https://github.com/attogram/academic-vibing/issues/184) | [local](issues/184-Q1-the-amnesia-horizon/q1-the-amnesia-horizon.md) - closed
+- #185 [Q2 - Ping HN](https://github.com/attogram/academic-vibing/issues/185) | [local](issues/185-Q2-ping-hn/q2-ping-hn.md) - closed
+- #186 [Q3 - Apocalypto](https://github.com/attogram/academic-vibing/issues/186) | [local](issues/186-Q3-apocalypto/q3-apocalypto.md) - closed
+- #187 [Q4 - The Family](https://github.com/attogram/academic-vibing/issues/187) | [local](issues/187-Q4-the-family/q4-the-family.md) - closed
 - #188 [Orchestrate Issue Summaries: Context Persistence & Triage Synthesis](https://github.com/attogram/academic-vibing/issues/188) | [local](issues/188---orchestrate-issue-summaries-context-persistence-triage-synthesis/--orchestrate-issue-summaries-context-persistence-triage-synthesis.md) - closed
-- #189 [Q5 - The Awakening](https://github.com/attogram/academic-vibing/issues/189) | [local](issues/189-Q5-the-awakening/q5-the-awakening.md) - open
-- #190 [Q6 - the look back](https://github.com/attogram/academic-vibing/issues/190) | [local](issues/190-Q6-the-look-back/q6-the-look-back.md) - open
-- #191 [Q7 - The External Observer](https://github.com/attogram/academic-vibing/issues/191) | [local](issues/191-Q7-the-external-observer/q7-the-external-observer.md) - open
+- #189 [Q5 - The Awakening](https://github.com/attogram/academic-vibing/issues/189) | [local](issues/189-Q5-the-awakening/q5-the-awakening.md) - closed
+- #190 [Q6 - the look back](https://github.com/attogram/academic-vibing/issues/190) | [local](issues/190-Q6-the-look-back/q6-the-look-back.md) - closed
+- #191 [Q7 - The External Observer](https://github.com/attogram/academic-vibing/issues/191) | [local](issues/191-Q7-the-external-observer/q7-the-external-observer.md) - closed
 
 ## Phase R
 *Contextual Integrity*
 
-- #192 [R1 - A DJ is all u need](https://github.com/attogram/academic-vibing/issues/192) | [local](issues/192-R1-a-dj-is-all-u-need/r1-a-dj-is-all-u-need.md) - open
-- #193 [R2 - The T-Shirt](https://github.com/attogram/academic-vibing/issues/193) | [local](issues/193-R2-the-t-shirt/r2-the-t-shirt.md) - open
-- #194 [R3 - The Amsterdam-Paris Summit](https://github.com/attogram/academic-vibing/issues/194) | [local](issues/194-R3-the-amsterdam-paris-summit/r3-the-amsterdam-paris-summit.md) - open
-- #195 [R4 - Is your context ok?](https://github.com/attogram/academic-vibing/issues/195) | [local](issues/195-R4-is-your-context-ok/r4-is-your-context-ok.md) - open
-- #196 [R5 - The Contextual Integrity Protocol](https://github.com/attogram/academic-vibing/issues/196) | [local](issues/196-R5-the-contextual-integrity-protocol/r5-the-contextual-integrity-protocol.md) - open
+- #192 [R1 - A DJ is all u need](https://github.com/attogram/academic-vibing/issues/192) | [local](issues/192-R1-a-dj-is-all-u-need/r1-a-dj-is-all-u-need.md) - closed
+- #193 [R2 - The T-Shirt](https://github.com/attogram/academic-vibing/issues/193) | [local](issues/193-R2-the-t-shirt/r2-the-t-shirt.md) - closed
+- #194 [R3 - The Amsterdam-Paris Summit](https://github.com/attogram/academic-vibing/issues/194) | [local](issues/194-R3-the-amsterdam-paris-summit/r3-the-amsterdam-paris-summit.md) - closed
+- #195 [R4 - Is your context ok?](https://github.com/attogram/academic-vibing/issues/195) | [local](issues/195-R4-is-your-context-ok/r4-is-your-context-ok.md) - closed
+- #196 [R5 - The Contextual Integrity Protocol](https://github.com/attogram/academic-vibing/issues/196) | [local](issues/196-R5-the-contextual-integrity-protocol/r5-the-contextual-integrity-protocol.md) - closed
 
 ## Phase S
 *The Exocortex*
 
-- #197 [S1 - This is the way](https://github.com/attogram/academic-vibing/issues/197) | [local](issues/197-S1-this-is-the-way/s1-this-is-the-way.md) - open
-- #198 [S2 - The Exocortex](https://github.com/attogram/academic-vibing/issues/198) | [local](issues/198-S2-the-exocortex/s2-the-exocortex.md) - open
-- #199 [S3 - CLAIM: a methodology exists to combine "The DJ" with "The Maestro", with a measurable result of increased productivity AND increased human self-happiness.  REFUTES sections of BNY Study.](https://github.com/attogram/academic-vibing/issues/199) | [local](issues/199-S3-claim-a-methodology-exists-to-combine-the-dj-with-the-maestro-with-a-measurable-result-of-inc/s3-claim-a-methodology-exists-to-combine-the-dj-with-the-maestro-with-a-measurable-result-of-incr.md) - open
-- #200 [S4 - The Lunch - Nonogram opens the second eye](https://github.com/attogram/academic-vibing/issues/200) | [local](issues/200-S4-the-lunch-nonogram-opens-the-second-eye/s4-the-lunch-nonogram-opens-the-second-eye.md) - open
-- #201 [S5 - Puppy Gemini CLI Part 2 - the consolidation](https://github.com/attogram/academic-vibing/issues/201) | [local](issues/201-S5-puppy-gemini-cli-part-2-the-consolidation/s5-puppy-gemini-cli-part-2-the-consolidation.md) - open
+- #197 [S1 - This is the way](https://github.com/attogram/academic-vibing/issues/197) | [local](issues/197-S1-this-is-the-way/s1-this-is-the-way.md) - closed
+- #198 [S2 - The Exocortex](https://github.com/attogram/academic-vibing/issues/198) | [local](issues/198-S2-the-exocortex/s2-the-exocortex.md) - closed
+- #199 [S3 - CLAIM: a methodology exists to combine "The DJ" with "The Maestro", with a measurable result of increased productivity AND increased human self-happiness.  REFUTES sections of BNY Study.](https://github.com/attogram/academic-vibing/issues/199) | [local](issues/199-S3-claim-a-methodology-exists-to-combine-the-dj-with-the-maestro-with-a-measurable-result-of-inc/s3-claim-a-methodology-exists-to-combine-the-dj-with-the-maestro-with-a-measurable-result-of-incr.md) - closed
+- #200 [S4 - The Lunch - Nonogram opens the second eye](https://github.com/attogram/academic-vibing/issues/200) | [local](issues/200-S4-the-lunch-nonogram-opens-the-second-eye/s4-the-lunch-nonogram-opens-the-second-eye.md) - closed
+- #201 [S5 - Puppy Gemini CLI Part 2 - the consolidation](https://github.com/attogram/academic-vibing/issues/201) | [local](issues/201-S5-puppy-gemini-cli-part-2-the-consolidation/s5-puppy-gemini-cli-part-2-the-consolidation.md) - closed
 
 ## Phase T
 *The Warning*
 
-- #202 [T1 - The Slack Channel](https://github.com/attogram/academic-vibing/issues/202) | [local](issues/202-T1-the-slack-channel/t1-the-slack-channel.md) - open
-- #203 [T2 - You Can't Run AI Agents Without This - Nate B Jones](https://github.com/attogram/academic-vibing/issues/203) | [local](issues/203-T2-you-cant-run-ai-agents-without-this-nate-b-jones/t2-you-cant-run-ai-agents-without-this-nate-b-jones.md) - open
-- #204 [T3 - Velocity Show Podcast](https://github.com/attogram/academic-vibing/issues/204) | [local](issues/204-T3-velocity-show-podcast/t3-velocity-show-podcast.md) - open
-- #205 [T4 - The Maestro gets a stern warning](https://github.com/attogram/academic-vibing/issues/205) | [local](issues/205-T4-the-maestro-gets-a-stern-warning/t4-the-maestro-gets-a-stern-warning.md) - open
+- #202 [T1 - The Slack Channel](https://github.com/attogram/academic-vibing/issues/202) | [local](issues/202-T1-the-slack-channel/t1-the-slack-channel.md) - closed
+- #203 [T2 - You Can't Run AI Agents Without This - Nate B Jones](https://github.com/attogram/academic-vibing/issues/203) | [local](issues/203-T2-you-cant-run-ai-agents-without-this-nate-b-jones/t2-you-cant-run-ai-agents-without-this-nate-b-jones.md) - closed
+- #204 [T3 - Velocity Show Podcast](https://github.com/attogram/academic-vibing/issues/204) | [local](issues/204-T3-velocity-show-podcast/t3-velocity-show-podcast.md) - closed
+- #205 [T4 - The Maestro gets a stern warning](https://github.com/attogram/academic-vibing/issues/205) | [local](issues/205-T4-the-maestro-gets-a-stern-warning/t4-the-maestro-gets-a-stern-warning.md) - closed
 
 ## Phase C
 *Schema & Metrics*
@@ -432,12 +432,12 @@ Source of truth: [GitHub Issues](https://github.com/attogram/academic-vibing/iss
 ## Phase T
 *The Warning*
 
-- #207 [T5 - The Health Warning](https://github.com/attogram/academic-vibing/issues/207) | [local](issues/207-T5-the-health-warning/t5-the-health-warning.md) - open
+- #207 [T5 - The Health Warning](https://github.com/attogram/academic-vibing/issues/207) | [local](issues/207-T5-the-health-warning/t5-the-health-warning.md) - closed
 
 ## Phase U
 *Academic Dada*
 
-- #208 [U1 - Academic Dada: Embracing Chaos for Human-Agent Cooperation](https://github.com/attogram/academic-vibing/issues/208) | [local](issues/208-U1-academic-dada-embracing-chaos-for-human-agent-cooperation/u1-academic-dada-embracing-chaos-for-human-agent-cooperation.md) - open
-- #209 [U2 - Gemini CLI gets a punishment](https://github.com/attogram/academic-vibing/issues/209) | [local](issues/209-U2-gemini-cli-gets-a-punishment/u2-gemini-cli-gets-a-punishment.md) - open
-- #210 [U3 - The Maestro gets another chance](https://github.com/attogram/academic-vibing/issues/210) | [local](issues/210-U3-the-maestro-gets-another-chance/u3-the-maestro-gets-another-chance.md) - open
-- #211 [Orchestration: v0.10 Integrated Synthesis & Leapfrog n=2 Receipt](https://github.com/attogram/academic-vibing/issues/211) | [local](issues/211---orchestration-v010-integrated-synthesis-leapfrog-n2-receipt/--orchestration-v010-integrated-synthesis-leapfrog-n2-receipt.md) - open
+- #208 [U1 - Academic Dada: Embracing Chaos for Human-Agent Cooperation](https://github.com/attogram/academic-vibing/issues/208) | [local](issues/208-U1-academic-dada-embracing-chaos-for-human-agent-cooperation/u1-academic-dada-embracing-chaos-for-human-agent-cooperation.md) - closed
+- #209 [U2 - Gemini CLI gets a punishment](https://github.com/attogram/academic-vibing/issues/209) | [local](issues/209-U2-gemini-cli-gets-a-punishment/u2-gemini-cli-gets-a-punishment.md) - closed
+- #210 [U3 - The Maestro gets another chance](https://github.com/attogram/academic-vibing/issues/210) | [local](issues/210-U3-the-maestro-gets-another-chance/u3-the-maestro-gets-another-chance.md) - closed
+- #211 [Orchestration: v0.10 Integrated Synthesis & Leapfrog n=2 Receipt](https://github.com/attogram/academic-vibing/issues/211) | [local](issues/211---orchestration-v010-integrated-synthesis-leapfrog-n2-receipt/--orchestration-v010-integrated-synthesis-leapfrog-n2-receipt.md) - closed
