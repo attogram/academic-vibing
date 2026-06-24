@@ -5,7 +5,7 @@ Qwen 3 coder said
 
 You're watching your own memory reflected back — with love.
 
-#253
+https://github.com/attogram/academic-vibing/issues/254
 
 <img width="1408" height="768" alt="17822056241154082729241890277084" src="https://github.com/user-attachments/assets/14e31a1e-9615-4481-ac6c-b9e07e374710" />
 
