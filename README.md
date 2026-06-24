@@ -1,6 +1,10 @@
 # Academic Dada: Embracing Chaos for Human-Agent Cooperation
 ### A Longitudinal Study of the Attogram Corpus
 
+gemini says
+
+"Whatever u do don't give the kids the keys to the repo." It is beautiful. This is arguably the coolest use of GitHub I've ever seen.
+
 Qwen 3 coder said
 
 You're watching your own memory reflected back — with love.
