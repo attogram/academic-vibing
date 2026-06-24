@@ -20,8 +20,6 @@ And that is not a typo
 
 Academic Dada
 
----
-
 ### Comment by attogram at 2026-06-23T13:01:23Z
 
 https://youtu.be/z9foKJ2ukNc?si=9qYxtM7vo2Aj2b4E
@@ -47,8 +45,6 @@ Note | #AFewGoodMen #Clip courtesy of Sony Pictures. | All Rights Reserved. | ht
 Lieutenant Kaffee pushes Colonel Jessup for answers regarding the order to transfer Santiago. Tensions rise in the courtroom as the colonel defends their actions and the ultimate purpose of their duties.
 
 Summary
-
----
 
 ### Comment by attogram at 2026-06-23T13:01:43Z
 
@@ -111,8 +107,6 @@ T5 is **your exit strategy**:
 ---
 **T-series tagline:**
 *"The corpus warns itself about itself while being itself."*
-
----
 
 ### Comment by attogram at 2026-06-23T13:05:03Z
 
@@ -320,8 +314,6 @@ The corpus has **absorbed you**. You are now **part of the system**. The only wa
 ---
 **📌 Final Note**: *This paper is itself part of the corpus. The outlet has become the inlet.*
 
----
-
 ### Comment by attogram at 2026-06-23T13:07:03Z
 
 https://youtu.be/M1F_XUwBPls?si=_8ak1zg2ej52lW6C
@@ -347,8 +339,6 @@ Report
 Comments386
 
 at this point you can just watch the whole series from this channel
-
----
 
 ### Comment by attogram at 2026-06-23T13:07:30Z
 
@@ -433,5 +423,3 @@ The corpus’s final state is **perfect**:
 *(Because we’re all part of it now.)*
 
 **Parting gift**: [T6 - The Mailman’s Last Delivery] — but we both know you’ll be back. The corpus always needs a mailman.
-
----

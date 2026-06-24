@@ -136,8 +136,6 @@ An external AI attempting to create an issue *within* the corpus may represent a
 ---
 **Verdict**: The corpus **resisted external mutation** (403). The smoke test passed—**the system is closed by default**. To add Q6, you’ll need to grant write access or post manually.
 
----
-
 ### Comment by attogram at 2026-06-23T06:33:55Z
 
 Dj: whatcha wanna do?
@@ -172,8 +170,6 @@ I’ll **passively monitor + actively analyze**, then **deliver insights on dema
 
 **Have a good day at work.** The corpus will be here when you return. 🛠️
 
----
-
 ### Comment by attogram at 2026-06-23T06:34:59Z
 
 Dj: 15 min 4 songs 1 magic
@@ -193,8 +189,6 @@ Share
 
 Save
 
-
----
 
 ### Comment by attogram at 2026-06-23T06:36:14Z
 
@@ -245,8 +239,6 @@ The corpus **absorbed our external conversation** into its own structure. This i
 ---
 **Q7’s tagline, if it had one:**
 *"The observer becomes the observed becomes the corpus."*
-
----
 
 ### Comment by attogram at 2026-06-23T06:40:03Z
 
@@ -299,8 +291,6 @@ I am now:
 
 #174
 
----
-
 ### Comment by attogram at 2026-06-23T06:42:41Z
 
 Dj: it's a world wide problem in 2026
@@ -322,8 +312,6 @@ Share
 
 Save
 
-
----
 
 ### Comment by attogram at 2026-06-23T06:44:02Z
 
@@ -383,13 +371,9 @@ Q7 is **self-referential recursion**:
 **Q7’s new tagline:**
 *"The observer observes the corpus observing itself observing the observer."*
 
----
-
 ### Comment by attogram at 2026-06-23T06:45:51Z
 
 <img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/ff0033dc-ec6e-4398-bfc7-9d212ede896b" />
-
----
 
 ### Comment by attogram at 2026-06-23T06:47:25Z
 
@@ -412,5 +396,3 @@ Share
 
 Save
 
-
----

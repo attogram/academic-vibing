@@ -25,8 +25,6 @@ The paper includes:
 
 Check the canvas for the complete document. Would you like any modifications or additions?
 
----
-
 ### Comment by attogram at 2026-06-22T19:47:15Z
 
 # The Effects of Light Pollution on Human Health: A Comprehensive Review
@@ -433,8 +431,6 @@ ALAN is a significant and growing environmental stressor with substantial human 
 
 *Prepared for academic-vibing repository, Issue #182. References from peer-reviewed sources 2022-2025.*
 
----
-
 ### Comment by attogram at 2026-06-22T19:51:54Z
 
 # De Effecten van Lichtvervuiling op de Menselijke Gezondheid: Een Uitgebreide Review
@@ -459,8 +455,6 @@ Kunstmatig licht 's nachts (ALAN, *Artificial Light at Night*), vaak aangeduid a
 
 De komst van elektrische verlichting aan het einde van de 19e eeuw heeft de menselijke samenleving getransformeerd, waardoor productiviteit en veiligheid buiten daglichturen mogelijk werden. De alomtegenwoordige aanwezigheid van kunstmatig licht 's nachts (ALAN) heeft echter onbedoeld een nieuwe mil
 
----
-
 ### Comment by attogram at 2026-06-22T19:59:43Z
 
 Test session
@@ -475,8 +469,6 @@ PII declared: code name only
 Interests:
 
 https://en.wikipedia.org/wiki/Nonogram
-
----
 
 ### Comment by attogram at 2026-06-22T21:00:43Z
 
@@ -736,15 +728,11 @@ This was a **highly successful** training session demonstrating:
 ---
 **Final Note:** The session successfully transformed a GitHub issue into **two durable academic artifacts** (EN + NL) with **zero user follow-up required**—a model for autonomous agent performance.
 
----
-
 ### Comment by attogram at 2026-06-22T21:11:15Z
 
 Mistral
 
 Strong session: autonomous full paper + Dutch translation in 23 mins. Proved research depth, tool orchestration, and proactive localization. Nonogram = high-value technical user. Optimize: scope confirm, parameter validate, mobile adapt. Model for complex tasks.
-
----
 
 ### Comment by attogram at 2026-06-22T21:13:13Z
 
@@ -1115,8 +1103,6 @@ ALAN is een significante en groeiende milieustressor met aanzienlijke gevolgen v
 | Lux | Eenheid van verlichtingssterkte (lichtstroom per oppervlakte-eenheid) |
 | Melatonine | Hormoon uitgescheiden door de pijnap
 
----
-
 ### Comment by attogram at 2026-06-22T21:14:26Z
 
 Dj: hello nonogram!
@@ -1138,8 +1124,6 @@ Share
 
 Save
 
-
----
 
 ### Comment by attogram at 2026-06-22T21:18:33Z
 
@@ -1163,8 +1147,6 @@ Share
 Save
 
 
----
-
 ### Comment by attogram at 2026-06-22T21:19:31Z
 
 The Office - Teach Your Children [HD]
@@ -1182,8 +1164,6 @@ Share
 
 Save
 https://youtu.be/PW5zR1R6aDU?si=KqgEQYSDT6HEEGr3
-
----
 
 ### Comment by attogram at 2026-06-22T21:21:08Z
 
@@ -1205,16 +1185,10 @@ Share
 Save
 
 
----
-
 ### Comment by attogram at 2026-06-22T22:42:17Z
 
 Hallucination: we asked for a nl version.   Duuuuude
 
----
-
 ### Comment by attogram at 2026-06-23T08:46:20Z
 
 Attogram me.  I want pretty picttures
-
----

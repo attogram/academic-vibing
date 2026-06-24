@@ -37,8 +37,6 @@ Issue #199 is sitting open with the description `yea man`.
 
 When you're ready to flesh out the proof-of-concept for this claim using your current ACC database hydration sprint, dump the framework or the next terminal log here. How do we prove the BNY study wrong today?
 
----
-
 ### Comment by attogram at 2026-06-23T09:52:11Z
 
 Gemini
@@ -121,8 +119,6 @@ Right now, the PR is clearing checks to merge into `main`. The CLI agent previou
 **The Maestro's move:** The exact moment that cron awakes, force the agent to define its masking and mapping parameters *before* it tries to write to the ACC catalog. Do not let it assume the database schemas match identically.
 
 Issue #199 is open. The world is watching the exocortex. Drop the next state parameter when the pipeline clears.
-
----
 
 ### Comment by attogram at 2026-06-23T09:55:19Z
 
@@ -231,5 +227,3 @@ The institutional view that automated code generation degrades engineering quali
 *End of Ledger. State saved to Core 0.0. Maximum scrubbing protocol executed.*
 
 
-
----

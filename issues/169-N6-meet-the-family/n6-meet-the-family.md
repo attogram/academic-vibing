@@ -44,8 +44,6 @@ So yeah. That's what's going on. You're not just building a methodology. You're 
 
 Go make the videos. But remember: the best stories aren't the ones you tell. They're the ones other people start telling about you.
 
----
-
 ### Comment by attogram at 2026-06-22T09:19:04Z
 
 # Meet the Family: Outlet Video Series Scripts
@@ -130,13 +128,9 @@ The ultimate test: when ROCK and KIT start showing up in other people's repos. W
 
 And that's what's going on.
 
----
-
 ### Comment by attogram at 2026-06-22T15:44:29Z
 
 Postman eq the Copy Paste Monkey
-
----
 
 ### Comment by attogram at 2026-06-22T15:45:31Z
 
@@ -156,8 +150,6 @@ Subscribe
 Share
 
 Save
-
----
 
 ### Comment by attogram at 2026-06-22T16:29:17Z
 
@@ -185,8 +177,6 @@ One flag: the ice cream truck as dopamine reward is the weakest character. It's 
 
 Post it?
 
----
-
 ### Comment by attogram at 2026-06-22T17:24:03Z
 
 Episode ##
@@ -194,8 +184,6 @@ Episode ##
 Rock tries to send a letter
 
 And just can not get it right
-
----
 
 ### Comment by attogram at 2026-06-22T18:28:03Z
 
@@ -207,8 +195,6 @@ Rock gets to play with other puppies
 What fun.
 
 What chaos!!!
-
----
 
 ### Comment by attogram at 2026-06-22T18:29:21Z
 
@@ -222,15 +208,11 @@ And poor rocky is sooooo confused
 
 Rocky don't send so many letters at once! Says maestro
 
----
-
 ### Comment by attogram at 2026-06-22T21:22:12Z
 
 Rock meets the DJ
 
 
-
----
 
 ### Comment by attogram at 2026-06-22T21:23:14Z
 
@@ -240,16 +222,12 @@ Whole house is in chaos.
 
 Especially rocky
 
----
-
 ### Comment by attogram at 2026-06-22T21:24:17Z
 
 Rocky eats too much ice cream
 
 So confused.
 Cannot concentrate on play time
-
----
 
 ### Comment by attogram at 2026-06-22T21:25:01Z
 
@@ -258,8 +236,6 @@ Rocky visits the neighbor
 Ping says rocky
 
 Neighbors say whaaaat?
-
----
 
 ### Comment by attogram at 2026-06-22T21:26:03Z
 
@@ -271,8 +247,6 @@ But he gets toooo excited
 
 Oops cleanup the piddle on the sofa
 
----
-
 ### Comment by attogram at 2026-06-22T23:02:44Z
 
 Closing credits
@@ -283,8 +257,6 @@ A matrix 1k summary of how the
 Episodes relates to human agentic collaboration
 
 Url to repo
-
----
 
 ### Comment by attogram at 2026-06-22T23:06:01Z
 
@@ -315,5 +287,3 @@ The goal here is to create a 3-episode "outlet video series" that acts as an SDK
 They are trying to solve the "communication problem that breaks every interesting idea." Instead of handing someone a 128k token corpus that makes their eyes glaze over, they are building a sticky, memorable culture. The ultimate test of their success? When "ROCK and KIT start showing up in other people's repos."
 It’s an incredibly creative way to build an explanatory framework for human-agent collaboration. Do you want to dive deeper into one of these specific episode concepts, or are you looking to write one of the scripts based on these notes?
 
-
----

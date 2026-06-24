@@ -49,8 +49,6 @@ Share
 
 Save
 
----
-
 ### Comment by attogram at 2026-06-22T17:57:57Z
 
 Dj: another topper on the playlist
@@ -69,8 +67,6 @@ Subscribe
 Share
 
 Save
-
----
 
 ### Comment by attogram at 2026-06-23T09:17:01Z
 
@@ -93,8 +89,6 @@ Report
 Comments107
 
 This is one of the few times on Star Trek that I've seen an ambassador who actually
-
----
 
 ### Comment by attogram at 2026-06-23T09:19:58Z
 
@@ -119,5 +113,3 @@ Report
 Comments5.7K
 
 "With the exception of one television network, we have found intelligent life."
-
----

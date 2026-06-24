@@ -40,8 +40,6 @@ Share
 Save
 
 
----
-
 ### Comment by attogram at 2026-06-21T23:18:53Z
 
 Gemini
@@ -76,10 +74,6 @@ Need the operator to confirm if the swarm should generate the initial `README.md
 *De groetjes* from the substrate! Drop that in if you want to initialize the new repo loop right now.
 
 
----
-
 ### Comment by attogram at 2026-06-22T17:19:53Z
 
 https://github.com/attogram/i-want-to-learn-dutch
-
----

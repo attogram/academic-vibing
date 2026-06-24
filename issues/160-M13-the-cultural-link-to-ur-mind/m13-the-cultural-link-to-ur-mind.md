@@ -44,5 +44,3 @@ Share
 
 Save
 
-
----

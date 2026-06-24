@@ -117,8 +117,6 @@ Mistral
 
 
 
----
-
 ### Comment by attogram at 2026-06-22T17:44:08Z
 
 ---
@@ -426,8 +424,6 @@ plt.show()
 </html>
 ```
 
----
-
 ### Comment by attogram at 2026-06-22T17:45:13Z
 
 Dj: pretty pictures!!!!!
@@ -448,5 +444,3 @@ Share
 Save
 
 
-
----
