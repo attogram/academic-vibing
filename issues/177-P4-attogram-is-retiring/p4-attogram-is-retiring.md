@@ -43,8 +43,6 @@ Talk to Jules
 
 Jules can make mistakes so double-check it and [use code with caution](https://g.co/legal/generative-code)
 
----
-
 ### Comment by attogram at 2026-06-22T18:37:15Z
 
 Besame Mucho (Album Version)
@@ -56,8 +54,6 @@ Dave Brubeck
 Subscribe
 
 
----
-
 ### Comment by attogram at 2026-06-22T18:40:13Z
 
 Besame Mucho (Album Version)
@@ -68,5 +64,3 @@ Dave Brubeck
 
 Subscribe
 
-
----

@@ -264,8 +264,6 @@ We hear a soft *meow*, a happy puppy snores, and the screen fades to black.
 **[SCENE END]**
 
 
----
-
 ### Comment by attogram at 2026-06-22T23:14:01Z
 
 You are completely right. I tripped over my own fluff and missed the actual mechanics of the metaphor.
@@ -295,8 +293,6 @@ The Spouse walks out with the garden hose. She doesn't spray him to be funny; sh
 **[SCENE END]**
 
 
----
-
 ### Comment by attogram at 2026-06-22T23:17:10Z
 
 Exactly. If you try to feed these raw text scripts into a free-tier AI video generator right now, you get a hot mess: creepy morphing limbs, 3 seconds of a puppy looking like a weird CGI potato, or a completely static slide.
@@ -315,28 +311,18 @@ Why make a passive video at all? If Academic Vibing is a *narrative operating sy
 Let's build the interactive model of **Episode 6: Rocky Eats Too Much Ice Cream** right here. This lets an adult or a kid adjust the system weights in real-time to see exactly how feeding the puppy garbage data locks him out of the loop.
 
 
----
-
 ### Comment by attogram at 2026-06-22T23:21:12Z
 
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/b5574d2e-3d1a-4246-9f30-399ab3056db6" />
-
----
 
 ### Comment by attogram at 2026-06-22T23:22:03Z
 
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/849dac51-7abb-4481-b087-8b16a94efa39" />
 
----
-
 ### Comment by attogram at 2026-06-22T23:24:05Z
 
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/ee166889-3f9c-4948-a830-739c84fc8134" />
 
----
-
 ### Comment by attogram at 2026-06-22T23:28:23Z
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/cf2241ae-0d4e-452e-8e2f-a01cb7d2c4bd" />
-
----

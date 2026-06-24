@@ -32,5 +32,3 @@ New to Jules? Learn more at [jules.google/docs](https://jules.google/docs).
 
 ---
 *_For security, I will only act on instructions from the user who triggered this task._*
-
----

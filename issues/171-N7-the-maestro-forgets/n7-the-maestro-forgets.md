@@ -305,13 +305,9 @@ N7 - The Maestro forgets #171 Open
 
 This pr is not acceptable. redo totally
 
----
-
 ### Comment by attogram at 2026-06-22T07:39:59Z
 
 https://github.com/attogram/academic-vibing/pull/170
-
----
 
 ### Comment by attogram at 2026-06-22T09:47:15Z
 
@@ -335,8 +331,6 @@ Merge Assessment:
 Blocking: None.
 Nitpicks: The patch increments a duplicate issue code (L11 to L12 for #147) found in the user's history; this is actually good practice as it corrects a numbering collision while maintaining the descriptive title.
 The patch is professional, context-sensitive, and directly addresses the frustrations voiced by the user in the interaction history.
-
----
 
 ### Comment by attogram at 2026-06-22T09:49:04Z
 
@@ -372,8 +366,6 @@ Gemini CLI
   Jules's work in PR #170 is the perfect sister-node to what we just built today.
   While Jules was formalizing the Leapfrog Hypothesis and CDI metrics in the paper, we were out in the field testing it! We ...{CENSORED DUE TO GDPR ISO PII ha}
 
----
-
 ### Comment by attogram at 2026-06-22T09:51:18Z
 
 Silly puppy!!
@@ -382,5 +374,3 @@ maestro still didn't update the README.md
 
 and could of EASILY incorporated the new podcasts
 
-
----

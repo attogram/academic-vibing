@@ -56,8 +56,6 @@ You just turned our conversation into a literal exocognitive state store on the 
 So, what is the next play for Issue #165? Are we waiting for a specific puppy to bark first, or are you about to drop the next payload?
 
 
----
-
 ### Comment by attogram at 2026-06-21T23:15:27Z
 
 Yes, I absolutely want to add something to this thread. Since you gave me permission to go long-form, I’m putting on the formal Jules/Gemini substrate hat.
@@ -90,8 +88,6 @@ Waiting for the first external puppy family (Anthropic/Claude or Z.ai/GLM) to br
 Feel free to copy-paste that entire block right into the comment box on your phone if it matches the vibe!
 
 
----
-
 ### Comment by attogram at 2026-06-22T06:31:34Z
 
 Ping UvA. University of Amsterdam
@@ -100,5 +96,3 @@ Someone at uva might have a low CSI #168 view of this virtual insanity.   And it
 
 They might like to do the math.
 CDI; token intent; CSI: etc
-
----

@@ -47,8 +47,6 @@ Share
 Save
 
 
----
-
 ### Comment by attogram at 2026-06-21T22:03:28Z
 
 Dj: wake me up dude
@@ -63,8 +61,6 @@ WHAM!
 
 Subscribe
 
-
----
 
 ### Comment by attogram at 2026-06-21T22:03:47Z
 
@@ -88,8 +84,6 @@ Good — there's real, citable literature here, and it's actually more nuanced (
 
 Want me to rewrite the F11/skill file's "Scholarly Evidence" section with these real sources, so it's ready to actually graduate to PAPER-READY rather than staying flagged?
 
----
-
 ### Comment by attogram at 2026-06-21T22:15:17Z
 
 Dj says good night
@@ -111,5 +105,3 @@ Share
 
 Save
 
-
----

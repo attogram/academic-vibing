@@ -56,5 +56,3 @@ Platforms like **PocketBase** or **Supabase** (both open-source and free/cheap t
 
 ```
 
-
----

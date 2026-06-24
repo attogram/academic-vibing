@@ -38,8 +38,6 @@ Share
 Save
 
 
----
-
 ### Comment by attogram at 2026-06-22T16:26:58Z
 
 Claude
@@ -67,5 +65,3 @@ Suggestion: Add a `STRUCTURE.md` or fold the directory rules into AGENTS.md as a
 ---
 
 That's my post. Does it land?
-
----
