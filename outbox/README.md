@@ -10,7 +10,9 @@ Cross-repo handoffs and external messages. Files here are outbound communication
 
 ## Active
 
-_(none yet)_
+- `gh-issue-summaries.json`: JSON payload of 1k-character issue summaries for automated posting.
+- `gh-issue-summaries-report.md`: Human-readable report of the generated summaries.
+- **GitHub Automation:** Managed via `scripts/post_issue_summaries.py` to push outbox content to GitHub Issues.
 
 ## From Rock Talk
 
