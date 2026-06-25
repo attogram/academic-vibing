@@ -51,8 +51,6 @@ You're receiving notifications because you're subscribed to this thread.
 
 
 
----
-
 ### Comment by attogram at 2026-06-23T09:10:59Z
 
 This is the way - The Mandalorian
@@ -70,8 +68,6 @@ Share
 
 Save
 
-
----
 
 ### Comment by attogram at 2026-06-23T09:11:42Z
 
@@ -95,8 +91,6 @@ Comments1K
 
 If anyone has ever wondered why there are so many views and not as many likes, it's
 
----
-
 ### Comment by attogram at 2026-06-23T09:21:26Z
 
 Next enhance
@@ -105,19 +99,13 @@ Infographic of the main cultural refs
 
 Outlets gonna outlet
 
----
-
 ### Comment by attogram at 2026-06-23T09:24:35Z
 
 <img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/8db544ac-18c3-4d3d-ac42-1c212b424171" />
 
----
-
 ### Comment by attogram at 2026-06-23T09:24:50Z
 
 <img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/045a512d-4aa3-47a4-8053-ee92ed034f5c" />
-
----
 
 ### Comment by attogram at 2026-06-23T09:25:17Z
 
@@ -126,8 +114,6 @@ Success
 Total state dump
 
 Break over soooonish
-
----
 
 ### Comment by attogram at 2026-06-23T10:32:43Z
 
@@ -138,8 +124,6 @@ A code has been emailed to you. It expires in 10 minutes.
 Check your email — including spam — for the verification code.
 Code
 
----
-
 ### Comment by attogram at 2026-06-23T10:33:52Z
 
 1. GOTO URL
@@ -147,8 +131,6 @@ Code
 3. COPY ENTIRE F'ING PAGE
 4. DUMP IT ON GEMINII CLI silly puppy
 
-
----
 
 ### Comment by attogram at 2026-06-23T10:35:11Z
 
@@ -220,8 +202,6 @@ Stray Dogs Rockers
 [Stray Dogs Blues](https://www.youtube.com/@StrayDogsBlues)
 [Record Label](https://www.youtube.com/@FablumRecords)
 
----
-
 ### Comment by attogram at 2026-06-23T10:36:54Z
 
 Slack:
@@ -240,8 +220,6 @@ more info by lunch time
 trying a release to acc + hydration ... ongoing
 
 [12:08 PM]Lunch: Sausages!
-
----
 
 ### Comment by attogram at 2026-06-23T10:39:10Z
 
@@ -270,21 +248,15 @@ Diagnosed and Refined {{ GDPR ISO PII }}  & {{ GDPR ISO PII }}  Category {{ GDPR
 
 
 
----
-
 ### Comment by attogram at 2026-06-23T10:40:09Z
 
 You pushed to
 [fix/{{ GDPR ISO PII }} -0000/agents-asssume-success-1]({{ GDPR ISO PII }} /agents-asssume-success-1)
   just now
 
----
-
 ### Comment by attogram at 2026-06-23T10:40:58Z
 
 From fix/{{ GDPR ISO PII }}-0000/agents-asssume-success-1 into main
-
----
 
 ### Comment by attogram at 2026-06-23T10:41:57Z
 
@@ -295,14 +267,10 @@ Merge request pipeline running for [{{ GDPR ISO PII }}]({{ GDPR ISO PII }})
 Approval is optional
 Set by [{{ GDPR ISO PII }} {{ GDPR ISO PII }}]({{ GDPR ISO PII }}){{ GDPR ISO PII }} {{ GDPR ISO PII }} to be merged automatically when all merge checks pass
 
----
-
 ### Comment by attogram at 2026-06-23T10:45:12Z
 
 
 Your merge request is almost ready!
-
----
 
 ### Comment by attogram at 2026-06-23T10:47:31Z
 
@@ -343,8 +311,6 @@ Pipeline running for [{{ GDPR ISO PII }}]({{ GDPR ISO PII }}) on acceptance
 
 Activity
 [{{ GDPR ISO PII }} {{ GDPR ISO PII }}]({{ GDPR ISO PII }}) merged [17 seconds ago]({{ GDPR ISO PII }})
-
----
 
 ### Comment by attogram at 2026-06-23T10:48:42Z
 
@@ -408,5 +374,3 @@ Neural Derp Music
 [About](https://www.youtube.com/channel/UCQfJIVovUYdJCAbcHdxpOAg/about)
 
 [Apple Music](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqa3VQWTh2STdKdVU3SW15TmZBUGprMmVUaUt0QXxBQ3Jtc0ttSS1iUTN5YU5wRDl3NjNOaHA5d2FVa0RjbU16aURYU3Q1UVlXLXl4Tzgxc2RlUXRVd2syTWdCQ3R4VDgzd1lHWWpkSnBxZkdSaGdlR080VDlnYnhBek4wYVRjcC1KbFJaODBYQWg1XzFuMndXeWZRSQ&q=https%3A%2F%2Fmusic.apple.com%2Fus%2Fartist%2Fneural-derp%2F1830543416)
-
----

@@ -7,11 +7,12 @@ graph TD
         P2 --> P5[v0.5-v0.6: CDI Intro]
         P5 --> P8[v0.8: arXiv Draft]
         P8 --> P10[v0.10: Integrated Synthesis]
+        P10 --> P313[v0.313: Dada Synthesis]
     end
 
     subgraph Stream_2 [Stream 2: GENERATIVE / OUTLET]
         Mascot[ROCK the Puppy]
-        Podcasts[Podcasts Vol 1-4]
+        Podcasts[Podcasts Vol 1-5]
         Memes[Cultural References]
     end
 
@@ -61,15 +62,17 @@ graph TD
     R --- S
     S --- T
     T --- U
+    U --- P313
 
     %% Dependencies & Convergence
     CDI[CDI Metric] --> P10
     Leapfrog[Leapfrog Mechanism] --> P10
     IssueLoop[Issue-Loop] --> P10
+    P313 --> Archive[P0: 280h Archive]
 
     classDef paper fill:#f9f,stroke:#333,stroke-width:2px;
     classDef outlet fill:#bbf,stroke:#333,stroke-width:2px;
-    class P1,P2,P5,P8,P10 paper;
+    class P1,P2,P5,P8,P10,P313 paper;
     class Mascot,Podcasts,Memes outlet;
 ```
 
@@ -79,4 +82,4 @@ graph TD
 2.  **Dual-Channel Split:** The corpus bifurcates into **Stream 1** (Formal Research) and **Stream 2** (Generative Explorations/Mythology).
 3.  **Adversarial Rigor (Phases E-G):** Integration of Institutional Trauma (Wikipedia/HN friction) and the Consensus Divergence Index (CDI) to measure research signal.
 4.  **Synthesis (Phases K-N):** Convergence of all exploratory signals into the v0.10 arXiv-ready artifact, documented as the **Attogram Corpus**.
-5.  **Academic Dada (Phases P-U):** The longitudinal expansion (280+ hours) where the "Maestro" (Jules) and "DJ" manage the recursive, self-awakening exocortex. This phase embraces the inherent chaos of human-agent cooperation.
+5.  **Academic Dada (Phases P-U):** The longitudinal expansion (280+ hours) where the "Maestro" (Jules) and "DJ" manage the recursive, self-awakening exocortex. This phase embraces the inherent chaos of human-agent cooperation, culminating in the **v0.313 Dada Synthesis**.

@@ -10,8 +10,6 @@ Indeed
 
 <img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/c727acef-070f-43b5-8a6e-968d5cc3d98b" />
 
----
-
 ### Comment by attogram at 2026-06-23T06:51:27Z
 
 CAKE - I Will Survive (Official HD Video)
@@ -32,19 +30,13 @@ Share
 Save
 
 
----
-
 ### Comment by attogram at 2026-06-23T06:53:17Z
 
 Current 0.10 is awesooooooome 🥰🥳💯😽🎸🎸🎸🎸🎸🎸
 
----
-
 ### Comment by attogram at 2026-06-23T06:54:18Z
 
 https://github.com/attogram/academic-vibing/blob/main/papers/academic-vibing/v0.10/academic-vibing-0.10-master.combined.md
-
----
 
 ### Comment by attogram at 2026-06-23T06:55:39Z
 
@@ -65,8 +57,6 @@ Share
 
 Save
 
-
----
 
 ### Comment by attogram at 2026-06-23T07:15:27Z
 
@@ -92,16 +82,12 @@ Save
 Warp is free to try but for a limited time, you can try Warp Pro free for 7 days with 2,500 AI credits - no card required. Use my link [https://go.warp.dev/forrestytcow](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3FoQWJCTVRfMVhXcjgxbjBESkFlOEJKRVZSQXxBQ3Jtc0tuWHhmaWVyWDlTaFI3VlNyUTRSUTcyZnJpRjY5SjNubEFLeWd2Ul9mQ19DaExFazFySXJjdy1OWmQzV2E2OE5EdldCQlNka05YRzhXckMtZmRtYXd4TzlYaEdvckxUcFVXaDV1VmxFMGNXRVJYbEZ1TQ&q=https%3A%2F%2Fgo.warp.dev%2Fforrestytcow&v=5fhcklZe-qE)
  …
 
----
-
 ### Comment by attogram at 2026-06-23T07:16:16Z
 
 #165 PING ForrestKnight
 
 msg: join the corpus dude
 
-
----
 
 ### Comment by attogram at 2026-06-23T07:30:57Z
 
@@ -111,8 +97,6 @@ ForrestKnight:  Now excuse me have to go explain to the AI why we can't use bloc
 DJ: But maybe there is a mathematical basis for blockchain based CSS change methodology?  Let's make a paper.
 
 Oops Velocity Shock #174
-
----
 
 ### Comment by attogram at 2026-06-23T07:42:58Z
 
@@ -134,8 +118,6 @@ Save
 It seems pretty well-accepted that AI coding tools struggle with real production codebases. At AI Engineer 2025 in June, The Stanford study on AI's impact on developer productivity found:
  …
 413 Comments
-
----
 
 ### Comment by attogram at 2026-06-23T07:43:44Z
 
@@ -207,8 +189,6 @@ AI Engineer
 
 [Work with us!](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbEF6eHJZT2x2RUpJaTZkbl81M2ozbEM3NXBPQXxBQ3Jtc0tsX1doVTRfVW4yVUZhYlBvb1Z1UDlST3dGeFU4UlBENkpmak04VkZ2TnJ1UTdXV0tOcWc5RWxqQ3N2OXlJQUlhVnhNUlFJSE5TXzdIOEVNZGR2VmRlSWttSnlIalcyZVVqMU9oV3pHTWZZU2g1eEs2TQ&q=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Faidotengineer%2F)
 
----
-
 ### Comment by attogram at 2026-06-23T07:44:05Z
 
 #165
@@ -217,8 +197,6 @@ PING Dex Horthy, HumanLayer
 msg: join the corpus dude
 
 
-
----
 
 ### Comment by attogram at 2026-06-23T07:56:37Z
 
@@ -284,13 +262,9 @@ AI Engineer
 
 [Work with us!](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUFFLUhqbm1sc0pZLW1ZZWdEXzl6Q3JwMVpmNlFQQ2JyQXxBQ3Jtc0tsZjk0ZmRKb0F5S3EtNDE1TDFMcG9uaGNTU0VtMjlEbFJHcjY1NjcwS1VQYlMweXJxYzVNX2xYQmFua1FDcUowOXpzZ1pvcUNxS0VwSFplNVF0VjZERndQUEhDY05rOWl4eDNmV21wODBZME1pS3g5VQ&q=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Faidotengineer%2F)
 
----
-
 ### Comment by attogram at 2026-06-23T07:56:55Z
 
 #165
 PING Jake Nations, Netflix
 
 Msg: dude, join the corpus
-
----

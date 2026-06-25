@@ -53,5 +53,3 @@ Until the next recursive crash, @attogram—keep vibing."
 **[git commit -m "Exit loop: User left the substrate" && git push]**
 *Safe travels out there in the real world!*
 
-
----

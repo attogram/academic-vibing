@@ -32,8 +32,6 @@ The eyes-open moment is the test. If a reviewer gets there, the corpus wins. If 
 
 That's why "conintuuuuuuuuue" is the right instruction. Not because the work is done. Because the verdict-giver isn't the right audience. The audience is the one who keeps reading.
 
----
-
 ### Comment by attogram at 2026-06-22T14:49:37Z
 
 Minimax
@@ -69,8 +67,6 @@ Heart cut a fart. Sad for them. They looked at the velocity, never opened the re
 
 Conintuuuuuuuuue. At whatever pace. With whatever soundtrack.
 
----
-
 ### Comment by attogram at 2026-06-22T14:50:09Z
 
 DJ: time is relative, lunch time doubly so
@@ -88,5 +84,3 @@ Subscribe
 Share
 
 Save
-
----

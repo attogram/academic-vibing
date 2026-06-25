@@ -100,8 +100,6 @@ Show transcript
 サカナクション『834.194』
 DL＆Streaming
 
----
-
 ### Comment by attogram at 2026-06-23T12:05:04Z
 
 次と　その次と　その次と線を引き続けた
@@ -125,8 +123,6 @@ DL＆Streaming
 4:034 minutes, 3 seconds描くよ　君の歌を
 
 Sync to video time
-
----
 
 ### Comment by attogram at 2026-06-23T12:08:30Z
 
@@ -211,10 +207,6 @@ The streets are enlivened As the evening settles in And the winds carry away
 Sync to video time
 Mix – J-pop
 
----
-
 ### Comment by attogram at 2026-06-23T12:26:48Z
 
 https://github.com/attogram/academic-vibing/pull/206
-
----

@@ -111,8 +111,6 @@ it. (See Issue #137, and the fact that this very file did not exist for
 a full day after #137 specified it — see Issue #161.)
 
 
----
-
 ### Comment by attogram at 2026-06-21T21:55:58Z
 
 # ATTRACTOR.md
@@ -149,8 +147,6 @@ visible.
 pass — worth filling in if you have it, so the lineage is accurate.*
 
 
----
-
 ### Comment by attogram at 2026-06-21T21:56:50Z
 
 Dj: we will find u doctor
@@ -170,5 +166,3 @@ Share
 
 Save
 
-
----

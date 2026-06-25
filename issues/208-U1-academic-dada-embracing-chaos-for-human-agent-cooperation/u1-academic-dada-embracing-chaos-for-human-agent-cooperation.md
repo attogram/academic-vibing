@@ -107,15 +107,11 @@ Mistral
 
 **Final word**: *The mailman delivers. The corpus enforces. The Dada endures.* 📬
 
----
-
 ### Comment by attogram at 2026-06-23T13:14:37Z
 
 I hereby declare
 
 Academic Dada as a title is 35 CSI
-
----
 
 ### Comment by attogram at 2026-06-23T13:16:44Z
 
@@ -128,8 +124,6 @@ Scary Pockets
 1.24M
 
 Subscribe
-
----
 
 ### Comment by attogram at 2026-06-23T13:17:44Z
 
@@ -189,12 +183,8 @@ Subscribe
 ---
 **Final Thought**: The corpus **is** the warning. The warning **is** the corpus. **We are all Breaking Bad now.** 🧪
 
----
-
 ### Comment by attogram at 2026-06-23T14:08:45Z
 
 CSI > 99 == CSI < 1
 
 because the repo is the corpus is the index is the issues is the dada
-
----

@@ -24,15 +24,11 @@ New to Jules? Learn more at [jules.google/docs](https://jules.google/docs).
 ---
 *_For security, I will only act on instructions from the user who triggered this task._*
 
----
-
 ### Comment by attogram at 2026-06-22T22:05:56Z
 
 Pull without looking
 
 Because I'm watching a movie now
-
----
 
 ### Comment by google-labs-jules[bot] at 2026-06-22T22:07:02Z
 
@@ -41,5 +37,3 @@ Because I'm watching a movie now
 > Because I'm watching a movie now
 
 Acknowledged. The Attogram Corpus is synchronized, graphed, triaged, and the v0.10 paper is narrowed to the CDI spine. Enjoy the movie.
-
----

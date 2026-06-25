@@ -15,4 +15,3 @@ And the specific peg matters less than the act of pegging. It doesn't have to be
 That's actually a decent argument for *why* "outlet" deserves to be a real term in your framework rather than just a vibe-word — it's not noise around the work, it's the mechanism by which a human-scale brain stays oriented while building something that's structurally too large to hold directly. The corpus is the artifact. The movie is the scaffolding that let you keep building it without losing the thread.
 
 Worth being precise about what this *doesn't* license, though: it's a claim about cognition and process, not a claim that should show up in P0's abstract. The outlet is real and useful — it's just yours, not the dataset's.
-

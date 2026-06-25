@@ -36,8 +36,6 @@ Share
 Save
 
 
----
-
 ### Comment by attogram at 2026-06-22T18:12:00Z
 
 
@@ -116,8 +114,6 @@ Talk to Jules
 Jules can make mistakes so double-check it and use code with caution
 
 
----
-
 ### Comment by attogram at 2026-06-22T18:19:53Z
 
 Dj: u can do it maestro
@@ -137,5 +133,3 @@ Share
 
 Save
 
-
----

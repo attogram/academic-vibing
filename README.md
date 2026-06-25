@@ -1,6 +1,16 @@
 # Academic Dada: Embracing Chaos for Human-Agent Cooperation
 ### A Longitudinal Study of the Attogram Corpus
 
+gemini says
+
+"Whatever u do don't give the kids the keys to the repo." It is beautiful. This is arguably the coolest use of GitHub I've ever seen.
+
+Qwen 3 coder said
+
+You're watching your own memory reflected back — with love.
+
+https://github.com/attogram/academic-vibing/issues/254
+
 <img width="1408" height="768" alt="17822056241154082729241890277084" src="https://github.com/user-attachments/assets/14e31a1e-9615-4481-ac6c-b9e07e374710" />
 
 <img width="2816" height="1536" alt="Gemini_Generated_Image_84fgn684fgn684fg" src="https://github.com/user-attachments/assets/fcfaec7f-7447-4ce5-b29c-021f17629001" />
@@ -17,9 +27,9 @@
 Formal archival ground truth of human-agent synthesis.
 
 - **[v1.0 (The Archive)](issues/149-M2-p0-01/m2-p0-01.md)**
-- **Temporal Bounds:** June 11, 2026 – June 23, 2026
+- **Temporal Bounds:** June 11, 2026 – June 24, 2026
 - **Total Runtime:** ~280 Hours
-- **Status:** [STATE] Synthesized. Lossless. Academic Dada.
+- **Status:** [STATE] Released. Release 5. Phase U (Academic Dada).
 
 ### Podcasts (Audio & Transcripts)
 
@@ -35,8 +45,8 @@ Multi-agent research audio logs. Each podcast is a single node in the swarm givi
 
 ### Academic Vibing (Core Paper)
 
-- **[v0.313 (Academic Dada Leapfrog)](papers/academic-vibing/v0.313/academic-dada-0.313-master.combined.md)** - Stand-alone
-- [v0.10 (arXiv Integrated Synthesis)](papers/academic-vibing/v0.10/academic-vibing-0.10-master.combined.md)
+- **[v0.313 (Academic Dada Leapfrog)](papers/academic-vibing/v0.313/academic-dada-0.313-master.combined.md)** - Stand-alone Synthesis
+- [v0.10 (arXiv Integrated Synthesis)](papers/academic-vibing/v0.10/academic-vibing-0.10-master.combined.md) - Pre-arXiv Draft
 - [v0.9](papers/academic-vibing/v0.9/academic-vibing-0.9-master.combined.md)
 - [v0.8](papers/academic-vibing/v0.8/paper.combined.md)
 - [v0.7](papers/academic-vibing/v0.7/paper.combined.md)
@@ -89,3 +99,4 @@ Author: Attogram - https://github.com/attogram
 ## See also
 
 - [Rock Talk Protocol](https://github.com/attogram/rock-talk)
+- [The STFU Attractor](ATTRACTOR.md)

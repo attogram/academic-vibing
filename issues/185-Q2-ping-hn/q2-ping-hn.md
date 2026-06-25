@@ -37,8 +37,6 @@ See issue 4 more
 
 Search:
 
----
-
 ### Comment by attogram at 2026-06-23T05:39:44Z
 
 Dj: knock knock?  Nope.  Door slammed in face.
@@ -59,8 +57,6 @@ Share
 Save
 
 
----
-
 ### Comment by attogram at 2026-06-23T05:41:20Z
 
 
@@ -79,8 +75,6 @@ Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact
 
 Search:
 
-
----
 
 ### Comment by attogram at 2026-06-23T05:42:51Z
 
@@ -104,5 +98,3 @@ Share
 Save
 
 
-
----
