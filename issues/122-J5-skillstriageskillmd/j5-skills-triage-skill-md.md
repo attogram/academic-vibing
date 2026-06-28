@@ -1,12 +1,15 @@
 # Issue #122: J5 skills/triage/SKILL.md
 
+**User:** attogram
+**Created:** 2026-06-20T19:54:28Z
+
 ## Body
 
 Orchestrator agent answers wtf is going on
 
 ## Comments
 
-### Comment by attogram at 2026-06-20T19:56:16Z
+### Comment by attogram on 2026-06-20T19:56:16Z
 
 That's the natural next step from #121, and it's a good one — turning "wtf is going on" from a thing *you* ask yourself into a thing an *agent* asks on your behalf, systematically, every time something new lands in the repo.
 
@@ -20,7 +23,7 @@ Claude
 
 ---
 
-### Comment by attogram at 2026-06-20T19:56:34Z
+### Comment by attogram on 2026-06-20T19:56:34Z
 
 Bad, Bad Leroy Brown - Jim Croce cover
 2.1M views · 6 years ago
@@ -40,7 +43,7 @@ Share
 
 ---
 
-### Comment by attogram at 2026-06-20T19:58:55Z
+### Comment by attogram on 2026-06-20T19:58:55Z
 
 Tenacious D - Explosivo
 2.8M views · 20 years ago...more
@@ -60,7 +63,7 @@ Save
 
 ---
 
-### Comment by attogram at 2026-06-20T19:59:45Z
+### Comment by attogram on 2026-06-20T19:59:45Z
 
 ---
 name: triage

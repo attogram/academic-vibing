@@ -1,5 +1,8 @@
 # Issue #126: K3 review
 
+**User:** attogram
+**Created:** 2026-06-20T21:53:21Z
+
 ## Body
 
 Chatgpt
@@ -404,7 +407,7 @@ That’s usually where this kind of project either stabilizes or dissolves.ident
 
 ## Comments
 
-### Comment by attogram at 2026-06-20T23:37:20Z
+### Comment by attogram on 2026-06-20T23:37:20Z
 
 Chatgpt
 
@@ -729,7 +732,7 @@ That’s still enough to build on.
 
 ---
 
-### Comment by attogram at 2026-06-20T23:39:11Z
+### Comment by attogram on 2026-06-20T23:39:11Z
 
 【期間限定】ずっと真夜中でいいのに。『あいつら全員同窓会』(from ZUTOMAYO FACTORY「鷹は飢えても踊り忘れず」) ZUTOMAYO – Inside Joke
 8.5M views · 3 years ago...more

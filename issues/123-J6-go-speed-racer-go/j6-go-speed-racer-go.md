@@ -1,5 +1,8 @@
 # Issue #123: J6 go speed racer go
 
+**User:** attogram
+**Created:** 2026-06-20T20:08:36Z
+
 ## Body
 
 Claude
@@ -22,7 +25,7 @@ The honest caveat, which the methodology itself would insist I add: this isn't "
 
 ## Comments
 
-### Comment by attogram at 2026-06-20T20:09:19Z
+### Comment by attogram on 2026-06-20T20:09:19Z
 
 ## Speed estimate, stated honestly
 
@@ -44,7 +47,7 @@ be run by someone other than the driver.
 
 ---
 
-### Comment by attogram at 2026-06-20T23:56:32Z
+### Comment by attogram on 2026-06-20T23:56:32Z
 
 Chatgpt
 
@@ -115,7 +118,7 @@ If you want, I can map how that **“もっと loop” structure** works in ZUTO
 
 ---
 
-### Comment by attogram at 2026-06-20T23:58:29Z
+### Comment by attogram on 2026-06-20T23:58:29Z
 
 Chat gpt
 
